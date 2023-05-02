@@ -543,6 +543,7 @@
 
 ## deep-learning 
 
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
@@ -2318,7 +2319,6 @@
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [fdorg/flashdevelop](https://github.com/fdorg/flashdevelop) - FlashDevelop is a free and open source code editor.
-- [HaxeFoundation/intellij-haxe](https://github.com/HaxeFoundation/intellij-haxe) - Haxe plugin for IntelliJ Platform based IDEs (IDEA, Android-Studio)
 - [ChrisCavs/rallax.js](https://github.com/ChrisCavs/rallax.js) - Dead simple parallax scrolling.
 - [jrebocho/vscode-random](https://github.com/jrebocho/vscode-random) - VSCode Random Extension Repository
 - [wiseNhammer/watchmen-plugin-slack](https://github.com/wiseNhammer/watchmen-plugin-slack) - 
@@ -2386,7 +2386,6 @@
 - [toniov/p-iteration](https://github.com/toniov/p-iteration) - Utilities that make array iteration easy when using async/await or Promises
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
-- [clarkbw/loopback-ds-timestamp-mixin](https://github.com/clarkbw/loopback-ds-timestamp-mixin) - A mixin to automatically generate createdAt and updatedAt Date attributes for loopback Models
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [mapbox/node-or-tools](https://github.com/mapbox/node-or-tools) - Node.js bindings for or-tools vehicle routing problems
 - [Lorti/webgl-3d-model-viewer-using-three.js](https://github.com/Lorti/webgl-3d-model-viewer-using-three.js) - WebGL 3D Model Viewer Using three.js
@@ -2446,11 +2445,9 @@
 - [gorillamania/package.json-validator](https://github.com/gorillamania/package.json-validator) - A tool/library for validating npm/node package.json files
 - [nmaggioni/Kanbanion](https://github.com/nmaggioni/Kanbanion) - A Kanban board. Simple, digital and local.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [codemix/yii2-excelexport](https://github.com/codemix/yii2-excelexport) - A utility to quickly create Excel files from query results or raw data
 - [appetizermonster/unity-packman](https://github.com/appetizermonster/unity-packman) - A tiny package dependency manager for Unity, powered by Github
 - [bladecoder/bladecoder-adventure-engine](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
-- [c006/yii2-migration-utility](https://github.com/c006/yii2-migration-utility) - Automatically writes the create tables for migrations or create tables in general. Uses MySQL
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [barbushin/javascript-errors-notifier](https://github.com/barbushin/javascript-errors-notifier) - Google Chrome and Firefox extension that notifies about JavaScritp errors by icon in address bar & popups
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
@@ -2468,7 +2465,6 @@
 - [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [latentflip/loupe](https://github.com/latentflip/loupe) - Visualizing the javascript runtime at runtime
-- [OpherV/gitflow4idea](https://github.com/OpherV/gitflow4idea) - Git Flow Integration plugin for IntelliJ
 - [matowens/ng-notify](https://github.com/matowens/ng-notify) - A simple, lightweight module for displaying notifications in your AngularJS app.
 - [eott/tajs](https://github.com/eott/tajs) - [Done] JS-based text adventure game framework
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
@@ -2479,7 +2475,6 @@
 - [sqreen/CTOSecurityChecklist](https://github.com/sqreen/CTOSecurityChecklist) - The SaaS CTO Security Checklist
 - [diogorighi/hackaton-course-builder](https://github.com/diogorighi/hackaton-course-builder) - VanHackaton Challenge: Thinkific Course Builder
 - [csprofile/Game-Right-Way](https://github.com/csprofile/Game-Right-Way) - Game created to vanhackathon - Browser game challenge
-- [mitidiero/vanhack-geniusgame-biznas](https://github.com/mitidiero/vanhack-geniusgame-biznas) - A simple genius game made for Biznas on VanHackaton
 - [outsideris/slack-invite-automation](https://github.com/outsideris/slack-invite-automation) - A tiny web application to invite a user into your slack team.
 - [gamejolt/gamejolt](https://github.com/gamejolt/gamejolt) - This is the whole frontend for Game Jolt. It powers the site and the client.
 - [shootaroo/jit-grunt](https://github.com/shootaroo/jit-grunt) - JIT(Just In Time) plugin loader for Grunt.
@@ -2607,7 +2602,6 @@
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [builtbywill/booklet](https://github.com/builtbywill/booklet) - jQuery Plugin - display web content in a flipbook
 - [kartik-v/yii2-widgets](https://github.com/kartik-v/yii2-widgets) - Collection of useful widgets for Yii Framework 2.0
-- [aws/aws-sdk-php](https://github.com/aws/aws-sdk-php) - Official repository of the AWS SDK for PHP (@awsforphp)
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [brussens/yii2-maintenance-mode](https://github.com/brussens/yii2-maintenance-mode) - Maintenance mode extension for Yii framework 2.0
 - [chunying/gaminganywhere](https://github.com/chunying/gaminganywhere) - GamingAnywhere: An Open Cloud Gaming System
@@ -2855,6 +2849,7 @@
 
 ## pytorch 
 
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
