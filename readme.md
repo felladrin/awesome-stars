@@ -148,7 +148,6 @@
 - [qt](#qt)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
-- [ratchet](#ratchet)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -329,10 +328,10 @@
 - [misterGF/CoPilot](https://github.com/misterGF/CoPilot) - Responsive Bootstrap 3 Admin Template based on AdminLTE with vue.js
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
-- [Typesetter/Typesetter](https://github.com/Typesetter/Typesetter) - Open source CMS written in PHP focused on ease of use with true WYSIWYG editing and flat-file storage.
 
 ## c 
 
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [ybootin/mp3gain.js](https://github.com/ybootin/mp3gain.js) - Analyse and Normalize MP3 file into the browser
@@ -372,6 +371,7 @@
 
 ## chrome-extension 
 
+- [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
@@ -471,6 +471,7 @@
 
 ## cpp 
 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 
 ## csharp 
@@ -904,6 +905,7 @@
 
 ## github-api 
 
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [akashraj9828/gitstats](https://github.com/akashraj9828/gitstats) - An open source github contribution analyzer
@@ -936,6 +938,7 @@
 
 ## golang 
 
+- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [thatisuday/go-cross-build](https://github.com/thatisuday/go-cross-build) - GitHub Action to build Go (Golang) modules.
@@ -1164,7 +1167,6 @@
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
-- [thaispalmer/ReduzQualidadeImg-PHPClass](https://github.com/thaispalmer/ReduzQualidadeImg-PHPClass) - Classe PHP para redução de tamanho e otimização de imagens. Com suporte a marca d'água e geração de thumbnails de tamanhos personalizados e com crop
 
 ## ios 
 
@@ -1199,6 +1201,7 @@
 
 ## javascript 
 
+- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Image Upscaling in Javascript. Increase image resolution up to 4x using Tensorflow.js.
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
@@ -1653,7 +1656,6 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [ozh/ascii-tables](https://github.com/ozh/ascii-tables) - ⚡ Quickly format table in ASCII. Great for code comments, or Github Markdown!
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [kiswa/TaskBoard](https://github.com/kiswa/TaskBoard) - A Kanban-inspired app for keeping track of things that need to get done. (Don't forget to read the Wiki page!)
@@ -1684,7 +1686,6 @@
 - [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
-- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [voithos/swiftcode](https://github.com/voithos/swiftcode) - Multiplayer, interactive, realtime typing speed game
 
 ## monitoring 
@@ -1713,7 +1714,6 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [Tinram/Database-Filler](https://github.com/Tinram/Database-Filler) - MySQL/MariaDB: populate database tables and test schema design by parsing the SQL schema file.
 - [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
-- [lincanbin/Carbon-Forum](https://github.com/lincanbin/Carbon-Forum) - A high performance open-source forum software written in PHP. Discussions Tags based with Quora/StackOverflow style.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## neovim 
@@ -1947,6 +1947,10 @@
 
 ## others 
 
+- [melodysdreamj/WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) - LLM that combines the principles of wizardLM and vicunaLM
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+- [tiaanduplessis/kill-port](https://github.com/tiaanduplessis/kill-port) - ❌ Kill the process running on given port
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
@@ -1955,7 +1959,7 @@
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [wide-video/qov](https://github.com/wide-video/qov) - 
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
@@ -2417,7 +2421,6 @@
 - [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
 - [numixproject/numix-icon-theme](https://github.com/numixproject/numix-icon-theme) - Official base icon theme from the Numix project.
 - [alibojar/Bulk-Delete-Slack-Files](https://github.com/alibojar/Bulk-Delete-Slack-Files) - Delete you Slack files in bulk
-- [til-schneider/slim-wiki](https://github.com/til-schneider/slim-wiki) - A slim wiki based on PHP and markdown
 - [MohammadYounes/AlertifyJS](https://github.com/MohammadYounes/AlertifyJS) - A javascript framework for developing pretty browser dialogs and notifications.
 - [KDE/plasma-desktop](https://github.com/KDE/plasma-desktop) - Plasma for the Desktop
 - [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
@@ -2427,7 +2430,6 @@
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [eminfedar/widgetci](https://github.com/eminfedar/widgetci) - a Cross-Platform Widget Management App. (Win/Linux/Mac)
 - [freewebapps/freewebapps.github.io](https://github.com/freewebapps/freewebapps.github.io) - Making your life easier with free web applications
-- [jiisoft/jii](https://github.com/jiisoft/jii) - Full-Stack JavaScript Framework architecture based on PHP Yii Framework v2
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
 - [skeymeulen/swangular](https://github.com/skeymeulen/swangular) - Swangular: An AngularJS wrapper for Sweet Alert 2
 - [InterativaDigital/angular-session-manager](https://github.com/InterativaDigital/angular-session-manager) - AngularJS module to make browser's LocalStorage act like SessionStorage. It clears the browser localstorage when user leaves the last tab of your website.
@@ -2446,7 +2448,6 @@
 - [assisrafael/angular-input-masks](https://github.com/assisrafael/angular-input-masks) - Opinionated input masks for AngularJS
 - [urish/angular-moment](https://github.com/urish/angular-moment) - Moment.JS directives for Angular.JS (timeago and more)
 - [hxer/docker-alpine](https://github.com/hxer/docker-alpine) - service base on alpine linux
-- [phpdocker-io/phpdocker.io](https://github.com/phpdocker-io/phpdocker.io) - PHPDocker.io website and environment (php and docker based) generator
 - [vinaygopinath/ngMeta](https://github.com/vinaygopinath/ngMeta) - Dynamic meta tags in your AngularJS single page application
 - [gorillamania/package.json-validator](https://github.com/gorillamania/package.json-validator) - A tool/library for validating npm/node package.json files
 - [nmaggioni/Kanbanion](https://github.com/nmaggioni/Kanbanion) - A Kanban board. Simple, digital and local.
@@ -2499,12 +2500,10 @@
 - [rquadling/grunt-html2js](https://github.com/rquadling/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - The AngularJS inspector pane for your browser
-- [tcdent/php-restclient](https://github.com/tcdent/php-restclient) - A generic REST API client for PHP
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [superpowers/superpowers-app](https://github.com/superpowers/superpowers-app) - :rocket: Superpowers desktop app
 - [rhiever/name-age-calculator](https://github.com/rhiever/name-age-calculator) - Analyzes a name and guesses the age range of a person with that name.
 - [Gutem/http-api-design](https://github.com/Gutem/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
-- [phpvirtualbox/phpvirtualbox](https://github.com/phpvirtualbox/phpvirtualbox) - A web interface to manage and access Virtualbox machines.
 - [bodiam/intellij-bootstrap](https://github.com/bodiam/intellij-bootstrap) - Bootstrap 3 and Bootstrap 4 plugin for IntelliJ
 - [VinceG/twitter-bootstrap-wizard](https://github.com/VinceG/twitter-bootstrap-wizard) - This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events a
 - [vitalets/x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
@@ -2522,7 +2521,6 @@
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) - Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [karma-runner/karma-jasmine](https://github.com/karma-runner/karma-jasmine) - A Karma plugin - adapter for Jasmine testing framework.
 - [dotBunny/VSCode](https://github.com/dotBunny/VSCode) - Unity Visual Studio Code Integration
-- [Kong/unirest-php](https://github.com/Kong/unirest-php) - Unirest in PHP: Simplified, lightweight HTTP client library.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
@@ -2538,14 +2536,11 @@
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [maierfelix/PokeMMO](https://github.com/maierfelix/PokeMMO) - :video_game: Pokemon MMO engine with realtime editor
 - [collingreen/chronolapse](https://github.com/collingreen/chronolapse) - Chronolapse makes it easy to record screenshots and camera captures on a schedule then combine them into timelapse videos.
-- [rafajaques/php-assistant](https://github.com/rafajaques/php-assistant) - A cross-platform desktop app for testing PHP snippets
 - [StarStudio/StarMVC](https://github.com/StarStudio/StarMVC) - A small Front-end MVC framework writen by pure javascript.
 - [kartik-v/yii2-social](https://github.com/kartik-v/yii2-social) - A Yii2 module for embedding social plugins and widgets.
 - [mindmup/legacy-mindmup](https://github.com/mindmup/legacy-mindmup) - Legacy MindMup (v1) code
-- [gabrielrcouto/php-gui](https://github.com/gabrielrcouto/php-gui) - Extensionless PHP Graphic User Interface library
 - [robcupisz/LightShafts](https://github.com/robcupisz/LightShafts) - A light shafts (volumetric shadows) effect for Unity.
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
-- [jaytaph/Transphpile](https://github.com/jaytaph/Transphpile) - PHP 7 to PHP 5.6 Transpiler
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [duiker101/Hacker-Typer](https://github.com/duiker101/Hacker-Typer) - Hacker Typer is a fun joke for every person who wants to look like a cool hacker!
@@ -2559,10 +2554,8 @@
 - [ciar4n/imagehover.css](https://github.com/ciar4n/imagehover.css) - Pure CSS Image Hover Effect Library
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
 - [tackk/cartographer](https://github.com/tackk/cartographer) - A PHP sitemap generation tool.
-- [evert/sitemap-php](https://github.com/evert/sitemap-php) - Lightweight library for generating Google sitemap XML files
 - [HubPress/hubpress.io](https://github.com/HubPress/hubpress.io) - A web application to build your blog on GitHub
 - [stevenmaguire/trello-php](https://github.com/stevenmaguire/trello-php) - A php client for consuming the Trello API
-- [pherrymason/PHP-po-parser](https://github.com/pherrymason/PHP-po-parser) - Parse Gettext *.PO files with PHP
 - [maxogden/callback-hell](https://github.com/maxogden/callback-hell) - information about async javascript programming
 - [ndee85/coa_tools](https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
 - [agentejo/mongo-lite](https://github.com/agentejo/mongo-lite) - Schemaless database on top of SQLite
@@ -2570,7 +2563,6 @@
 - [PapersPleaseLoc/PapersPleaseLoc.github.io](https://github.com/PapersPleaseLoc/PapersPleaseLoc.github.io) - Papers Please Localization Tool
 - [serghey-rodin/vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
 - [rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary](https://github.com/rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary) - IntelliJ Portuguese-Brazil Dictionary
-- [sinergi/php-browser-detector](https://github.com/sinergi/php-browser-detector) - Browser, Operating System (OS), Device, and Language Detection PHP Library
 - [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box) - Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [Shifrin/yii2-noty](https://github.com/Shifrin/yii2-noty) - Yii widget for Noty jQuery notification plugin
@@ -2579,7 +2571,6 @@
 - [SimonOmega/UOPatchServer](https://github.com/SimonOmega/UOPatchServer) - A Python Script that provides a server connection for UOPatch.exe.  This allows you to manually apply your RTPacth files to the UO Client.
 - [maxogden/javascript-editor](https://github.com/maxogden/javascript-editor) - codemirror + esprima powered html5 javascript editor component
 - [superpowers/superpowers-game](https://github.com/superpowers/superpowers-game) - :video_game: Make 2D and 3D games in live collaboration with Superpowers
-- [VerbalExpressions/PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - PHP Regular expressions made easy
 - [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 - [superpowers/superpowers-web](https://github.com/superpowers/superpowers-web) - :globe_with_meridians: Make static websites in live collaboration with Superpowers
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
@@ -2590,7 +2581,6 @@
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [runuo/runuo](https://github.com/runuo/runuo) - RunUO
-- [TiagoGouvea/PHPGamification](https://github.com/TiagoGouvea/PHPGamification) - GenGamification - Generic gamification PHP framework
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [jackrugile/placeholdem](https://github.com/jackrugile/placeholdem) - Placeholder Caret Animation
 - [north/north](https://github.com/north/north) - Design and development standards to align and guide your project.
@@ -2611,8 +2601,6 @@
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
 - [brussens/yii2-maintenance-mode](https://github.com/brussens/yii2-maintenance-mode) - Maintenance mode extension for Yii framework 2.0
 - [chunying/gaminganywhere](https://github.com/chunying/gaminganywhere) - GamingAnywhere: An Open Cloud Gaming System
-- [vindi/vindi-php](https://github.com/vindi/vindi-php) - SDK PHP para a API de Recorrência da Vindi
-- [coduo/php-humanizer](https://github.com/coduo/php-humanizer) - Humanize values that are readable only for developers.
 - [whackashoe/antimoderate](https://github.com/whackashoe/antimoderate) - The progressive image loading library for great good!
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
 - [sindresorhus/multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser
@@ -2620,14 +2608,12 @@
 - [leobetosouza/bons-front-enders](https://github.com/leobetosouza/bons-front-enders) - Um guia de como contratar bons desenvolvedores front-end e como front-enders podem achar bons lugares para trabalhar.
 - [camsong/chrome-github-mate](https://github.com/camsong/chrome-github-mate) - Chrome extension to make single file download effortless and with more features
 - [codrops/RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
-- [phpback/phpback](https://github.com/phpback/phpback) - PHPBack is an open source feedback system
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
 - [es-analysis/plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 - [anvaka/pm](https://github.com/anvaka/pm) - package managers visualization
 - [JacksonTian/fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-- [michelf/php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 - [mozilla/BrowserQuest](https://github.com/mozilla/BrowserQuest) - A HTML5/JavaScript multiplayer game experiment
 - [florentpoujol/superpowers-game-ftext-plugin](https://github.com/florentpoujol/superpowers-game-ftext-plugin) - Generic text asset for Superpowers, the extensible HTML5 2D+3D game engine.
 - [florentpoujol/superpowers-game-flang-plugin](https://github.com/florentpoujol/superpowers-game-flang-plugin) - Easy localization for Superpowers, the extensible HTML5 2D+3D game engine.
@@ -2636,7 +2622,6 @@
 - [joewalnes/reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
 - [rstaib/jquery-steps](https://github.com/rstaib/jquery-steps) - A powerful jQuery wizard plugin that supports accessibility and HTML5.
 - [vrana/JsShrink](https://github.com/vrana/JsShrink) - Remove spaces and comments from JavaScript code (available in PHP and JavaScript)
-- [lavoiesl/php-benchmark](https://github.com/lavoiesl/php-benchmark) - Tool to compare different functions in PHP
 - [InterativaDigital/yii2-adminer-module](https://github.com/InterativaDigital/yii2-adminer-module) - Adminer module for Yii Framework 2 for database management.
 - [InterativaDigital/bitbucket-bulk-add-webhook](https://github.com/InterativaDigital/bitbucket-bulk-add-webhook) - PHP script to add a specific webhook to all bitbucket account repositories at once. Can be used with a cron job to keep them up-to-date.
 - [florentpoujol/superpowers-game-dom-plugin](https://github.com/florentpoujol/superpowers-game-dom-plugin) - Define the DOM in Superpowers, the extensible HTML5 2D+3D game engine.
@@ -2750,24 +2735,19 @@
 - [gumlet/php-image-resize](https://github.com/gumlet/php-image-resize) - PHP library to resize, scale and crop images. Cloud solution available at:
 - [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php) - 🌐 Free Google Translate API PHP Package. Translates totally free of charge.
 - [tpunt/PHP7-Reference](https://github.com/tpunt/PHP7-Reference) - An overview of the features, changes, and backward compatibility breakages in PHP 7
-- [lincanbin/Carbon-Forum](https://github.com/lincanbin/Carbon-Forum) - A high performance open-source forum software written in PHP. Discussions Tags based with Quora/StackOverflow style.
 - [esperecyan/url](https://github.com/esperecyan/url) - Makes the algorithms and APIs defined by URL Standard (replaces RFC 3986 and RFC 3987) available on PHP. / URL Standard (RFC 3986、RFC 3987 を置き換える Web 標準仕様) で定義されているアルゴリズム、および API を PHP から利用できるようにします。
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
 - [Ph3nol/NotificationPusher](https://github.com/Ph3nol/NotificationPusher) - Standalone PHP library for easy devices notifications push.
-- [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool.
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 - [mikecao/flight](https://github.com/mikecao/flight) - An extensible micro-framework for PHP
-- [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 - [fire015/flintstone](https://github.com/fire015/flintstone) - A key/value database store using flat files for PHP.
 - [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [vinkla/hashids](https://github.com/vinkla/hashids) - A small PHP library to generate YouTube-like ids from numbers. Use it when you don't want to expose your database ids to the user.
-- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
-- [thaispalmer/ReduzQualidadeImg-PHPClass](https://github.com/thaispalmer/ReduzQualidadeImg-PHPClass) - Classe PHP para redução de tamanho e otimização de imagens. Com suporte a marca d'água e geração de thumbnails de tamanhos personalizados e com crop
 - [jamiebicknell/Thumb](https://github.com/jamiebicknell/Thumb) - A simple, local image only, thumbnail generation script written in PHP
 - [bramus/router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
@@ -2875,10 +2855,6 @@
 ## raspberry-pi 
 
 - [131/h264-live-player](https://github.com/131/h264-live-player) - A live h264 player for the browser (ideal for raspberrypi / raspicam )
-
-## ratchet 
-
-- [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet) - Asynchronous WebSocket server
 
 ## react 
 
@@ -3411,7 +3387,6 @@
 - [developit/oss.ninja](https://github.com/developit/oss.ninja) - 👩‍⚖️ Dynamic licenses for your projects - no more LICENSE.txt!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
-- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 
 ## windows 
