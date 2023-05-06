@@ -1585,6 +1585,7 @@
 
 ## machine-learning 
 
+- [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4 and FP16 inference on CPU for RWKV language model
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
@@ -1947,6 +1948,9 @@
 
 ## others 
 
+- [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
+- [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
+- [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
 - [melodysdreamj/WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) - LLM that combines the principles of wizardLM and vicunaLM
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
