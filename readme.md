@@ -199,6 +199,7 @@
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [oguzeroglu/ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - A 3D engine for the Web
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 
 ## ai 
 
@@ -863,6 +864,7 @@
 
 ## github 
 
+- [stefanbuck/jumpcat](https://github.com/stefanbuck/jumpcat) - A command palette for GitHub (browser extension)
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [lvarayut/github-file-icons](https://github.com/lvarayut/github-file-icons) - 🍭 Chrome extension for displaying file icons on Github.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
@@ -1902,6 +1904,7 @@
 
 ## others 
 
+- [KennethSundqvist/key-jump-browser-extension](https://github.com/KennethSundqvist/key-jump-browser-extension) - Easier keyboard navigation. No mouse needed to click on links and stuff.
 - [nedbat/dinghy](https://github.com/nedbat/dinghy) - A GitHub activity digest tool
 - [jessetane/queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
