@@ -1188,6 +1188,7 @@
 
 ## javascript 
 
+- [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [xenova/unarchiver.js](https://github.com/xenova/unarchiver.js) - The simple, all-in-one, JavaScript unarchiver that runs in your browser!
@@ -1366,6 +1367,7 @@
 - [transient-jonas/resize-cli](https://github.com/transient-jonas/resize-cli) - Terminal client to resize images keeping the aspect ratio
 - [totaljs/helpdesk](https://github.com/totaljs/helpdesk) - HelpDesk open-source web applications for free for everyone. Download and use it!
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [pillarjs/multiparty](https://github.com/pillarjs/multiparty) - A node.js module for parsing multipart-form data requests which supports streams2
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [NewbranLTD/git-webhook-ci](https://github.com/NewbranLTD/git-webhook-ci) - A Git (github/gitee) webhook callback server to do stuff e.g. fetch new code (poor man CI)
@@ -1737,6 +1739,7 @@
 - [typicode/please-upgrade-node](https://github.com/typicode/please-upgrade-node) - :information_desk_person: Show a message to your users to upgrade Node instead of a stacktrace
 - [totaljs/helpdesk](https://github.com/totaljs/helpdesk) - HelpDesk open-source web applications for free for everyone. Download and use it!
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -1744,6 +1747,7 @@
 
 ## nodejs 
 
+- [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [dakenf/stable-diffusion-nodejs](https://github.com/dakenf/stable-diffusion-nodejs) - GPU-accelerated javascript runtime for StableDiffusion. Uses modified ONNX runtime to support GPU acceleration.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
@@ -1823,6 +1827,7 @@
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [adaltas/node-http-status](https://github.com/adaltas/node-http-status) - Utility to interact with HTTP status code in Node.js
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [pillarjs/multiparty](https://github.com/pillarjs/multiparty) - A node.js module for parsing multipart-form data requests which supports streams2
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [NewbranLTD/git-webhook-ci](https://github.com/NewbranLTD/git-webhook-ci) - A Git (github/gitee) webhook callback server to do stuff e.g. fetch new code (poor man CI)
@@ -1904,6 +1909,7 @@
 
 ## others 
 
+- [gregsdennis/dependencies-action](https://github.com/gregsdennis/dependencies-action) - A GitHub Action that enforces PR dependencies
 - [KennethSundqvist/key-jump-browser-extension](https://github.com/KennethSundqvist/key-jump-browser-extension) - Easier keyboard navigation. No mouse needed to click on links and stuff.
 - [nedbat/dinghy](https://github.com/nedbat/dinghy) - A GitHub activity digest tool
 - [jessetane/queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency
@@ -2373,7 +2379,6 @@
 - [scriptcs/scriptcs](https://github.com/scriptcs/scriptcs) - Write C# apps with a text editor, nuget and the power of Roslyn!
 - [johno/random-hex-color](https://github.com/johno/random-hex-color) - Generate a random hex color
 - [toniov/p-iteration](https://github.com/toniov/p-iteration) - Utilities that make array iteration easy when using async/await or Promises
-- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [mapbox/node-or-tools](https://github.com/mapbox/node-or-tools) - Node.js bindings for or-tools vehicle routing problems
