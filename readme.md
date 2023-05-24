@@ -693,6 +693,7 @@
 
 ## eslint 
 
+- [DukeLuo/eslint-plugin-check-file](https://github.com/DukeLuo/eslint-plugin-check-file) - ESLint rules for consistent filename and folder. Allows you to enforce a consistent naming pattern for the filename and folder.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -957,7 +958,6 @@
 
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -1189,6 +1189,7 @@
 
 ## javascript 
 
+- [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -1451,7 +1452,6 @@
 
 ## json 
 
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 - [sindresorhus/strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -1749,7 +1749,7 @@
 ## nodejs 
 
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
-- [dakenf/stable-diffusion-nodejs](https://github.com/dakenf/stable-diffusion-nodejs) - GPU-accelerated javascript runtime for StableDiffusion. Uses modified ONNX runtime to support GPU acceleration.
+- [dakenf/stable-diffusion-nodejs](https://github.com/dakenf/stable-diffusion-nodejs) - GPU-accelerated javascript runtime for StableDiffusion. Uses modified ONNX runtime to support CUDA and DirectML.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [BackendStack21/fast-gateway](https://github.com/BackendStack21/fast-gateway) - Fast-gateway is an easy to use Node.js API gateway framework built to handle large scale API traffic with great performance and scalability. Written with JavaScript, it is a framework for the masses!
@@ -1758,7 +1758,6 @@
 - [BackendStack21/restana](https://github.com/BackendStack21/restana) - Restana is a lightweight and fast Node.js framework for building RESTful APIs.
 - [peers/peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
-- [sindresorhus/on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
@@ -1910,6 +1909,9 @@
 
 ## others 
 
+- [Jyny/New-Tab-with-chrome-apps](https://github.com/Jyny/New-Tab-with-chrome-apps) - New Tab with chrome apps
+- [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr) - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
+- [endel/msgpack-benchmark](https://github.com/endel/msgpack-benchmark) - This repository aims to benchmark each msgpack implementation for JavaScript.
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [gregsdennis/dependencies-action](https://github.com/gregsdennis/dependencies-action) - A GitHub Action that enforces PR dependencies
@@ -2842,7 +2844,6 @@
 ## react 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [essserrr/crt-terminal](https://github.com/essserrr/crt-terminal) - Retro styled terminal shell
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - A simple peer-to-peer chat app that is serverless, decentralized, and ephemeral
@@ -3144,9 +3145,8 @@
 
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
-- [dakenf/stable-diffusion-nodejs](https://github.com/dakenf/stable-diffusion-nodejs) - GPU-accelerated javascript runtime for StableDiffusion. Uses modified ONNX runtime to support GPU acceleration.
+- [dakenf/stable-diffusion-nodejs](https://github.com/dakenf/stable-diffusion-nodejs) - GPU-accelerated javascript runtime for StableDiffusion. Uses modified ONNX runtime to support CUDA and DirectML.
 - [tamino-martinius/node-ts-dedent](https://github.com/tamino-martinius/node-ts-dedent) - TypeScript package which smartly trims and strips indentation from multi-line strings
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 cleye — The intuitive & typed CLI development tool for Node.js
 - [essserrr/crt-terminal](https://github.com/essserrr/crt-terminal) - Retro styled terminal shell
