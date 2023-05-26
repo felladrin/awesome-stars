@@ -359,6 +359,7 @@
 
 ## chrome-extension 
 
+- [chinchang/loremizer](https://github.com/chinchang/loremizer) - lorem ipsum-izes any web page
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -957,6 +958,7 @@
 
 ## hacktoberfest 
 
+- [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
@@ -1190,6 +1192,7 @@
 
 ## javascript 
 
+- [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [Bogdan-Lyashenko/js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) - js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
@@ -1599,7 +1602,6 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-- [DanielStormApps/Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
@@ -1750,6 +1752,7 @@
 
 ## nodejs 
 
+- [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [webtorrent/webtorrent-hybrid](https://github.com/webtorrent/webtorrent-hybrid) - WebTorrent (with WebRTC support in Node.js)
 - [dakenf/stable-diffusion-nodejs](https://github.com/dakenf/stable-diffusion-nodejs) - GPU-accelerated javascript runtime for StableDiffusion. Uses modified ONNX runtime to support CUDA and DirectML.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1882,6 +1885,7 @@
 
 ## objective-c 
 
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [strongbox-password-safe/Strongbox](https://github.com/strongbox-password-safe/Strongbox) - A KeePass/Password Safe Client for iOS and OS X
 
@@ -1911,6 +1915,8 @@
 
 ## others 
 
+- [arenasys/stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit) - A Multipurpose toolkit for managing, editing and creating models.
+- [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [AvetisDN/tokyo-dark-theme](https://github.com/AvetisDN/tokyo-dark-theme) - 
 - [gamestdio/pixi-virtual-joystick](https://github.com/gamestdio/pixi-virtual-joystick) - 🕹 Virtual Touch Joystick for pixi.js
 - [Jyny/New-Tab-with-chrome-apps](https://github.com/Jyny/New-Tab-with-chrome-apps) - New Tab with chrome apps
@@ -1953,7 +1959,7 @@
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [wide-video/qov](https://github.com/wide-video/qov) - 
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
@@ -2282,8 +2288,6 @@
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [sfninja/thetool](https://github.com/sfninja/thetool) - thetool is a CLI tool to capture different cpu, memory and other profiles for your node app in Chrome DevTools friendly format
 - [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
-- [petrocket/spacescape](https://github.com/petrocket/spacescape) - 
-- [thlorenz/v8-perf](https://github.com/thlorenz/v8-perf) - ⏱️ Notes and resources related to v8 and thus Node.js performance
 - [nbluis/static-server](https://github.com/nbluis/static-server) - A simple static server written in node.js
 - [LeaVerou/css3patterns](https://github.com/LeaVerou/css3patterns) - The popular CSS3 patterns gallery, now on Github :)
 - [xem/MiniSoundEditor](https://github.com/xem/MiniSoundEditor) - 
@@ -2293,7 +2297,6 @@
 - [xem/miniWebRTC](https://github.com/xem/miniWebRTC) - smallest webRTC engine
 - [mbitsnbites/soundbox](https://github.com/mbitsnbites/soundbox) - SoundBox is an HTML5 synth music tracker/editor, suitable for creating music for small JavaScript demos (4K / 8K).
 - [gregtillbrook/parcel-plugin-bundle-visualiser](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents
-- [wavded/humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system
 - [chrisdavies/eev](https://github.com/chrisdavies/eev) - A tiny, fast, zero-dependency event emitter
 - [rezoner/playground](https://github.com/rezoner/playground) - Playground.js is a framework for your javascript based games. It gives you out-of-box access to essentials like mouse, keyboard, sound and well designed architecture that you can expand to your needs.
 - [kevinroast/phoria.js](https://github.com/kevinroast/phoria.js) - JavaScript library for simple 3D graphics and visualisation on a HTML5 canvas 2D renderer. It does not use WebGL. Works on all HTML5 browsers, including desktop, iOS and Android.
@@ -2369,7 +2372,6 @@
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [npm/ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
-- [kushalpandya/notus](https://github.com/kushalpandya/notus) - Yet another JavaScript pop-up notification library for the web.
 - [limikael/PixiTextInput](https://github.com/limikael/PixiTextInput) - Text input field for pixi.js
 - [philidem/use-strict-cli](https://github.com/philidem/use-strict-cli) - Command to add or remove "use strict" from all JavaScript files within directory
 - [ludviglundgren/vscode-stockholm-theme](https://github.com/ludviglundgren/vscode-stockholm-theme) - A theme for Visual Studio Code inspired by Sandbox.io.
@@ -2414,7 +2416,6 @@
 - [keeferrourke/capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze. Designed to pair well with my icon pack, La Capitaine.
 - [numixproject/numix-icon-theme](https://github.com/numixproject/numix-icon-theme) - Official base icon theme from the Numix project.
 - [alibojar/Bulk-Delete-Slack-Files](https://github.com/alibojar/Bulk-Delete-Slack-Files) - Delete you Slack files in bulk
-- [MohammadYounes/AlertifyJS](https://github.com/MohammadYounes/AlertifyJS) - A javascript framework for developing pretty browser dialogs and notifications.
 - [KDE/plasma-desktop](https://github.com/KDE/plasma-desktop) - Plasma for the Desktop
 - [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
@@ -2449,7 +2450,6 @@
 - [bladecoder/bladecoder-adventure-engine](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [barbushin/javascript-errors-notifier](https://github.com/barbushin/javascript-errors-notifier) - Google Chrome and Firefox extension that notifies about JavaScritp errors by icon in address bar & popups
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
 - [alexandretok/easy-ionic2-calendar](https://github.com/alexandretok/easy-ionic2-calendar) - 
 - [kaxi1993/canvas-to-image](https://github.com/kaxi1993/canvas-to-image) - Save Canvas as Image
@@ -2465,7 +2465,6 @@
 - [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [latentflip/loupe](https://github.com/latentflip/loupe) - Visualizing the javascript runtime at runtime
-- [matowens/ng-notify](https://github.com/matowens/ng-notify) - A simple, lightweight module for displaying notifications in your AngularJS app.
 - [eott/tajs](https://github.com/eott/tajs) - [Done] JS-based text adventure game framework
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [UnityEQ/UnityEQWebGL](https://github.com/UnityEQ/UnityEQWebGL) - WebGLClient: Unity3d & EQEMU
@@ -2558,7 +2557,6 @@
 - [rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary](https://github.com/rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary) - IntelliJ Portuguese-Brazil Dictionary
 - [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box) - Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [Shifrin/yii2-noty](https://github.com/Shifrin/yii2-noty) - Yii widget for Noty jQuery notification plugin
 - [sapegin/social-likes](https://github.com/sapegin/social-likes) - Beautiful social “like” buttons with counters for jQuery.
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [SimonOmega/UOPatchServer](https://github.com/SimonOmega/UOPatchServer) - A Python Script that provides a server connection for UOPatch.exe.  This allows you to manually apply your RTPacth files to the UO Client.
@@ -2657,7 +2655,6 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
 - [mattg888/GCM-PHP-Server-Push-Message](https://github.com/mattg888/GCM-PHP-Server-Push-Message) - GCM PHP Push Message
-- [thaispalmer/phonegap-interativapush](https://github.com/thaispalmer/phonegap-interativapush) - App para testes de notificações push
 - [flot/flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
 - [rawswift/jixedbar](https://github.com/rawswift/jixedbar) - Official mirror of jixedbar 0.0.5 (branch/latest)
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
@@ -2724,7 +2721,6 @@
 - [tpunt/PHP7-Reference](https://github.com/tpunt/PHP7-Reference) - An overview of the features, changes, and backward compatibility breakages in PHP 7
 - [esperecyan/url](https://github.com/esperecyan/url) - Makes the algorithms and APIs defined by URL Standard (replaces RFC 3986 and RFC 3987) available on PHP. / URL Standard (RFC 3986、RFC 3987 を置き換える Web 標準仕様) で定義されているアルゴリズム、および API を PHP から利用できるようにします。
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
-- [Ph3nol/NotificationPusher](https://github.com/Ph3nol/NotificationPusher) - Standalone PHP library for easy devices notifications push.
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool.
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
@@ -2943,6 +2939,7 @@
 
 ## ruby 
 
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects
 - [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
@@ -3087,7 +3084,6 @@
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [DanielStormApps/Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center.
 
 ## swiftui 
 
