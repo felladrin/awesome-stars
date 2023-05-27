@@ -472,6 +472,7 @@
 
 ## css 
 
+- [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -1041,15 +1042,12 @@
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [loopbackio/loopback.io](https://github.com/loopbackio/loopback.io) - LoopBack project site - now with documentation!
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-- [yiisoft/yii2-app-advanced](https://github.com/yiisoft/yii2-app-advanced) - Yii 2.0 Advanced Application Template
-- [Insolita/yii2-migrik](https://github.com/Insolita/yii2-migrik) - Yii2 Gii-tools for create migration files
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
@@ -1224,7 +1222,7 @@
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 - [Rabios/Pancake](https://github.com/Rabios/Pancake) - Lightweight, Fast, Easy-to-use HTML5 2D game framework!
 - [IceCreamYou/MainLoop.js](https://github.com/IceCreamYou/MainLoop.js) - Provides a well-constructed main loop useful for JavaScript games and other animated or time-dependent applications.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [deoostfrees/Parvus](https://github.com/deoostfrees/Parvus) - An accessible, open-source image lightbox with no dependencies.
 - [jonrandy/metho](https://github.com/jonrandy/metho) - A new method for methods
@@ -1235,7 +1233,6 @@
 - [nicoespeon/abracadabra](https://github.com/nicoespeon/abracadabra) - Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [akashraj9828/gitstats](https://github.com/akashraj9828/gitstats) - An open source github contribution analyzer
 - [caseyscarborough/github-activity](https://github.com/caseyscarborough/github-activity) - A widget for displaying GitHub activity for a user.
@@ -1765,7 +1762,7 @@
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
@@ -1870,7 +1867,7 @@
 
 ## npm 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -1915,6 +1912,7 @@
 
 ## others 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [arenasys/stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit) - A Multipurpose toolkit for managing, editing and creating models.
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [AvetisDN/tokyo-dark-theme](https://github.com/AvetisDN/tokyo-dark-theme) - 
@@ -2403,7 +2401,6 @@
 - [bharadwaj-raju/qOverview](https://github.com/bharadwaj-raju/qOverview) - MOVED: https://gitlab.com/bharadwaj-raju/QOverview
 - [valor-software/ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload
 - [ramedeiros/spotify_libraries](https://github.com/ramedeiros/spotify_libraries) - Some files required to run the local music files in Ubuntu 16.04 LTS on Spotify 1.0.28.89
-- [ElisDN/yii2-gii-fixture-generator](https://github.com/ElisDN/yii2-gii-fixture-generator) - Fixture class generator for Gii module of Yii2 Framework
 - [xriley/Developer-Theme](https://github.com/xriley/Developer-Theme) - FREE Bootstrap 5 Portfolio Theme for Developers -
 - [techfolios/template-old](https://github.com/techfolios/template-old) - Technical Portfolio
 - [Innqube/ngx-iq-datepicker](https://github.com/Innqube/ngx-iq-datepicker) - Angular datepicker with bootstrap integration
@@ -2433,7 +2430,6 @@
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
 - [grncdr/node-any-db](https://github.com/grncdr/node-any-db) - Thin and less-opinionated database abstraction layer for node.
 - [angular-ui/ui-select](https://github.com/angular-ui/ui-select) - AngularJS-native version of Select2 and Selectize
-- [InterativaDigital/yii2-gii-templates](https://github.com/InterativaDigital/yii2-gii-templates) - Templates used for generating code with Yii2 Gii.
 - [tinfoil/openvpn_autoconfig](https://github.com/tinfoil/openvpn_autoconfig) - 
 - [rse/es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -2529,7 +2525,6 @@
 - [maierfelix/PokeMMO](https://github.com/maierfelix/PokeMMO) - :video_game: Pokemon MMO engine with realtime editor
 - [collingreen/chronolapse](https://github.com/collingreen/chronolapse) - Chronolapse makes it easy to record screenshots and camera captures on a schedule then combine them into timelapse videos.
 - [StarStudio/StarMVC](https://github.com/StarStudio/StarMVC) - A small Front-end MVC framework writen by pure javascript.
-- [kartik-v/yii2-social](https://github.com/kartik-v/yii2-social) - A Yii2 module for embedding social plugins and widgets.
 - [mindmup/legacy-mindmup](https://github.com/mindmup/legacy-mindmup) - Legacy MindMup (v1) code
 - [robcupisz/LightShafts](https://github.com/robcupisz/LightShafts) - A light shafts (volumetric shadows) effect for Unity.
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
@@ -2588,9 +2583,7 @@
 - [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [builtbywill/booklet](https://github.com/builtbywill/booklet) - jQuery Plugin - display web content in a flipbook
-- [kartik-v/yii2-widgets](https://github.com/kartik-v/yii2-widgets) - Collection of useful widgets for Yii Framework 2.0
 - [facebookarchive/mention-bot](https://github.com/facebookarchive/mention-bot) - Automatically mention potential reviewers on pull requests.
-- [brussens/yii2-maintenance-mode](https://github.com/brussens/yii2-maintenance-mode) - Maintenance mode extension for Yii framework 2.0
 - [chunying/gaminganywhere](https://github.com/chunying/gaminganywhere) - GamingAnywhere: An Open Cloud Gaming System
 - [whackashoe/antimoderate](https://github.com/whackashoe/antimoderate) - The progressive image loading library for great good!
 - [osTicket/osTicket](https://github.com/osTicket/osTicket) - The osTicket open source ticketing system official project repository, for versions 1.8 and later
@@ -2613,7 +2606,6 @@
 - [joewalnes/reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
 - [rstaib/jquery-steps](https://github.com/rstaib/jquery-steps) - A powerful jQuery wizard plugin that supports accessibility and HTML5.
 - [vrana/JsShrink](https://github.com/vrana/JsShrink) - Remove spaces and comments from JavaScript code (available in PHP and JavaScript)
-- [InterativaDigital/yii2-adminer-module](https://github.com/InterativaDigital/yii2-adminer-module) - Adminer module for Yii Framework 2 for database management.
 - [InterativaDigital/bitbucket-bulk-add-webhook](https://github.com/InterativaDigital/bitbucket-bulk-add-webhook) - PHP script to add a specific webhook to all bitbucket account repositories at once. Can be used with a cron job to keep them up-to-date.
 - [florentpoujol/superpowers-game-dom-plugin](https://github.com/florentpoujol/superpowers-game-dom-plugin) - Define the DOM in Superpowers, the extensible HTML5 2D+3D game engine.
 - [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
@@ -2635,7 +2627,6 @@
 - [mrdoob/htmleditor](https://github.com/mrdoob/htmleditor) - Simple editor for messing around.
 - [madrobby/dom-monster](https://github.com/madrobby/dom-monster) - 
 - [FokkeZB/translator](https://github.com/FokkeZB/translator) - Simple PHP script to let people translate your app's i18n files.
-- [InterativaDigital/AdminerModule](https://github.com/InterativaDigital/AdminerModule) - Adminer module for Yii Framework 1.1
 - [defacid/LD33](https://github.com/defacid/LD33) - Angular.js + jQuery Text Adventure Framework
 - [andersondanilo/CnabPHP](https://github.com/andersondanilo/CnabPHP) - Projeto para criar arquivos de remessas e processar arquivos de retorno no formato CNAB, utilizado nos bancos geralmente para boleto bancário.
 - [thomaswilburn/Caret](https://github.com/thomaswilburn/Caret) - A sublime text editor for Chrome OS
@@ -2853,7 +2844,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [atomicptr/dauntless-builder](https://github.com/atomicptr/dauntless-builder) - Create and share Dauntless builds with your friends!
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
@@ -3172,7 +3163,7 @@
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - Fast TypeScript library for detecting collisions between bodies: Points, Lines, Boxes, Polygons (Concave too), Ellipses and Circles. Also RayCasting. All bodies can have offset, rotation, scale, bound
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [atomicptr/dauntless-builder](https://github.com/atomicptr/dauntless-builder) - Create and share Dauntless builds with your friends!
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [EvandroLG/ts-audio](https://github.com/EvandroLG/ts-audio) - :musical_score: ts-audio is an agnostic library that makes it easy to work with AudioContext and create audio playlists in the browser
