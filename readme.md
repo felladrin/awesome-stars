@@ -2255,7 +2255,7 @@
 - [npms-io/npms-cli](https://github.com/npms-io/npms-cli) - The CLI search utility for npms
 - [npms-io/npms-www](https://github.com/npms-io/npms-www) - The https://npms.io website
 - [npms-io/npms-analyzer](https://github.com/npms-io/npms-analyzer) - The analyzer behind https://npms.io
-- [mvila/npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages
+- [mvila/npm-addict](https://github.com/mvila/npm-addict) - [TERMINATED] Your daily injection of npm packages
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [rotemdan/lzutf8.js](https://github.com/rotemdan/lzutf8.js) - A high-performance Javascript string compression library
