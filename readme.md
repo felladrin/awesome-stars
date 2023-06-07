@@ -959,6 +959,7 @@
 
 ## hacktoberfest 
 
+- [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -1500,6 +1501,7 @@
 
 ## laravel 
 
+- [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
@@ -1911,6 +1913,8 @@
 
 ## others 
 
+- [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux
+- [kufii/CodeSnap](https://github.com/kufii/CodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [arenasys/stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit) - A Multipurpose toolkit for managing, editing and creating models.
@@ -2255,7 +2259,6 @@
 - [npms-io/npms-cli](https://github.com/npms-io/npms-cli) - The CLI search utility for npms
 - [npms-io/npms-www](https://github.com/npms-io/npms-www) - The https://npms.io website
 - [npms-io/npms-analyzer](https://github.com/npms-io/npms-analyzer) - The analyzer behind https://npms.io
-- [mvila/npm-addict](https://github.com/mvila/npm-addict) - [TERMINATED] Your daily injection of npm packages
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [rotemdan/lzutf8.js](https://github.com/rotemdan/lzutf8.js) - A high-performance Javascript string compression library
@@ -2698,6 +2701,7 @@
 
 ## php 
 
+- [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [laravolt/avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
