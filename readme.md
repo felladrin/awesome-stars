@@ -2416,7 +2416,6 @@
 - [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 - [bharadwaj-raju/qOverview](https://github.com/bharadwaj-raju/qOverview) - MOVED: https://gitlab.com/bharadwaj-raju/QOverview
 - [valor-software/ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload
-- [ramedeiros/spotify_libraries](https://github.com/ramedeiros/spotify_libraries) - Some files required to run the local music files in Ubuntu 16.04 LTS on Spotify 1.0.28.89
 - [xriley/Developer-Theme](https://github.com/xriley/Developer-Theme) - FREE Bootstrap 5 Portfolio Theme for Developers -
 - [techfolios/template-old](https://github.com/techfolios/template-old) - Technical Portfolio
 - [Innqube/ngx-iq-datepicker](https://github.com/Innqube/ngx-iq-datepicker) - Angular datepicker with bootstrap integration
@@ -3287,6 +3286,7 @@
 
 ## visual-studio-code 
 
+- [axelrindle/vscode-webp](https://github.com/axelrindle/vscode-webp) - VSCode Extension for converting images into the WebP format.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: htt
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
