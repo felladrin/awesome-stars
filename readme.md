@@ -224,7 +224,6 @@
 - [akashraj9828/gitstats](https://github.com/akashraj9828/gitstats) - An open source github contribution analyzer
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
 ## android 
 
@@ -247,6 +246,7 @@
 
 ## api 
 
+- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -334,6 +334,7 @@
 
 ## chatgpt 
 
+- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
@@ -422,7 +423,6 @@
 
 - [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield) - Find and fix 360+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [glorious-codes/glorious-demo](https://github.com/glorious-codes/glorious-demo) - The easiest way to demonstrate your code in action.
-- [raphamorim/write-code-every-day](https://github.com/raphamorim/write-code-every-day) - [No longer maintained] :octocat: A project to honor those developers who believed in the challenge.
 
 ## code-quality 
 
@@ -523,6 +523,7 @@
 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 
 ## database 
@@ -534,13 +535,14 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 - [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## deep-learning 
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
-- [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4 and FP16 inference on CPU for RWKV language model
+- [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
@@ -881,6 +883,7 @@
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [caseyscarborough/github-activity](https://github.com/caseyscarborough/github-activity) - A widget for displaying GitHub activity for a user.
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
@@ -889,7 +892,6 @@
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [NewbranLTD/git-webhook-ci](https://github.com/NewbranLTD/git-webhook-ci) - A Git (github/gitee) webhook callback server to do stuff e.g. fetch new code (poor man CI)
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
-- [raphamorim/write-code-every-day](https://github.com/raphamorim/write-code-every-day) - [No longer maintained] :octocat: A project to honor those developers who believed in the challenge.
 - [veniversum/git-visualizer](https://github.com/veniversum/git-visualizer) - 👁‍🗨:octocat:Visualizes directory structure of GitHub repos
 - [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -1000,6 +1002,7 @@
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [haltcase/trilogy](https://github.com/haltcase/trilogy) - TypeScript SQLite layer with support for both native C++ & pure JavaScript drivers.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1172,7 +1175,6 @@
 ## iot 
 
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
 ## ipfs 
 
@@ -1544,6 +1546,7 @@
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [SteamDatabase/SteamLinux](https://github.com/SteamDatabase/SteamLinux) - 🐧 The Big List of Steam Games on GNU/Linux
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
@@ -1570,11 +1573,12 @@
 
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
-- [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4 and FP16 inference on CPU for RWKV language model
+- [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
 ## macos 
 
@@ -1666,6 +1670,7 @@
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [voithos/swiftcode](https://github.com/voithos/swiftcode) - Multiplayer, interactive, realtime typing speed game
 
@@ -1695,6 +1700,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [Tinram/Database-Filler](https://github.com/Tinram/Database-Filler) - MySQL/MariaDB: populate database tables and test schema design by parsing the SQL schema file.
 - [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## neovim 
@@ -1923,6 +1929,7 @@
 
 ## others 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [zksecurity/wasmati](https://github.com/zksecurity/wasmati) - Write low-level WebAssembly, from JavaScript
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) - 
@@ -1949,7 +1956,7 @@
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [keldenl/gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - A llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
 - [ryu1kn/vscode-partial-diff](https://github.com/ryu1kn/vscode-partial-diff) - Visual Studio Code Extension. Take a diff of 2 parts of text(s)
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 🤖 A list of open LLMs available for commercial use.
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
@@ -2110,7 +2117,6 @@
 - [edbentley/replay](https://github.com/edbentley/replay) - A cross-platform JS game engine inspired by React
 - [himanshumehta1114/vscode-js-playground](https://github.com/himanshumehta1114/vscode-js-playground) - Instantly setup node package to test code snippets & npm packages.
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
-- [gasman/jasmid](https://github.com/gasman/jasmid) - UNMAINTAINED. A MIDI file reader and synthesiser in Javascript
 - [kevglass/gute](https://github.com/kevglass/gute) - 
 - [davraamides/todotxt-mode](https://github.com/davraamides/todotxt-mode) - 
 - [kevva/bin-wrapper](https://github.com/kevva/bin-wrapper) - Binary wrapper that makes your programs seamlessly available as local dependencies
@@ -2333,7 +2339,6 @@
 - [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Interactive cheatsheet, visualization of git.
 - [migg24/git-keeper](https://github.com/migg24/git-keeper) - Check for merged or outdated local or remote git branches
 - [5to6/5to6-codemod](https://github.com/5to6/5to6-codemod) - A collection of codemods that allow you to transform your js code from ES5 to ES6.
-- [nolanlawson/cjs-to-es6](https://github.com/nolanlawson/cjs-to-es6) - CLI to convert CommonJS to ES6 modules (UNMAINTAINED)
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
 - [HaxeFoundation/npm-haxe](https://github.com/HaxeFoundation/npm-haxe) - Install Haxe using Node Package Manager aka npm
@@ -2525,7 +2530,6 @@
 - [karma-runner/karma-jasmine](https://github.com/karma-runner/karma-jasmine) - A Karma plugin - adapter for Jasmine testing framework.
 - [dotBunny/VSCode](https://github.com/dotBunny/VSCode) - Unity Visual Studio Code Integration
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [joypixels/emojione](https://github.com/joypixels/emojione) - [Archived] The world's largest independent emoji font. Maintained at https://github.com/joypixels/emoji-toolkit.
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [headjs/headjs](https://github.com/headjs/headjs) - The only script in your HEAD.
@@ -2568,7 +2572,6 @@
 - [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box) - Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [sapegin/social-likes](https://github.com/sapegin/social-likes) - Beautiful social “like” buttons with counters for jQuery.
-- [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [SimonOmega/UOPatchServer](https://github.com/SimonOmega/UOPatchServer) - A Python Script that provides a server connection for UOPatch.exe.  This allows you to manually apply your RTPacth files to the UO Client.
 - [maxogden/javascript-editor](https://github.com/maxogden/javascript-editor) - codemirror + esprima powered html5 javascript editor component
 - [superpowers/superpowers-game](https://github.com/superpowers/superpowers-game) - :video_game: Make 2D and 3D games in live collaboration with Superpowers
@@ -2692,7 +2695,7 @@
 ## package-manager 
 
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service
@@ -2764,6 +2767,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [totaljs/helpdesk](https://github.com/totaljs/helpdesk) - HelpDesk open-source web applications for free for everyone. Download and use it!
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
@@ -2846,6 +2850,7 @@
 ## raspberry-pi 
 
 - [131/h264-live-player](https://github.com/131/h264-live-player) - A live h264 player for the browser (ideal for raspberrypi / raspicam )
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
 ## react 
 
@@ -3390,7 +3395,7 @@
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
