@@ -1929,6 +1929,7 @@
 
 ## others 
 
+- [mattkrick/fast-rtc-swarm](https://github.com/mattkrick/fast-rtc-swarm) - A full-mesh WebRTC swarm built on top of fast-rtc-peer
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [zksecurity/wasmati](https://github.com/zksecurity/wasmati) - Write low-level WebAssembly, from JavaScript
@@ -1972,7 +1973,7 @@
 - [melodysdreamj/WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) - LLM that combines the principles of wizardLM and vicunaLM
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tiaanduplessis/kill-port](https://github.com/tiaanduplessis/kill-port) - ❌ Kill the process running on given port
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
 - [hwchase17/langchainjs](https://github.com/hwchase17/langchainjs) - 
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
@@ -2676,6 +2677,7 @@
 
 ## p2p 
 
+- [meething/meething](https://github.com/meething/meething) - dWebRTC Video Meetings MESH/SFU hybrid using GunDB, MediaSoup and Beyond!
 - [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
 - [feross/p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
