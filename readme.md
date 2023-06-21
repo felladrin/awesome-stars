@@ -2682,7 +2682,7 @@
 - [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
 - [feross/p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
-- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - A simple peer-to-peer chat app that is serverless, decentralized, and ephemeral
+- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [InstantWebP2P/appnet.link](https://github.com/InstantWebP2P/appnet.link) - Secure P2P HTTP Gateway as Tunnel Protocol
@@ -2860,7 +2860,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [essserrr/crt-terminal](https://github.com/essserrr/crt-terminal) - Retro styled terminal shell
-- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - A simple peer-to-peer chat app that is serverless, decentralized, and ephemeral
+- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -3027,7 +3027,7 @@
 
 ## serverless 
 
-- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - A simple peer-to-peer chat app that is serverless, decentralized, and ephemeral
+- [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [dmotz/trystero](https://github.com/dmotz/trystero) - 🤝 Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
