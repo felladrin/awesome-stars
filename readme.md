@@ -1460,7 +1460,7 @@
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
 - [sindresorhus/strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [jvandenaardweg/linkedin-profile-scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) - 🕵️‍♂️  LinkedIn profile scraper returning structured profile data in JSON. Works in 2020.
+- [josephlimtech/linkedin-profile-scraper](https://github.com/josephlimtech/linkedin-profile-scraper) - 🕵️‍♂️  LinkedIn profile scraper returning structured profile data in JSON. Works in 2020.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
@@ -1816,7 +1816,7 @@
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [devlato/async-wait-until](https://github.com/devlato/async-wait-until) - Waits for an expectation to be truthy. A small library with a convenient API suitable for unit and integration testing
-- [jvandenaardweg/linkedin-profile-scraper](https://github.com/jvandenaardweg/linkedin-profile-scraper) - 🕵️‍♂️  LinkedIn profile scraper returning structured profile data in JSON. Works in 2020.
+- [josephlimtech/linkedin-profile-scraper](https://github.com/josephlimtech/linkedin-profile-scraper) - 🕵️‍♂️  LinkedIn profile scraper returning structured profile data in JSON. Works in 2020.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
