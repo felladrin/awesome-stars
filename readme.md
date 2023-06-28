@@ -196,6 +196,7 @@
 
 ## 3d 
 
+- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Millions of developers have built 2D / 3D experiences, from hardcore games to web i
 - [tentone/nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D, WebXR game engine.
 - [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
@@ -789,7 +790,7 @@
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
-- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited fr
+- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Millions of developers have built 2D / 3D experiences, from hardcore games to web i
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
@@ -816,7 +817,7 @@
 - [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine
 - [eva-engine/eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
-- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited fr
+- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Millions of developers have built 2D / 3D experiences, from hardcore games to web i
 - [tentone/nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D, WebXR game engine.
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
@@ -841,7 +842,7 @@
 - [kutuluk/js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
-- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited fr
+- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Millions of developers have built 2D / 3D experiences, from hardcore games to web i
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
 - [vsmode/pixel8](https://github.com/vsmode/pixel8) - A collection of low-res primitives for creating art and games in React
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
@@ -994,7 +995,6 @@
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID
@@ -1929,7 +1929,7 @@
 ## open-source 
 
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
-- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited fr
+- [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Millions of developers have built 2D / 3D experiences, from hardcore games to web i
 - [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
