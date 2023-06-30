@@ -207,6 +207,7 @@
 
 ## ai 
 
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is a feature-rich self-hosted Stable Diffusion webapp
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
