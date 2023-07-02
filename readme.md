@@ -1247,7 +1247,7 @@
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [pemistahl/grex-js](https://github.com/pemistahl/grex-js) - A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases
-- [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - Fast TypeScript library for detecting collisions between bodies: Points, Lines, Boxes, Polygons (Concave too), Ellipses and Circles. Also RayCasting. All bodies can have offset, rotation, scale, bound
+- [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - detecting collisions between bodies: Points, Lines, Boxes, Polygons (Concave too), Ellipses and Circles. Also RayCasting. All bodies can have offset, rotation, scale, bounding box padding, can be stat
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 - [Rabios/Pancake](https://github.com/Rabios/Pancake) - Lightweight, Fast, Easy-to-use HTML5 2D game framework!
@@ -1546,7 +1546,7 @@
 
 ## library 
 
-- [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - Fast TypeScript library for detecting collisions between bodies: Points, Lines, Boxes, Polygons (Concave too), Ellipses and Circles. Also RayCasting. All bodies can have offset, rotation, scale, bound
+- [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - detecting collisions between bodies: Points, Lines, Boxes, Polygons (Concave too), Ellipses and Circles. Also RayCasting. All bodies can have offset, rotation, scale, bounding box padding, can be stat
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 
@@ -3207,7 +3207,7 @@
 - [peers/peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
-- [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - Fast TypeScript library for detecting collisions between bodies: Points, Lines, Boxes, Polygons (Concave too), Ellipses and Circles. Also RayCasting. All bodies can have offset, rotation, scale, bound
+- [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - detecting collisions between bodies: Points, Lines, Boxes, Polygons (Concave too), Ellipses and Circles. Also RayCasting. All bodies can have offset, rotation, scale, bounding box padding, can be stat
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [atomicptr/dauntless-builder](https://github.com/atomicptr/dauntless-builder) - Create and share Dauntless builds with your friends!
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
