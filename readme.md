@@ -693,6 +693,7 @@
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
 - [Tapppi/async-exit-hook](https://github.com/Tapppi/async-exit-hook) - Run some code when the process exits
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
 - [lebab/lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
@@ -1954,6 +1955,7 @@
 
 ## others 
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [mattkrick/fast-rtc-swarm](https://github.com/mattkrick/fast-rtc-swarm) - A full-mesh WebRTC swarm built on top of fast-rtc-peer
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
