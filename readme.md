@@ -1957,6 +1957,7 @@
 
 ## others 
 
+- [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 - [mattkrick/fast-rtc-swarm](https://github.com/mattkrick/fast-rtc-swarm) - A full-mesh WebRTC swarm built on top of fast-rtc-peer
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
