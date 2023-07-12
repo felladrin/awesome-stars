@@ -207,6 +207,7 @@
 
 ## ai 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is a feature-rich self-hosted Stable Diffusion webapp
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
@@ -646,6 +647,7 @@
 
 ## electron 
 
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
@@ -1833,7 +1835,7 @@
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [NodeRT/NodeRT](https://github.com/NodeRT/NodeRT) - Winrt APIs-node.js modules generator
-- [InstantWebP2P/peer-vnc](https://github.com/InstantWebP2P/peer-vnc) - Secure Access VNC from anywhere
+- [InstantWebP2P/peer-vnc](https://github.com/InstantWebP2P/peer-vnc) - Secure Access VNC from anywhere based on noVNC
 - [iberatkaya/mousebot](https://github.com/iberatkaya/mousebot) - MouseBot is a computer automating package that can control the mouse and keyboard.
 - [DayBr3ak/node-sendkeys](https://github.com/DayBr3ak/node-sendkeys) - Keyboard emulation over nodejs
 - [CouchBuddy/couch-buddy](https://github.com/CouchBuddy/couch-buddy) - A Media Center with Cast support that belongs to this millennium
