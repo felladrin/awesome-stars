@@ -394,7 +394,6 @@
 - [insin/control-panel-for-twitter](https://github.com/insin/control-panel-for-twitter) - Browser extension which gives you more control over your Twitter timeline and adds missing features and UI improvements - available for desktop and mobile browsers
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [lvarayut/github-file-icons](https://github.com/lvarayut/github-file-icons) - 🍭 Chrome extension for displaying file icons on Github.
-- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -429,7 +428,6 @@
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [deepal/baapan](https://github.com/deepal/baapan) - ✨ Super Cool NPM Playground right on the Node REPL ✨
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -608,7 +606,6 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-- [mroth/slacknimate](https://github.com/mroth/slacknimate) - :dancers: Realtime text animation for Slack chatops
 
 ## discord 
 
@@ -627,7 +624,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -806,7 +802,6 @@
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [atomicptr/dauntless-builder](https://github.com/atomicptr/dauntless-builder) - Create and share Dauntless builds with your friends!
 - [jackrugile/radius-raid-js13k](https://github.com/jackrugile/radius-raid-js13k) - Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effect
-- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -858,7 +853,6 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [oguzeroglu/ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - A 3D engine for the Web
-- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [lance-gg/spaaace](https://github.com/lance-gg/spaaace) - An online HTML5 multiplayer space shooter built with Lance
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
@@ -903,7 +897,6 @@
 
 - [IceCreamYou/MainLoop.js](https://github.com/IceCreamYou/MainLoop.js) - Provides a well-constructed main loop useful for JavaScript games and other animated or time-dependent applications.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
-- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [ClassicUO/ClassicUO](https://github.com/ClassicUO/ClassicUO) - ClassicUO - an open source implementation of the Ultima Online Classic Client.
 - [craftyjs/Crafty](https://github.com/craftyjs/Crafty) - JavaScript Game Engine
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
@@ -942,7 +935,6 @@
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [cheeaun/repokemon](https://github.com/cheeaun/repokemon) - Showcase of GitHub repos with Pokémon names
-- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [caseyscarborough/github-activity](https://github.com/caseyscarborough/github-activity) - A widget for displaying GitHub activity for a user.
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
@@ -979,11 +971,9 @@
 - [Paperspace/paperspace-go](https://github.com/Paperspace/paperspace-go) - Paperspace API go library
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
-- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 
 ## godot 
 
@@ -997,7 +987,6 @@
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [thatisuday/go-cross-build](https://github.com/thatisuday/go-cross-build) - GitHub Action to build Go (Golang) modules.
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1006,7 +995,6 @@
 - [kbinani/screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 
@@ -1383,7 +1371,6 @@
 - [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
 - [KilledByAPixel/ZzFX](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound FX System / Zuper Zmall Zound Zynth
 - [dcodeIO/bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Optimized bcrypt in plain JavaScript with zero dependencies.
-- [deepal/baapan](https://github.com/deepal/baapan) - ✨ Super Cool NPM Playground right on the Node REPL ✨
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
@@ -1520,7 +1507,6 @@
 - [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
-- [deepal/baapan](https://github.com/deepal/baapan) - ✨ Super Cool NPM Playground right on the Node REPL ✨
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
 ## json 
@@ -1551,7 +1537,6 @@
 
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [ctk-hq/ctk](https://github.com/ctk-hq/ctk) - Visual composer for container based workloads
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1752,14 +1737,12 @@
 ## monitoring 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-- [mroth/slacknimate](https://github.com/mroth/slacknimate) - :dancers: Realtime text animation for Slack chatops
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 
 ## music 
@@ -1902,7 +1885,6 @@
 - [miguelmota/javascript-idiosyncrasies](https://github.com/miguelmota/javascript-idiosyncrasies) - A bunch of Javascript idiosyncrasies to beginners.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-- [deepal/baapan](https://github.com/deepal/baapan) - ✨ Super Cool NPM Playground right on the Node REPL ✨
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -1988,7 +1970,6 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
 - [requestly/requestly](https://github.com/requestly/requestly) - 🚀 Most Popular developer tool for frontend developers & QAs to debug web and mobile applications. Redirect URL (Switch Environments), Modify Headers, Mock APIs, Modify Response, Insert Scripts & Repor
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
-- [OpenDiablo2/OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - An open source re-implementation of Diablo 2
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2827,7 +2808,7 @@
 - [HvyIndustries/crane](https://github.com/HvyIndustries/crane) - PHP Intellisense/code-completion for VS Code
 - [hjson/hjson-php](https://github.com/hjson/hjson-php) - Hjson for PHP
 - [gumlet/php-image-resize](https://github.com/gumlet/php-image-resize) - PHP library to resize, scale and crop images. Cloud solution available at:
-- [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php) - 🌐 Free Google Translate API PHP Package. Translates totally free of charge.
+- [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php) - 🔤 Free Google Translate API PHP Package. Translates totally free of charge.
 - [tpunt/PHP7-Reference](https://github.com/tpunt/PHP7-Reference) - An overview of the features, changes, and backward compatibility breakages in PHP 7
 - [esperecyan/url](https://github.com/esperecyan/url) - Makes the algorithms and APIs defined by URL Standard (replaces RFC 3986 and RFC 3987) available on PHP. / URL Standard (RFC 3986、RFC 3987 を置き換える Web 標準仕様) で定義されているアルゴリズム、および API を PHP から利用できるようにします。
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
@@ -3416,7 +3397,6 @@
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension](https://github.com/GorvGoyl/Shortcut-Menu-Bar-VSCode-Extension) - Add handy buttons like beautify, show opened files, save, toggle terminal, etc to the editor menu bar in VSCode. You can also create your own buttons with custom commands. VSCode Marketplace link: htt
 - [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
-- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE
 - [yasukotelin/toggle-panel](https://github.com/yasukotelin/toggle-panel) - Toggle Panel is extention for Visual Studio Code that toggles the panel window.
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
