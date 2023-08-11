@@ -122,7 +122,6 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
-- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
@@ -210,6 +209,7 @@
 
 ## ai 
 
+- [rahuldshetty/ggml.js](https://github.com/rahuldshetty/ggml.js) - 
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [hunterunger/gpt-cli-assistant](https://github.com/hunterunger/gpt-cli-assistant) - Run terminal commands with GPT-3 Codex
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
@@ -220,6 +220,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
+- [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Enhance Images with Javascript and AI. Increase resolution, retouch, denoise, and more. Open Source, Browser & Node Compatible, MIT License.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -1264,7 +1265,6 @@
 - [HeyPuter/kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript.
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-- [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Image Upscaling & Enhancement in Javascript. Increase image resolution up to 4x using Tensorflow.js. Deblur, denoise, and more.
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -1563,7 +1563,7 @@
 
 - [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
 ## latex 
@@ -1772,10 +1772,6 @@
 ## neovim 
 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-
-## neural-network 
-
-- [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Image Upscaling & Enhancement in Javascript. Increase image resolution up to 4x using Tensorflow.js. Deblur, denoise, and more.
 
 ## nextjs 
 
@@ -2812,7 +2808,7 @@
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [Froxlor/Froxlor](https://github.com/Froxlor/Froxlor) - The server administration software for your needs - The official Froxlor development Git repository
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 - [HvyIndustries/crane](https://github.com/HvyIndustries/crane) - PHP Intellisense/code-completion for VS Code
 - [hjson/hjson-php](https://github.com/hjson/hjson-php) - Hjson for PHP
@@ -3213,6 +3209,7 @@
 ## tensorflow 
 
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Enhance Images with Javascript and AI. Increase resolution, retouch, denoise, and more. Open Source, Browser & Node Compatible, MIT License.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
 ## terminal 
@@ -3449,11 +3446,12 @@
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 
 ## web 
 
+- [rahuldshetty/ggml.js](https://github.com/rahuldshetty/ggml.js) - 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
