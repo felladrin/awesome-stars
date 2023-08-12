@@ -209,7 +209,7 @@
 
 ## ai 
 
-- [rahuldshetty/ggml.js](https://github.com/rahuldshetty/ggml.js) - 
+- [rahuldshetty/ggml.js](https://github.com/rahuldshetty/ggml.js) - Run any ggml ported ML models directly on your web browser with ggml.js
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [hunterunger/gpt-cli-assistant](https://github.com/hunterunger/gpt-cli-assistant) - Run terminal commands with GPT-3 Codex
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
@@ -3451,7 +3451,7 @@
 
 ## web 
 
-- [rahuldshetty/ggml.js](https://github.com/rahuldshetty/ggml.js) - 
+- [rahuldshetty/ggml.js](https://github.com/rahuldshetty/ggml.js) - Run any ggml ported ML models directly on your web browser with ggml.js
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
