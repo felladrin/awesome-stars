@@ -1456,6 +1456,7 @@
 - [craftyjs/Crafty](https://github.com/craftyjs/Crafty) - JavaScript Game Engine
 - [parloti/PongGame](https://github.com/parloti/PongGame) - A pong game for browser with HTML5 and AngularJS
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [karma-runner/karma-chrome-launcher](https://github.com/karma-runner/karma-chrome-launcher) - A Karma plugin. Launcher for Chrome and Chrome Canary.
 - [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
@@ -1604,6 +1605,7 @@
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) - git-cola: The highly caffeinated Git GUI
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
@@ -1825,6 +1827,7 @@
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 
@@ -1927,6 +1930,7 @@
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [thaispalmer/livecam](https://github.com/thaispalmer/livecam) - Livecam Proof of Concept with NodeJS and Websockets
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -2028,7 +2032,7 @@
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) - 
 - [kufii/CodeSnap](https://github.com/kufii/CodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [arenasys/stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit) - A Multipurpose toolkit for managing, editing and creating models.
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [AvetisDN/tokyo-dark-theme](https://github.com/AvetisDN/tokyo-dark-theme) - 
@@ -2597,7 +2601,6 @@
 - [rquadling/grunt-html2js](https://github.com/rquadling/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - The AngularJS inspector pane for your browser
-- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [superpowers/superpowers-app](https://github.com/superpowers/superpowers-app) - :rocket: Superpowers desktop app
 - [rhiever/name-age-calculator](https://github.com/rhiever/name-age-calculator) - Analyzes a name and guesses the age range of a person with that name.
 - [Gutem/http-api-design](https://github.com/Gutem/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
