@@ -2628,7 +2628,6 @@
 - [InternetSemLimites/InternetSemLimites](https://github.com/InternetSemLimites/InternetSemLimites) - Repositório que busca catalogar e organizar os provedores de internet que não limitarão o tráfego de dados.
 - [liambaloh/LudumDareRescueChicken](https://github.com/liambaloh/LudumDareRescueChicken) - A web page which spotlights games with too few votes to get a rating in Ludum Dare
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
-- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [yairEO/fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
 - [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
