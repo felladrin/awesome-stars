@@ -596,7 +596,7 @@
 ## deployment 
 
 - [HaaLeo/publish-vscode-extension](https://github.com/HaaLeo/publish-vscode-extension) - GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.
-- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 
 ## design 
