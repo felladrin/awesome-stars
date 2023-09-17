@@ -1014,6 +1014,7 @@
 
 ## hacktoberfest 
 
+- [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape) - 🔎 Search from DuckDuckGo and utilize its spice APIs in Node
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
