@@ -1120,6 +1120,7 @@
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [lnfnunes/404-PageNotFound](https://github.com/lnfnunes/404-PageNotFound) - :boom: A curated list of "404 Page Not Found" pages
+- [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
@@ -2004,6 +2005,7 @@
 
 ## others 
 
+- [webui-dev/deno-webui](https://github.com/webui-dev/deno-webui) - Use any web browser as GUI, with Deno in the backend and HTML5 in the frontend.
 - [microsoft/Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) - 
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [rsaryev/talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
