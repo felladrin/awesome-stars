@@ -2004,12 +2004,13 @@
 
 ## others 
 
+- [moikent/starchat-vscode](https://github.com/moikent/starchat-vscode) - 
 - [webui-dev/deno-webui](https://github.com/webui-dev/deno-webui) - Use any web browser as GUI, with Deno in the backend and HTML5 in the frontend.
 - [microsoft/Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) - 
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [rsaryev/talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
-- [huggingface/huggingface-vscode](https://github.com/huggingface/huggingface-vscode) - Code completion VSCode extension for OSS models
+- [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - Code completion VSCode extension for OSS models
 - [rahuldshetty/starcoder.js](https://github.com/rahuldshetty/starcoder.js) - Web browser version of StarCoder.cpp
 - [OpenBMB/VisCPM](https://github.com/OpenBMB/VisCPM) - Chinese and English Multimodal Large Model Series (Chat and Paint) | 基于CPM基础模型的中英双语多模态大模型系列
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
@@ -2273,7 +2274,7 @@
 - [sindresorhus/escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters
 - [zzarcon/default-passive-events](https://github.com/zzarcon/default-passive-events) - Makes {passive: true} by default when EventListenerOptions are supported
 - [JasonHK/node-utilities](https://github.com/JasonHK/node-utilities) - A collection of utility packages that helps the development.
-- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
+- [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM)
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [node-ffi-napi/ref-struct-di](https://github.com/node-ffi-napi/ref-struct-di) - Create ABI-compliant "struct" instances on top of Buffers
 - [node-ffi-napi/ref-napi](https://github.com/node-ffi-napi/ref-napi) - Turn Buffer instances into "pointers"
