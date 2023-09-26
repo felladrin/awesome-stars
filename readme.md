@@ -1017,6 +1017,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
@@ -1496,7 +1497,6 @@
 
 ## jquery 
 
-- [wintercounter/Protip](https://github.com/wintercounter/Protip) - A new generation jQuery Tooltip plugin
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [fancyapps/fancybox](https://github.com/fancyapps/fancybox) - jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.
 
@@ -2004,6 +2004,8 @@
 
 ## others 
 
+- [wizzard0/t348-loader](https://github.com/wizzard0/t348-loader) - isomorphic (browser, node) TypeScript / Javascript loader
+- [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [moikent/starchat-vscode](https://github.com/moikent/starchat-vscode) - 
 - [webui-dev/deno-webui](https://github.com/webui-dev/deno-webui) - Use any web browser as GUI, with Deno in the backend and HTML5 in the frontend.
 - [microsoft/Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) - 
@@ -2731,7 +2733,6 @@
 - [j4mie/idiorm](https://github.com/j4mie/idiorm) - A lightweight nearly-zero-configuration object-relational mapper and fluent query builder for PHP5.
 - [mike-ward/Markdown-Edit](https://github.com/mike-ward/Markdown-Edit) - My attempt at a markdown editor for windows
 - [Janson-Leung/PHPExcel](https://github.com/Janson-Leung/PHPExcel) - A lightweight PHP library for reading spreadsheet files
-- [daviferreira/tooltip.js](https://github.com/daviferreira/tooltip.js) - Simple tooltip, pure javascript.
 - [catdad/fork-ribbon-css-builder](https://github.com/catdad/fork-ribbon-css-builder) - :ribbon: pure CSS "For me on GitHub" ribbon generator
 - [hakimel/css](https://github.com/hakimel/css) - Assorted CSS and UI experiments.
 - [hakimel/stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
