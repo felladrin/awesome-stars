@@ -2571,7 +2571,7 @@
 - [urish/angular-moment](https://github.com/urish/angular-moment) - Moment.JS directives for Angular.JS (timeago and more)
 - [hxer/docker-alpine](https://github.com/hxer/docker-alpine) - service base on alpine linux
 - [vinaygopinath/ngMeta](https://github.com/vinaygopinath/ngMeta) - Dynamic meta tags in your AngularJS single page application
-- [gorillamania/package.json-validator](https://github.com/gorillamania/package.json-validator) - A tool/library for validating npm/node package.json files
+- [TechNickAI/package.json-validator](https://github.com/TechNickAI/package.json-validator) - A tool/library for validating npm/node package.json files
 - [nmaggioni/Kanbanion](https://github.com/nmaggioni/Kanbanion) - A Kanban board. Simple, digital and local.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [appetizermonster/unity-packman](https://github.com/appetizermonster/unity-packman) - A tiny package dependency manager for Unity, powered by Github
@@ -3008,7 +3008,7 @@
 - [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
-- [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - A multi-tab layout manager
+- [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - React Docking Layout Manager
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [wix-incubator/vscode-glean](https://github.com/wix-incubator/vscode-glean) - The extension provides refactoring tools for your React codebase
@@ -3047,7 +3047,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
-- [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - A multi-tab layout manager
+- [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - React Docking Layout Manager
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [creativetimofficial/light-bootstrap-dashboard-react](https://github.com/creativetimofficial/light-bootstrap-dashboard-react) - React version of Light Bootstrap Dashboard
 
@@ -3356,6 +3356,7 @@
 - [vvakame/typescript-formatter](https://github.com/vvakame/typescript-formatter) - Formatter of TypeScript code
 - [EmandM/ts-mock-imports](https://github.com/EmandM/ts-mock-imports) - Intuitive mocking library for Typescript class imports
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
+- [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - React Docking Layout Manager
 - [matthew-matvei/freeman](https://github.com/matthew-matvei/freeman) - A free, extensible, cross-platform file manager for power users
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
