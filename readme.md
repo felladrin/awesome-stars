@@ -19,6 +19,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
+- [backend](#backend)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
 - [c](#c)
@@ -315,6 +316,11 @@
 ## babel 
 
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+## backend 
+
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
+- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 
 ## bash 
 
@@ -2437,7 +2443,7 @@
 - [phoboslab/underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [evyros/textarea-autogrow](https://github.com/evyros/textarea-autogrow) - A pure Javascript solution for auto-grow / expand a textarea element by its content.
 - [flozz/StackBlur](https://github.com/flozz/StackBlur) - Fast and almost Gaussian blur
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The most comprehensive, compact, & up-to-date JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [Bartozzz/wildcard-named](https://github.com/Bartozzz/wildcard-named) - A small and easy-to-use utility module for matching strings using named and/or unnamed wildcards for JavaScript.
 - [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js and Browser (polyfill)
 - [jquery-archive/PEP](https://github.com/jquery-archive/PEP) - Pointer Events Polyfill: a unified event system for the web platform
