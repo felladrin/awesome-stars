@@ -1041,7 +1041,9 @@
 - [soyuka/pidusage](https://github.com/soyuka/pidusage) - Cross-platform process cpu % and memory usage of a PID
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [simplyhexagonal/short-unique-id](https://github.com/simplyhexagonal/short-unique-id) - Short Unique ID (UUID) generation library. Available in NPM.
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -1102,6 +1104,7 @@
 - [terraform-provider-minio/terraform-provider-minio](https://github.com/terraform-provider-minio/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1130,6 +1133,7 @@
 - [gruntjs/grunt-contrib-jshint](https://github.com/gruntjs/grunt-contrib-jshint) - Validate files with JSHint.
 - [gruntjs/grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - Concatenate files.
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [lnfnunes/404-PageNotFound](https://github.com/lnfnunes/404-PageNotFound) - :boom: A curated list of "404 Page Not Found" pages
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
@@ -2137,7 +2141,6 @@
 - [oculus42/short-uuid](https://github.com/oculus42/short-uuid) - Translate standard UUIDs into shorter formats and back.
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
 - [vjeux/mp4-h264-re-encode](https://github.com/vjeux/mp4-h264-re-encode) - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [riophae/css-animated-hourglass](https://github.com/riophae/css-animated-hourglass) - An hourglass animation made of pure CSS.
 - [pawelgrzybek/gatito-theme](https://github.com/pawelgrzybek/gatito-theme) - Minimalistic and modern looking fork of fantastic Oceanic theme for Visual Studio Code.
 - [teambition/jsonrpc-lite](https://github.com/teambition/jsonrpc-lite) - Parse and Serialize JSON-RPC2 messages in node.js, or browser.
@@ -2443,7 +2446,6 @@
 - [phoboslab/underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [evyros/textarea-autogrow](https://github.com/evyros/textarea-autogrow) - A pure Javascript solution for auto-grow / expand a textarea element by its content.
 - [flozz/StackBlur](https://github.com/flozz/StackBlur) - Fast and almost Gaussian blur
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [Bartozzz/wildcard-named](https://github.com/Bartozzz/wildcard-named) - A small and easy-to-use utility module for matching strings using named and/or unnamed wildcards for JavaScript.
 - [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js and Browser (polyfill)
 - [jquery-archive/PEP](https://github.com/jquery-archive/PEP) - Pointer Events Polyfill: a unified event system for the web platform
@@ -2655,7 +2657,6 @@
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
 - [yairEO/fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
-- [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 - [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 - [maierfelix/PokeMMO](https://github.com/maierfelix/PokeMMO) - :video_game: Pokemon MMO engine with realtime editor
 - [collingreen/chronolapse](https://github.com/collingreen/chronolapse) - Chronolapse makes it easy to record screenshots and camera captures on a schedule then combine them into timelapse videos.
