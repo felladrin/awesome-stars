@@ -847,7 +847,7 @@
 
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
-- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine
+- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
 - [eva-engine/eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 An easy to use 2D HTML5 game engine written in TypeScript
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
@@ -1112,6 +1112,7 @@
 - [aliariff/vscode-auto-add-brackets](https://github.com/aliariff/vscode-auto-add-brackets) - Automatically add complete brackets when writing interpolated string
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [bencevans/screenshot-desktop](https://github.com/bencevans/screenshot-desktop) - 💻 Capture a screenshot of your local machine
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -1877,7 +1878,7 @@
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
-- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine
+- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
