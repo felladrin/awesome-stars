@@ -749,7 +749,7 @@
 
 - [dukeluo/eslint-plugin-check-file](https://github.com/dukeluo/eslint-plugin-check-file) - ESLint rules for consistent filename and folder. Allows you to enforce a consistent naming pattern for the filename and folder.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
@@ -927,7 +927,7 @@
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [azz/pretty-quick](https://github.com/azz/pretty-quick) - ⚡ Get Pretty Quick
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -1211,7 +1211,6 @@
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
 - [131/h264-live-player](https://github.com/131/h264-live-player) - A live h264 player for the browser (ideal for raspberrypi / raspicam )
-- [markknol/console-log-viewer](https://github.com/markknol/console-log-viewer) - Displays logs and Javascript errors in an overlay on top of your site. Useful for mobile webdevelopment. Enabled in 5 seconds
 - [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [parloti/PongGame](https://github.com/parloti/PongGame) - A pong game for browser with HTML5 and AngularJS
@@ -1382,7 +1381,6 @@
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [muicss/loadjs](https://github.com/muicss/loadjs) - A tiny async loader / dependency manager for modern browsers (899 bytes)
 - [ybootin/mp3gain.js](https://github.com/ybootin/mp3gain.js) - Analyse and Normalize MP3 file into the browser
-- [markknol/console-log-viewer](https://github.com/markknol/console-log-viewer) - Displays logs and Javascript errors in an overlay on top of your site. Useful for mobile webdevelopment. Enabled in 5 seconds
 - [devlato/async-wait-until](https://github.com/devlato/async-wait-until) - Waits for an expectation to be truthy. A small library with a convenient API suitable for unit and integration testing
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
@@ -2030,6 +2028,7 @@
 
 ## others 
 
+- [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [JacobLinCool/huggingface-sync](https://github.com/JacobLinCool/huggingface-sync) - Sync your GitHub repository to Hugging Face Spaces.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
@@ -3304,6 +3303,7 @@
 
 ## typescript 
 
+- [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [MichaelCurrin/auto-commit-msg](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
