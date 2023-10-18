@@ -209,6 +209,7 @@
 
 ## ai 
 
+- [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chat component for your website
 - [drbh/gmessage](https://github.com/drbh/gmessage) - 💬 modular open source LLM server, web and desktop app
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - node.js bindings for llama.cpp
@@ -274,7 +275,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
@@ -562,6 +563,7 @@
 
 ## data 
 
+- [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
 - [hatnote/listen-to-wikipedia](https://github.com/hatnote/listen-to-wikipedia) - Live, generative music from Wikipedia edits
 
@@ -1031,7 +1033,7 @@
 - [akashraj9828/gitstats](https://github.com/akashraj9828/gitstats) - An open source github contribution analyzer
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
@@ -3096,7 +3098,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [akashraj9828/gitstats](https://github.com/akashraj9828/gitstats) - An open source github contribution analyzer
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 
 ## ruby 
