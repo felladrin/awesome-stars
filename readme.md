@@ -35,7 +35,6 @@
 - [code-review](#code-review)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
-- [config](#config)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [csharp](#csharp)
@@ -491,10 +490,6 @@
 ## computer-vision 
 
 - [brenopolanski/aiEyes](https://github.com/brenopolanski/aiEyes) - :robot: :eye: Describes photos using audio for Blind and Visually-Impaired Users
-
-## config 
-
-- [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 
 ## continuous-integration 
 
@@ -1107,7 +1102,6 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
-- [kanekotic/web-threads](https://github.com/kanekotic/web-threads) - generic threads using web workers for the web
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -1551,7 +1545,6 @@
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 - [expressjs/body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
 - [jeremyfa/yaml.js](https://github.com/jeremyfa/yaml.js) - Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
@@ -2037,6 +2030,7 @@
 
 ## others 
 
+- [WillNewmarch/bifur](https://github.com/WillNewmarch/bifur) - 
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [searxng/searx-space](https://github.com/searxng/searx-space) - Statistics of the public SearX(NG) instances
 - [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
@@ -2110,7 +2104,6 @@
 - [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
-- [repalash/transfr-cf-worker](https://github.com/repalash/transfr-cf-worker) - A Simple Cloudflare worker for storing temporary files in KV with auto deletion: https://transfr.one
 - [liuliu/swift-diffusion](https://github.com/liuliu/swift-diffusion) - 
 - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Swift app demonstrating Core ML Stable Diffusion
 - [junkboy0315/react-compare-image](https://github.com/junkboy0315/react-compare-image) - React component to compare two images with a slider
