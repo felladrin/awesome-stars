@@ -2031,6 +2031,7 @@
 
 ## others 
 
+- [egoist/typed-worker](https://github.com/egoist/typed-worker) - Type-safe and Promisified API for Web Worker and Iframe
 - [WillNewmarch/bifur](https://github.com/WillNewmarch/bifur) - 
 - [danielgross/localpilot](https://github.com/danielgross/localpilot) - 
 - [searxng/searx-space](https://github.com/searxng/searx-space) - Statistics of the public SearX(NG) instances
