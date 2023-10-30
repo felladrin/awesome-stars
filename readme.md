@@ -1286,6 +1286,7 @@
 
 ## javascript 
 
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [joshmarinacci/node-pureimage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of the HTML Canvas 2D drawing API
 - [rovelstars/reejs](https://github.com/rovelstars/reejs) - Make Sites Faster, without the need of building anything!
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -2519,7 +2520,7 @@
 - [Miramac/vscode-exec-node](https://github.com/Miramac/vscode-exec-node) - Execute your current file or your selected code with node.js
 - [formulahendry/vscode-mysql](https://github.com/formulahendry/vscode-mysql) - MySQL management tool for Visual Studio Code
 - [wibblemonkey/vscode-markdown-auto-toc](https://github.com/wibblemonkey/vscode-markdown-auto-toc) - An extension for VS Code that adds support for an auto-generated table of contents to the built-in markdown preview
-- [arturock/vscode-gitstash](https://github.com/arturock/vscode-gitstash) - Adds extra Git stash powers to VS Code
+- [arturorvr/vscode-gitstash](https://github.com/arturorvr/vscode-gitstash) - Adds extra Git stash powers to VS Code
 - [mkxml/vscode-filesize](https://github.com/mkxml/vscode-filesize) - filesize package for Visual Studio Code
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [jjuback/gc-excelviewer](https://github.com/jjuback/gc-excelviewer) - Visual Studio Code extension for viewing Excel spreadsheets and CSV files.
