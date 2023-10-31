@@ -1143,7 +1143,6 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-- [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
@@ -2520,7 +2519,7 @@
 - [Miramac/vscode-exec-node](https://github.com/Miramac/vscode-exec-node) - Execute your current file or your selected code with node.js
 - [formulahendry/vscode-mysql](https://github.com/formulahendry/vscode-mysql) - MySQL management tool for Visual Studio Code
 - [wibblemonkey/vscode-markdown-auto-toc](https://github.com/wibblemonkey/vscode-markdown-auto-toc) - An extension for VS Code that adds support for an auto-generated table of contents to the built-in markdown preview
-- [arturorvr/vscode-gitstash](https://github.com/arturorvr/vscode-gitstash) - Adds extra Git stash powers to VS Code
+- [artrz/vscode-gitstash](https://github.com/artrz/vscode-gitstash) - Adds extra Git stash powers to VS Code
 - [mkxml/vscode-filesize](https://github.com/mkxml/vscode-filesize) - filesize package for Visual Studio Code
 - [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint) - VSCode extension to integrate eslint into VSCode
 - [jjuback/gc-excelviewer](https://github.com/jjuback/gc-excelviewer) - Visual Studio Code extension for viewing Excel spreadsheets and CSV files.
