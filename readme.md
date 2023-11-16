@@ -3305,6 +3305,7 @@
 
 ## testing 
 
+- [githubnext/testpilot](https://github.com/githubnext/testpilot) - Test generation using large language models
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [japa/core](https://github.com/japa/core) - The core of Japa. It includes all the primitives to build a test runner
