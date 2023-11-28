@@ -2403,7 +2403,7 @@
 - [jangxx/node-win-desktop-duplication](https://github.com/jangxx/node-win-desktop-duplication) - A library which uses the Windows Desktop Duplication API to take captures of the screen
 - [vinsonchuong/make-cert](https://github.com/vinsonchuong/make-cert) - Quickly generate a self-signed cert to start an HTTPS server
 - [cjssdk/wamp](https://github.com/cjssdk/wamp) - Web Application Messaging Protocol lightweight implementation for both browser and server-side.
-- [joshwnj/ffprobe-static](https://github.com/joshwnj/ffprobe-static) - Static binaries for ffprobe
+- [derhuerst/ffprobe-static](https://github.com/derhuerst/ffprobe-static) - Static binaries for ffprobe
 - [eugeneware/ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) - ffmpeg static binaries for Mac OSX and Linux and Windows
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) - MPEG1 Video Player Based On JSMpeg.
