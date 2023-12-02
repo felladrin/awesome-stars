@@ -1066,7 +1066,6 @@
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [mikaelbr/node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -2123,6 +2122,7 @@
 - [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) - 
 - [kufii/CodeSnap](https://github.com/kufii/CodeSnap) - 📸 Take beautiful screenshots of your code in VS Code!
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [arenasys/stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit) - A Multipurpose toolkit for managing, editing and creating models.
 - [nickzman/symboliclinker](https://github.com/nickzman/symboliclinker) - A contextual menu plugin & service for macOS that allows users to make symbolic links in the Finder
 - [AvetisDN/tokyo-dark-theme](https://github.com/AvetisDN/tokyo-dark-theme) - 
