@@ -2099,7 +2099,7 @@
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [Iyashinouta/sd-model-downloader](https://github.com/Iyashinouta/sd-model-downloader) - SD Web UI Extension to Download Model from URL
 - [pixijs/layout](https://github.com/pixijs/layout) - Library for arranging/resizing pixiJS rendered elements basing on css like configs
-- [nvms/wingman](https://github.com/nvms/wingman) - Your pair programming wingman, powered by ChatGPT or your local LLaMa.
+- [nvms/wingman](https://github.com/nvms/wingman) - Your pair programming wingman. Supports OpenAI, Anthropic, or any LLM on your local inference server.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
