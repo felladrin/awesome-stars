@@ -226,7 +226,7 @@
 - [yagil/ChatIDE](https://github.com/yagil/ChatIDE) - AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source app for creating studio-grade AI-generated images and video
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source webapp for creating studio-grade AI-generated images and video on desktop or server.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
@@ -1456,7 +1456,7 @@
 - [mkloubert/vs-script-commands](https://github.com/mkloubert/vs-script-commands) - Add additional commands that uses (JavaScript) scripts for execution.
 - [xsburg/vscode-javascript-booster](https://github.com/xsburg/vscode-javascript-booster) - Sprinkle extra refactorings, code actions and commands over your JavaScript! 🍩 TypeScript and Flow are first class citizens as well!
 - [t7yang/vscode-hyper-javascript-snippets](https://github.com/t7yang/vscode-hyper-javascript-snippets) - Visual Studio Code snippet extension for JavaScript and TypeScript
-- [ults-io/vscode-react-javascript-snippets](https://github.com/ults-io/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [Matterwiki/Matterwiki](https://github.com/Matterwiki/Matterwiki) - A simple and beautiful wiki for teams
 - [sendgrid/sendgrid-nodejs](https://github.com/sendgrid/sendgrid-nodejs) - The Official Twilio SendGrid Led, Community Driven Node.js API Library
@@ -1638,7 +1638,7 @@
 
 - [Moosems/PyInstallerBuild](https://github.com/Moosems/PyInstallerBuild) - Automatic Pyinstaller Application builds for Linux, Windows, and Mac OSX
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source app for creating studio-grade AI-generated images and video
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source webapp for creating studio-grade AI-generated images and video on desktop or server.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -1702,7 +1702,7 @@
 - [MentalGear/OpenSearchSafari](https://github.com/MentalGear/OpenSearchSafari) - Safari Extension to circumvent Apple's vendor-limited seach engine list and use any search engine within Safari's smart bar
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source app for creating studio-grade AI-generated images and video
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source webapp for creating studio-grade AI-generated images and video on desktop or server.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [OwenMelbz/macron](https://github.com/OwenMelbz/macron) - ⏱ Minimal macOS GUI for managing cron jobs
@@ -3079,7 +3079,7 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [wix-incubator/vscode-glean](https://github.com/wix-incubator/vscode-glean) - The extension provides refactoring tools for your React codebase
-- [ults-io/vscode-react-javascript-snippets](https://github.com/ults-io/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 - [Matterwiki/Matterwiki](https://github.com/Matterwiki/Matterwiki) - A simple and beautiful wiki for teams
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -3122,7 +3122,7 @@
 ## redux 
 
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [ults-io/vscode-react-javascript-snippets](https://github.com/ults-io/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 
 ## rest-api 
 
@@ -3193,7 +3193,7 @@
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Force a JSON schema on the model output on the generation level
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source app for creating studio-grade AI-generated images and video
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source webapp for creating studio-grade AI-generated images and video on desktop or server.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -3202,7 +3202,7 @@
 
 ## server 
 
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source app for creating studio-grade AI-generated images and video
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source webapp for creating studio-grade AI-generated images and video on desktop or server.
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [peers/peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
 - [bahmutov/start-server-and-test](https://github.com/bahmutov/start-server-and-test) - Starts server, waits for URL, then runs test command; when the tests end, shuts down server
@@ -3461,7 +3461,7 @@
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [xsburg/vscode-javascript-booster](https://github.com/xsburg/vscode-javascript-booster) - Sprinkle extra refactorings, code actions and commands over your JavaScript! 🍩 TypeScript and Flow are first class citizens as well!
 - [t7yang/vscode-hyper-javascript-snippets](https://github.com/t7yang/vscode-hyper-javascript-snippets) - Visual Studio Code snippet extension for JavaScript and TypeScript
-- [ults-io/vscode-react-javascript-snippets](https://github.com/ults-io/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 - [formulahendry/vscode-auto-rename-tag](https://github.com/formulahendry/vscode-auto-rename-tag) - Automatically rename paired HTML/XML tag
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
@@ -3589,7 +3589,7 @@
 ## webapp 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source app for creating studio-grade AI-generated images and video
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source webapp for creating studio-grade AI-generated images and video on desktop or server.
 - [atomicptr/dauntless-builder](https://github.com/atomicptr/dauntless-builder) - Create and share Dauntless builds with your friends!
 - [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
@@ -3612,7 +3612,7 @@
 
 - [Moosems/PyInstallerBuild](https://github.com/Moosems/PyInstallerBuild) - Automatic Pyinstaller Application builds for Linux, Windows, and Mac OSX
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source app for creating studio-grade AI-generated images and video
+- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source webapp for creating studio-grade AI-generated images and video on desktop or server.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
