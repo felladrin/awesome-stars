@@ -2066,11 +2066,12 @@
 
 ## others 
 
+- [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
 - [feliperyba/cocoscraft](https://github.com/feliperyba/cocoscraft) - Simple Voxel world engine and Minecraft-like playability made with Cocos Creator v3.8.1 and TypeScript
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
 - [Locutusque/TinyMistral-train-eval](https://github.com/Locutusque/TinyMistral-train-eval) - The training notebooks that were similar to the original script used to train TinyMistral.
 - [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, QWen, ChatGLM)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A toolkit for efficiently fine-tuning LLM (InternLM, Llama, Baichuan, Qwen, ChatGLM)
 - [josdejong/lossless-json](https://github.com/josdejong/lossless-json) - Parse JSON without risk of losing numeric information
 - [AutoLLM/AutoAgents](https://github.com/AutoLLM/AutoAgents) - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.
 - [mbzuai-nlp/LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
@@ -2761,8 +2762,8 @@
 - [zenorocha/diveintohtml5](https://github.com/zenorocha/diveintohtml5) - A portuguese translation of Dive Into HTML5 online book
 - [jonathantneal/svg4everybody](https://github.com/jonathantneal/svg4everybody) - Use external SVG spritemaps today
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
-- [coodict/javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture.
-- [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Learn python3 in one picture.
+- [rainyear/javascript-in-one-pic](https://github.com/rainyear/javascript-in-one-pic) - Learn javascript in one picture.
+- [rainyear/python3-in-one-pic](https://github.com/rainyear/python3-in-one-pic) - Learn python3 in one picture.
 - [michaelbromley/chromata](https://github.com/michaelbromley/chromata) - A generative art tool.
 - [tweecode/twine](https://github.com/tweecode/twine) - UI for creating hypertext stories
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
