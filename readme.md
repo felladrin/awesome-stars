@@ -812,7 +812,7 @@
 - [BackendStack21/restana](https://github.com/BackendStack21/restana) - Restana is a lightweight and fast Node.js framework for building RESTful APIs.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
@@ -1404,7 +1404,7 @@
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [jeeanribeiro/simple-remote-pair](https://github.com/jeeanribeiro/simple-remote-pair) - Simple multiplayer remote pairing web app
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [muicss/loadjs](https://github.com/muicss/loadjs) - A tiny async loader / dependency manager for modern browsers (899 bytes)
@@ -1877,7 +1877,7 @@
 - [DayBr3ak/node-sendkeys](https://github.com/DayBr3ak/node-sendkeys) - Keyboard emulation over nodejs
 - [devlato/async-wait-until](https://github.com/devlato/async-wait-until) - Waits for an expectation to be truthy. A small library with a convenient API suitable for unit and integration testing
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
-- [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts) - Node.js CLI options parser
+- [foldmap/getopts](https://github.com/foldmap/getopts) - Node.js CLI options parser
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -3576,7 +3576,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [foldmap/hyperapp](https://github.com/foldmap/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
