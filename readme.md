@@ -378,7 +378,7 @@
 
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
-- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -812,7 +812,7 @@
 - [BackendStack21/restana](https://github.com/BackendStack21/restana) - Restana is a lightweight and fast Node.js framework for building RESTful APIs.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
@@ -1404,7 +1404,7 @@
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 - [jeeanribeiro/simple-remote-pair](https://github.com/jeeanribeiro/simple-remote-pair) - Simple multiplayer remote pairing web app
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
-- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [muicss/loadjs](https://github.com/muicss/loadjs) - A tiny async loader / dependency manager for modern browsers (899 bytes)
@@ -1877,7 +1877,7 @@
 - [DayBr3ak/node-sendkeys](https://github.com/DayBr3ak/node-sendkeys) - Keyboard emulation over nodejs
 - [devlato/async-wait-until](https://github.com/devlato/async-wait-until) - Waits for an expectation to be truthy. A small library with a convenient API suitable for unit and integration testing
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
-- [joxji/getopts](https://github.com/joxji/getopts) - Node.js CLI options parser
+- [jorgebucaran/getopts](https://github.com/jorgebucaran/getopts) - Node.js CLI options parser
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [ladjs/supertest](https://github.com/ladjs/supertest) - 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -2067,7 +2067,6 @@
 ## others 
 
 - [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
-- [feliperyba/cocoscraft](https://github.com/feliperyba/cocoscraft) - Simple Voxel world engine and Minecraft-like playability made with Cocos Creator v3.8.1 and TypeScript
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
 - [Locutusque/TinyMistral-train-eval](https://github.com/Locutusque/TinyMistral-train-eval) - The training notebooks that were similar to the original script used to train TinyMistral.
 - [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
@@ -2236,7 +2235,7 @@
 - [TeamForbiddenLLC/warfork-qfusion](https://github.com/TeamForbiddenLLC/warfork-qfusion) - Warfork is powered by Qfusion a 3D game engine. The project was started by Victor Luchitz along with several others. It is written in C for use on Windows and Unix-based systems. Qfusion is a fork of 
 - [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
 - [chrisg32/Popout](https://github.com/chrisg32/Popout) - A simple extension that allows tabs to be opened in a separate minimal window.
-- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [usr-sse2/RDM](https://github.com/usr-sse2/RDM) - Easily set Mac Retina display to higher unsupported resolutions
 - [ngryman/reading-time](https://github.com/ngryman/reading-time) - :books: Medium's like reading time estimation.
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
@@ -3382,6 +3381,7 @@
 
 ## typescript 
 
+- [feliperyba/cocoscraft](https://github.com/feliperyba/cocoscraft) - Simple Voxel world engine and Minecraft-like playability made with Cocos Creator v3.8.1 and TypeScript
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
@@ -3576,7 +3576,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground
 - [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
-- [joxji/hyperapp](https://github.com/joxji/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
