@@ -2113,7 +2113,7 @@
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
 - [rahuldshetty/starcoder.js](https://github.com/rahuldshetty/starcoder.js) - Web browser version of StarCoder.cpp
-- [OpenBMB/VisCPM](https://github.com/OpenBMB/VisCPM) - Chinese and English Multimodal Large Model Series (Chat and Paint) | 基于CPM基础模型的中英双语多模态大模型系列
+- [OpenBMB/VisCPM](https://github.com/OpenBMB/VisCPM) - [ICLR'24 spotlight] Chinese and English Multimodal Large Model Series (Chat and Paint) | 基于CPM基础模型的中英双语多模态大模型系列
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [Iyashinouta/sd-model-downloader](https://github.com/Iyashinouta/sd-model-downloader) - SD Web UI Extension to Download Model from URL
@@ -2301,7 +2301,7 @@
 - [tonistiigi/audiosprite](https://github.com/tonistiigi/audiosprite) - Jukebox/Howler/CreateJS compatible audio sprite generator
 - [krzysztof-o/spritesheet.js](https://github.com/krzysztof-o/spritesheet.js) - Command-line spritesheet generator supporting Starling / Sparrow, PIXI.js, Easel.js and cocos2d
 - [mesh-js/mesh.js](https://github.com/mesh-js/mesh.js) - A graphics system born for visualization 😘.
-- [slaylines/canvas-engines-comparison](https://github.com/slaylines/canvas-engines-comparison) - Performance comparison of PixiJS, Two.js, Paper.js, Fabric.js and Pencil.js;
+- [slaylines/canvas-engines-comparison](https://github.com/slaylines/canvas-engines-comparison) - Performance comparison of different canvas rendering engines.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [johnnesky/beepbox](https://github.com/johnnesky/beepbox) - An online tool for sketching and sharing instrumental melodies.
 - [straker/rollup-plugin-kontra](https://github.com/straker/rollup-plugin-kontra) - Rollup plugin for Kontra.js to remove unused code from Classes
