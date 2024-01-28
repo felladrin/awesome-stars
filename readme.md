@@ -3521,7 +3521,7 @@
 - [GameRocket/GenWorld](https://github.com/GameRocket/GenWorld) - GenWorld - a procedural generation toolkit for the "Unity" game engine. Allows you to procedurally generate content for a scene from voxels. Uses various algorithms and methods where you can change th
 - [GreatArcStudios/unitypausemenu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking i
 - [appetizermonster/Unity3D-QuickSearch](https://github.com/appetizermonster/Unity3D-QuickSearch) - A Command Palette for Unity
-- [PhannGor/unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
+- [Borod4r/unity3d-rainbow-folders](https://github.com/Borod4r/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
 - [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 
 ## vim 
