@@ -609,7 +609,7 @@
 - [Maknee/minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp) - Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
-- [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
+- [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
@@ -1698,7 +1698,7 @@
 - [Maknee/minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp) - Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
-- [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
+- [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -2086,7 +2086,7 @@
 - [text-yoga/transformers-wasm](https://github.com/text-yoga/transformers-wasm) - WIP implementation of transformers in rust+wasm
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [neph1/LlamaTale](https://github.com/neph1/LlamaTale) - Giving the power of LLM's to a MUD lib.
-- [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
+- [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [Locutusque/TinyMistral-train-eval](https://github.com/Locutusque/TinyMistral-train-eval) - The training notebooks that were similar to the original script used to train TinyMistral.
 - [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
@@ -2443,7 +2443,7 @@
 - [Yuyz0112/syncit](https://github.com/Yuyz0112/syncit) - a privacy-first co-browsing tool
 - [eduardo-costa/web-bundle](https://github.com/eduardo-costa/web-bundle) - Tool to pack binary files into a PNG image.
 - [parsec-cloud/Parsec-Cloud-Preparation-Tool](https://github.com/parsec-cloud/Parsec-Cloud-Preparation-Tool) - Launch Parsec enabled cloud computers via your own cloud provider account.
-- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (109 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [rzrbld/adminio-api](https://github.com/rzrbld/adminio-api) - simple admin API for min.io (minio) s3 server
 - [rzrbld/adminio-ui](https://github.com/rzrbld/adminio-ui) - a simple admin ui for min.io (minio) s3 server
 - [vimtor/action-zip](https://github.com/vimtor/action-zip) - 🗄️ Action for zipping files easily
