@@ -58,6 +58,7 @@
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
+- [elixir](#elixir)
 - [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
@@ -112,6 +113,7 @@
 - [library](#library)
 - [linux](#linux)
 - [localization](#localization)
+- [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -741,6 +743,10 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+## elixir 
+
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 
 ## ember 
 
@@ -1686,6 +1692,13 @@
 - [wopian/preferred-locale](https://github.com/wopian/preferred-locale) - 🎌 Get a users' preferred locale/language from your app's available translations
 - [dekdevy/hordes-loc](https://github.com/dekdevy/hordes-loc) - Community driven Hordes.io string localization
 
+## low-code 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [design-first/system-designer](https://github.com/design-first/system-designer) - A low-code development platform for creating systems 🇺🇦#standwithUkraine
+
 ## lua 
 
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
@@ -1756,6 +1769,7 @@
 
 ## markdown 
 
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [dzylikecode/VSCodeExt-docsify-Preview](https://github.com/dzylikecode/VSCodeExt-docsify-Preview) - write docsify elegantly in VSCode
