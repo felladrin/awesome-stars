@@ -2483,7 +2483,7 @@
 - [webextensions/console-panel](https://github.com/webextensions/console-panel) - A console panel within webpage to help in the following use-cases: Get notification on console messages ; Console logging on mobile and tablet devices ; Console logging on Microsoft Edge / Internet Ex
 - [maslianok/js-floating-point](https://github.com/maslianok/js-floating-point) - Dead-simple and lightning-fast solution for the floating-point issue in JavaScript
 - [jprichardson/cross-zip-cli](https://github.com/jprichardson/cross-zip-cli) - Zip/Unzip directories cross platform from the CLI. Great for npm scripts.
-- [SchynsO/SuperPowers-Chess](https://github.com/SchynsO/SuperPowers-Chess) - a 3D Chess game that runs in your web browser.
+- [hashalon/SuperPowers-Chess](https://github.com/hashalon/SuperPowers-Chess) - a 3D Chess game that runs in your web browser.
 - [iocave/customize-ui](https://github.com/iocave/customize-ui) - UI Customization plugin for vscode
 - [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [sindresorhus/random-item](https://github.com/sindresorhus/random-item) - Get a random item from an array
