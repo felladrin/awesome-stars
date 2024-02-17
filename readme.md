@@ -216,6 +216,7 @@
 
 ## ai 
 
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - ⚗️ AI Feedback framework for scalable LLM alignment
 - [do-me/SemanticFinder](https://github.com/do-me/SemanticFinder) - SemanticFinder - frontend-only live semantic search with transformers.js
@@ -611,6 +612,7 @@
 
 ## deep-learning 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
@@ -1886,6 +1888,7 @@
 
 ## nlp 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [alibaba/data-juicer](https://github.com/alibaba/data-juicer) - A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [princeton-nlp/LLM-Shearing](https://github.com/princeton-nlp/LLM-Shearing) - [ICLR 2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
@@ -2105,6 +2108,7 @@
 
 ## others 
 
+- [efeslab/fiddler](https://github.com/efeslab/fiddler) - Fast Inference of MoE Models with CPU-GPU Orchestration
 - [microsoft/xtreme-distil-transformers](https://github.com/microsoft/xtreme-distil-transformers) - XtremeDistil framework for distilling/compressing massive multilingual neural network models to tiny and efficient models for AI at scale
 - [tangledgroup/llama-cpp-wasm](https://github.com/tangledgroup/llama-cpp-wasm) - WebAssembly (Wasm) Build and Bindings for llama.cpp
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) - Visualize the intermediate output of Mistral 7B
@@ -3051,6 +3055,7 @@
 
 ## pytorch 
 
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [alibaba/data-juicer](https://github.com/alibaba/data-juicer) - A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP
@@ -3087,6 +3092,7 @@
 
 ## react 
 
+- [Svetloslav15/react-sidebar-ui](https://github.com/Svetloslav15/react-sidebar-ui) - ⚛️  The Sidebar Component for React.js
 - [sheeehy/GeoGit](https://github.com/sheeehy/GeoGit) - Rank the top Software Developers by location.
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
@@ -3163,6 +3169,7 @@
 
 ## reactjs 
 
+- [Svetloslav15/react-sidebar-ui](https://github.com/Svetloslav15/react-sidebar-ui) - ⚛️  The Sidebar Component for React.js
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
 - [sheeehy/GeoGit](https://github.com/sheeehy/GeoGit) - Rank the top Software Developers by location.
 - [silevis/reactgrid](https://github.com/silevis/reactgrid) - Add spreadsheet-like behavior to your React app
@@ -3406,6 +3413,7 @@
 
 ## testing 
 
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & pri
 - [githubnext/testpilot](https://github.com/githubnext/testpilot) - Test generation using large language models
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
