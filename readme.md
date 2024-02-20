@@ -3092,6 +3092,7 @@
 
 ## react 
 
+- [tuan3w/linearapp_clone](https://github.com/tuan3w/linearapp_clone) - A Linear App clone with React and Tailwind CSS
 - [Svetloslav15/react-sidebar-ui](https://github.com/Svetloslav15/react-sidebar-ui) - ⚛️  The Sidebar Component for React.js
 - [sheeehy/GeoGit](https://github.com/sheeehy/GeoGit) - Rank the top Software Developers by location.
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
@@ -3169,6 +3170,7 @@
 
 ## reactjs 
 
+- [tuan3w/linearapp_clone](https://github.com/tuan3w/linearapp_clone) - A Linear App clone with React and Tailwind CSS
 - [Svetloslav15/react-sidebar-ui](https://github.com/Svetloslav15/react-sidebar-ui) - ⚛️  The Sidebar Component for React.js
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
 - [sheeehy/GeoGit](https://github.com/sheeehy/GeoGit) - Rank the top Software Developers by location.
