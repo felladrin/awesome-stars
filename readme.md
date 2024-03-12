@@ -2119,6 +2119,7 @@
 
 ## others 
 
+- [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [AndrewVeee/nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 - [adamjgrant/Tiny-Predictive-Text](https://github.com/adamjgrant/Tiny-Predictive-Text) - A demonstration of predictive text without an LLM, using permy.link
