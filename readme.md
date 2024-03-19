@@ -2119,6 +2119,8 @@
 
 ## others 
 
+- [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
