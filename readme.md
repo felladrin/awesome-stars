@@ -2119,6 +2119,7 @@
 
 ## others 
 
+- [chaosprint/vite-plugin-cross-origin-isolation](https://github.com/chaosprint/vite-plugin-cross-origin-isolation) - A vite plugin for enabling cross-origin-isolation for dev server.
 - [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
