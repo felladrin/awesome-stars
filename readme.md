@@ -2313,7 +2313,7 @@
 - [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
 - [mattreid1/baojs](https://github.com/mattreid1/baojs) - ⚡️ A fast, minimalist web framework for the Bun JavaScript runtime
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
-- [dumblob/mysql2sqlite](https://github.com/dumblob/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
+- [mysql2sqlite/mysql2sqlite](https://github.com/mysql2sqlite/mysql2sqlite) - Converts MySQL dump to SQLite3 compatible dump
 - [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
