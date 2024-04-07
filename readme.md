@@ -2377,7 +2377,7 @@
 - [johnfn/ts2gd](https://github.com/johnfn/ts2gd) - 💥 Compile TypeScript to GDScript for Godot
 - [Geequlim/ECMAScript](https://github.com/Geequlim/ECMAScript) - Javascript binding for godotengine
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
-- [excaliburjs/excaliburjs.github.io](https://github.com/excaliburjs/excaliburjs.github.io) - Public site for Excalibur.js (Documentation/Showcase/etc)
+- [excaliburjs/excaliburjs.github.io](https://github.com/excaliburjs/excaliburjs.github.io) - ⚠️ Old Public site for Excalibur.js (Documentation/Showcase/etc) ⚠️Visit main repo https://github.com/excaliburjs/Excalibur/tree/main/site for latest
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
 - [sindresorhus/is-url-superb](https://github.com/sindresorhus/is-url-superb) - Check if a string is a URL
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
@@ -3620,6 +3620,7 @@
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
