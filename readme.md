@@ -711,7 +711,7 @@
 - [pastelsky/tsdocs](https://github.com/pastelsky/tsdocs) - Browse type documentation for JS libraries
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [typedoc-plugin-markdown/typedoc-plugin-markdown](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [cocos/cocos-docs](https://github.com/cocos/cocos-docs) - Manual docs content for Cocos Creator
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1098,6 +1098,7 @@
 
 ## hacktoberfest 
 
+- [exceljs/exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom) - 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016)
 - [runk/node-chardet](https://github.com/runk/node-chardet) - Character encoding detection tool for NodeJS
@@ -1807,7 +1808,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [endel/tutomd](https://github.com/endel/tutomd) - 📄 Tool that generates good-looking and structured tutorials with Markdown
-- [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [typedoc-plugin-markdown/typedoc-plugin-markdown](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
@@ -3555,7 +3556,7 @@
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-- [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+- [typedoc-plugin-markdown/typedoc-plugin-markdown](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [dakenf/stable-diffusion-nodejs](https://github.com/dakenf/stable-diffusion-nodejs) - GPU-accelerated javascript runtime for StableDiffusion. Uses modified ONNX runtime to support CUDA and DirectML.
 - [tamino-martinius/node-ts-dedent](https://github.com/tamino-martinius/node-ts-dedent) - TypeScript package which smartly trims and strips indentation from multi-line strings
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 Strongly typed CLI development for Node.js
