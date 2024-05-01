@@ -289,6 +289,7 @@
 
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
