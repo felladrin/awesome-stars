@@ -113,6 +113,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -1717,6 +1718,46 @@
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [aluxian/Messenger-for-Desktop](https://github.com/aluxian/Messenger-for-Desktop) - This is not an official Facebook product, and is not affiliated with, or sponsored or endorsed by, Facebook.
 
+## llm 
+
+- [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
+- [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
+- [BatsResearch/bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
+- [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
+- [mbzuai-oryx/MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
+- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs. Catch regressions and improve prompt quality. LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local & private models wit
+- [efeslab/fiddler](https://github.com/efeslab/fiddler) - Fast Inference of MoE Models with CPU-GPU Orchestration
+- [Contextualist/lone-arena](https://github.com/Contextualist/lone-arena) - Self-hosted LLM chatbot arena, with yourself as the only judge
+- [modelscope/data-juicer](https://github.com/modelscope/data-juicer) - A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷为大语言模型提供更高质量、更丰富、更易”消化“的数据！
+- [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
+- [text-yoga/transformers-wasm](https://github.com/text-yoga/transformers-wasm) - WIP implementation of transformers in rust+wasm
+- [neph1/LlamaTale](https://github.com/neph1/LlamaTale) - Giving the power of LLM's to a MUD lib.
+- [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
+- [princeton-nlp/LLM-Shearing](https://github.com/princeton-nlp/LLM-Shearing) - [ICLR 2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
+- [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
+- [AutoLLM/AutoAgents](https://github.com/AutoLLM/AutoAgents) - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.
+- [drbh/gmessage](https://github.com/drbh/gmessage) - 💬 modular open source LLM server, web and desktop app
+- [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Force a JSON schema on the model output on the generation level
+- [rahuldshetty/llm.js](https://github.com/rahuldshetty/llm.js) - Run Large-Language Models (LLMs) 🚀 directly in your browser!
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- [idosal/AgentLLM](https://github.com/idosal/AgentLLM) - AgentLLM is a PoC for browser-native autonomous agents
+- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+- [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
+- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
+- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
+- [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
+- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+
 ## localization 
 
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
@@ -2162,8 +2203,6 @@
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
 - [curvedinf/dir-assistant](https://github.com/curvedinf/dir-assistant) - Chat with your current directory's files using a local or API LLM.
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
-- [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.
 - [huggingface/ratchet](https://github.com/huggingface/ratchet) - A cross-platform browser ML framework.
 - [sapphi-red/vite-plugin-static-copy](https://github.com/sapphi-red/vite-plugin-static-copy) - rollup-plugin-copy with dev server support.
 - [vitejs/vite-plugin-basic-ssl](https://github.com/vitejs/vite-plugin-basic-ssl) - Basic https setup using an automatically generated self-signed certificate
@@ -2174,35 +2213,24 @@
 - [chaosprint/vite-plugin-cross-origin-isolation](https://github.com/chaosprint/vite-plugin-cross-origin-isolation) - A vite plugin for enabling cross-origin-isolation for dev server.
 - [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
-- [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling in-browser LLM inference
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [AndrewVeee/nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 - [adamjgrant/Tiny-Predictive-Text](https://github.com/adamjgrant/Tiny-Predictive-Text) - A demonstration of predictive text without an LLM, using permy.link
-- [BatsResearch/bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
-- [mbzuai-oryx/MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
 - [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa) - Developer APIs to Accelerate LLM Projects
 - [EGjoni/DRUGS](https://github.com/EGjoni/DRUGS) - Stop messing around with finicky sampling parameters and just use DRµGS!
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Experiment with Large Language Models
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
-- [efeslab/fiddler](https://github.com/efeslab/fiddler) - Fast Inference of MoE Models with CPU-GPU Orchestration
 - [microsoft/xtreme-distil-transformers](https://github.com/microsoft/xtreme-distil-transformers) - XtremeDistil framework for distilling/compressing massive multilingual neural network models to tiny and efficient models for AI at scale
 - [tangledgroup/llama-cpp-wasm](https://github.com/tangledgroup/llama-cpp-wasm) - WebAssembly (Wasm) Build and Bindings for llama.cpp
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) - Visualize the intermediate output of Mistral 7B
-- [Contextualist/lone-arena](https://github.com/Contextualist/lone-arena) - Self-hosted LLM chatbot arena, with yourself as the only judge
 - [Nkluge-correa/TeenyTinyLlama](https://github.com/Nkluge-correa/TeenyTinyLlama) - A pair of tiny foundational models trained in Brazilian Portuguese.🦙🦙
-- [text-yoga/transformers-wasm](https://github.com/text-yoga/transformers-wasm) - WIP implementation of transformers in rust+wasm
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
-- [neph1/LlamaTale](https://github.com/neph1/LlamaTale) - Giving the power of LLM's to a MUD lib.
-- [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - [Locutusque/TinyMistral-train-eval](https://github.com/Locutusque/TinyMistral-train-eval) - The training notebooks that were similar to the original script used to train TinyMistral.
-- [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [josdejong/lossless-json](https://github.com/josdejong/lossless-json) - Parse JSON without risk of losing numeric information
-- [AutoLLM/AutoAgents](https://github.com/AutoLLM/AutoAgents) - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.
 - [mbzuai-nlp/LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
 - [ubershmekel/cssbed](https://github.com/ubershmekel/cssbed) - Test bed for simple css resets that make your static page nice without classes.
 - [egoist/typed-worker](https://github.com/egoist/typed-worker) - Type-safe and Promisified API for Web Worker and Iframe
@@ -2232,14 +2260,12 @@
 - [Iyashinouta/sd-model-downloader](https://github.com/Iyashinouta/sd-model-downloader) - SD Web UI Extension to Download Model from URL
 - [pixijs/layout](https://github.com/pixijs/layout) - Library for arranging/resizing pixiJS rendered elements basing on css like configs
 - [nvms/wingman](https://github.com/nvms/wingman) - Your pair programming wingman. Supports OpenAI, Anthropic, or any LLM on your local inference server.
-- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [ynagatomo/ARWallPicture](https://github.com/ynagatomo/ARWallPicture) - An minimal iOS app that displays images on the wall with AR.
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [UCSD-AI4H/XrayChat](https://github.com/UCSD-AI4H/XrayChat) - XrayChat: Towards Enabling ChatGPT-Like Capabilities on X-ray Images
-- [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
@@ -2272,7 +2298,6 @@
 - [zanllp/sd-webui-infinite-image-browsing](https://github.com/zanllp/sd-webui-infinite-image-browsing) - A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports standalon
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [ryu1kn/vscode-partial-diff](https://github.com/ryu1kn/vscode-partial-diff) - Visual Studio Code Extension. Take a diff of 2 parts of text(s)
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
 - [apidoc/apidoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
@@ -2290,7 +2315,6 @@
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
-- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
