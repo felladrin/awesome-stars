@@ -2205,6 +2205,7 @@
 
 ## others 
 
+- [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 - [1602/json-viewer](https://github.com/1602/json-viewer) - 
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) - One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
