@@ -2214,6 +2214,7 @@
 
 ## others 
 
+- [andrico1234/the-dilemmas-youll-face](https://github.com/andrico1234/the-dilemmas-youll-face) - The Dilemmas You'll Face When Creating Your First Component Library
 - [IroncladDev/llm-arena](https://github.com/IroncladDev/llm-arena) - Compare LLMs side-by-side
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [gzuidhof/coi-serviceworker](https://github.com/gzuidhof/coi-serviceworker) - Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)
