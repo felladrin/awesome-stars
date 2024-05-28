@@ -1328,6 +1328,7 @@
 
 ## ios 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -1734,6 +1735,7 @@
 
 ## llm 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [arcee-ai/PruneMe](https://github.com/arcee-ai/PruneMe) - Automated Identification of Redundant Layer Blocks for Pruning in Large Language Models
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
@@ -1770,7 +1772,7 @@
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
-- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 
@@ -2655,7 +2657,7 @@
 - [nicojs/typed-inject](https://github.com/nicojs/typed-inject) - Type safe dependency injection for TypeScript
 - [cedricfarinazzo/php-hardware-monitoring](https://github.com/cedricfarinazzo/php-hardware-monitoring) - Shows CPU and RAM usage graphs dynamically in a web browser.
 - [lucasgomide/videos-pt.br-tecnologia](https://github.com/lucasgomide/videos-pt.br-tecnologia) - Repositório de canais no Youtube BR sobre desenvolvimento
-- [emreyolcu/discrete-scroll](https://github.com/emreyolcu/discrete-scroll) - Fix for macOS's unnecessary scroll acceleration
+- [emreyolcu/discrete-scroll](https://github.com/emreyolcu/discrete-scroll) - Fix for macOS's unnecessary scroll wheel acceleration
 - [SlavaRa/fdplugin-quicknavigate](https://github.com/SlavaRa/fdplugin-quicknavigate) - Quick Navigate Plugin for FlashDevelop/HaxeDevelop
 - [maierfelix/azula](https://github.com/maierfelix/azula) - Lightweight GPU accelerated HTML GUI for native JavaScript
 - [jaxgeller/tweezer.js](https://github.com/jaxgeller/tweezer.js) - A small, dependency-free, ES6 library for smooth animations.
@@ -3526,6 +3528,7 @@
 
 ## swift 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
