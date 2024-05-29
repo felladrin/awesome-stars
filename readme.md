@@ -310,7 +310,6 @@
 - [lilacai/lilac](https://github.com/lilacai/lilac) - Curate better data for LLMs
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
-- [chathub-dev/bing-chat-sidebar-for-chrome](https://github.com/chathub-dev/bing-chat-sidebar-for-chrome) - Bing chat sidebar ported from Microsoft Edge to Chrome
 - [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a simple general-purpose autonomous agent based on the OpenAI API.
 
 ## automation 
@@ -433,7 +432,6 @@
 
 ## chrome-extension 
 
-- [chathub-dev/bing-chat-sidebar-for-chrome](https://github.com/chathub-dev/bing-chat-sidebar-for-chrome) - Bing chat sidebar ported from Microsoft Edge to Chrome
 - [chinchang/loremizer](https://github.com/chinchang/loremizer) - lorem ipsum-izes any web page
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
@@ -927,13 +925,13 @@
 - [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## game-engine 
 
+- [moddio/moddio2](https://github.com/moddio/moddio2) - HTML5 multiplayer game engine
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
-- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
 - [eva-engine/eva.js](https://github.com/eva-engine/eva.js) - Eva.js is a front-end game engine specifically for creating interactive game projects.
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
@@ -952,7 +950,7 @@
 - [tenjou/meta2d](https://github.com/tenjou/meta2d) - Meta2D is open source WebGL 2D game engine for making cross platform games.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [RanvierMUD/ranviermud](https://github.com/RanvierMUD/ranviermud) - A node.js based MUD game engine
 
 ## gamedev 
@@ -980,7 +978,7 @@
 - [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## gamemaker 
 
@@ -1606,7 +1604,7 @@
 - [thaispalmer/thomud](https://github.com/thaispalmer/thomud) - A browser-based MUD game server using NodeJS
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video_game: Open-source, cross-platform game engine designed to be used by everyone.
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [RanvierMUD/ranviermud](https://github.com/RanvierMUD/ranviermud) - A node.js based MUD game engine
 
@@ -1758,7 +1756,7 @@
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [princeton-nlp/LLM-Shearing](https://github.com/princeton-nlp/LLM-Shearing) - [ICLR 2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
 - [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [AutoLLM/AutoAgents](https://github.com/AutoLLM/AutoAgents) - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.
 - [drbh/gmessage](https://github.com/drbh/gmessage) - 💬 modular open source LLM server, web and desktop app
@@ -1834,7 +1832,7 @@
 - [yep/virtualOS](https://github.com/yep/virtualOS) - macOS Virtual Machine using Virtualization.framework
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
+- [sindresorhus/LaunchAtLogin-Legacy](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Add “Launch at Login” functionality to your macOS app in seconds
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -2048,6 +2046,7 @@
 
 ## nodejs 
 
+- [moddio/moddio2](https://github.com/moddio/moddio2) - HTML5 multiplayer game engine
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [undb-xyz/undb](https://github.com/undb-xyz/undb) - 🚀 Private first, unified, self-hosted no code database.
@@ -2072,7 +2071,6 @@
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
-- [moddio/taro](https://github.com/moddio/taro) - HTML5 multiplayer game engine (Now archived, new version available at https://github.com/moddio/moddio2)
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
@@ -2162,7 +2160,7 @@
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [thaispalmer/thomud](https://github.com/thaispalmer/thomud) - A browser-based MUD game server using NodeJS
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [RanvierMUD/ranviermud](https://github.com/RanvierMUD/ranviermud) - A node.js based MUD game engine
 
 ## nosql 
@@ -2218,6 +2216,8 @@
 
 ## others 
 
+- [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure
+- [sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache
 - [andrico1234/the-dilemmas-youll-face](https://github.com/andrico1234/the-dilemmas-youll-face) - The Dilemmas You'll Face When Creating Your First Component Library
 - [IroncladDev/llm-arena](https://github.com/IroncladDev/llm-arena) - Compare LLMs side-by-side
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
@@ -3531,7 +3531,7 @@
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
-- [sindresorhus/LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds
+- [sindresorhus/LaunchAtLogin-Legacy](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Add “Launch at Login” functionality to your macOS app in seconds
 - [sindresorhus/System-Color-Picker](https://github.com/sindresorhus/System-Color-Picker) - 🎨 The macOS color picker as an app with more features
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -3722,7 +3722,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## unity 
 
@@ -3744,7 +3744,7 @@
 ## virtual-reality 
 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## visual-studio-code 
 
