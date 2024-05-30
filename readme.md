@@ -2216,6 +2216,7 @@
 
 ## others 
 
+- [cryscan/web-rwkv-realweb](https://github.com/cryscan/web-rwkv-realweb) - 
 - [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure
 - [sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache
 - [andrico1234/the-dilemmas-youll-face](https://github.com/andrico1234/the-dilemmas-youll-face) - The Dilemmas You'll Face When Creating Your First Component Library
@@ -2411,7 +2412,6 @@
 - [astoilkov/main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Fast and consistently responsive apps using a single function call
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [TeamForbiddenLLC/warfork-qfusion](https://github.com/TeamForbiddenLLC/warfork-qfusion) - Warfork is powered by Qfusion a 3D game engine. Qfusion is a fork of id Tech 2, popularly known as the Quake II engine. Qfusion is free and open-source software subject to the terms of the GNU General
-- [ranmaru22/firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - This repo is a read-only mirror of https://codeberg.org/ranmaru22/firefox-vertical-tabs
 - [chrisg32/Popout](https://github.com/chrisg32/Popout) - A simple extension that allows tabs to be opened in a separate minimal window.
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [usr-sse2/RDM](https://github.com/usr-sse2/RDM) - Easily set Mac Retina display to higher unsupported resolutions
