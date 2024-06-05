@@ -2220,6 +2220,7 @@
 
 ## others 
 
+- [pinokiocomputer/llamanet](https://github.com/pinokiocomputer/llamanet) - Replace OpenAI with Llama.cpp Automagically.
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [cryscan/web-rwkv-realweb](https://github.com/cryscan/web-rwkv-realweb) - 
 - [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure
