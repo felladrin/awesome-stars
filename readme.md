@@ -39,6 +39,7 @@
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [data](#data)
@@ -549,6 +550,12 @@
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
+
+## cryptography 
+
+- [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
+- [strongbox-password-safe/Strongbox](https://github.com/strongbox-password-safe/Strongbox) - A KeePass/Password Safe Client for iOS and OS X
+- [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 
 ## csharp 
 
@@ -2356,7 +2363,7 @@
 - [jessetane/queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [zanllp/sd-webui-infinite-image-browsing](https://github.com/zanllp/sd-webui-infinite-image-browsing) - A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI, featuring infinite scrolling and advanced search capabilities using image parameters. It also supports
+- [zanllp/sd-webui-infinite-image-browsing](https://github.com/zanllp/sd-webui-infinite-image-browsing) - A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI / StableSwarmUI, featuring infinite scrolling and advanced search capabilities using image parameters. 
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [ryu1kn/vscode-partial-diff](https://github.com/ryu1kn/vscode-partial-diff) - Visual Studio Code Extension. Take a diff of 2 parts of text(s)
 - [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
