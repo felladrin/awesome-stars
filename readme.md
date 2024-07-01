@@ -435,7 +435,6 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [karma-runner/karma-chrome-launcher](https://github.com/karma-runner/karma-chrome-launcher) - A Karma plugin. Launcher for Chrome and Chrome Canary.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -860,7 +859,6 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## flask 
 
