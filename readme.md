@@ -1763,6 +1763,7 @@
 
 ## llm 
 
+- [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [opening-up-chatgpt/opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Tracking instruction-tuned LLM openness. Paper: Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-T
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
