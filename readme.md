@@ -1767,7 +1767,6 @@
 
 ## llm 
 
-- [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
 - [opening-up-chatgpt/opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Tracking instruction-tuned LLM openness. Paper: Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-T
@@ -2265,7 +2264,6 @@
 ## others 
 
 - [rooben-me/tone-changer-open](https://github.com/rooben-me/tone-changer-open) - 
-- [syv-ai/OpenArena](https://github.com/syv-ai/OpenArena) - 
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
