@@ -499,7 +499,7 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [typicode/please-upgrade-node](https://github.com/typicode/please-upgrade-node) - :information_desk_person: Show a message to your users to upgrade Node instead of a stacktrace
-- [transient-jonas/resize-cli](https://github.com/transient-jonas/resize-cli) - Terminal client to resize images keeping the aspect ratio
+- [jmpas/resize-cli](https://github.com/jmpas/resize-cli) - Terminal client to resize images keeping the aspect ratio
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [itgalaxy/webfont](https://github.com/itgalaxy/webfont) - Awesome generator of webfont
 
@@ -1581,7 +1581,7 @@
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [transient-jonas/resize-cli](https://github.com/transient-jonas/resize-cli) - Terminal client to resize images keeping the aspect ratio
+- [jmpas/resize-cli](https://github.com/jmpas/resize-cli) - Terminal client to resize images keeping the aspect ratio
 - [totaljs/helpdesk](https://github.com/totaljs/helpdesk) - HelpDesk open-source web applications for free for everyone. Download and use it!
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
