@@ -1032,7 +1032,7 @@
 - [taddison/GitLazy](https://github.com/taddison/GitLazy) - GitLazy VSCode Extension
 - [mhutchie/vscode-git-graph](https://github.com/mhutchie/vscode-git-graph) - View a Git Graph of your repository in Visual Studio Code, and easily perform Git actions from the graph.
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick
@@ -2024,7 +2024,6 @@
 ## nestjs 
 
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first, unified, self-hosted no code database.
 
 ## neural-network 
 
@@ -2104,7 +2103,6 @@
 - [moddio/moddio2](https://github.com/moddio/moddio2) - HTML5 multiplayer game engine
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first, unified, self-hosted no code database.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Force a JSON schema on the model output on the generation level
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [MichaelCurrin/auto-commit-msg](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes
