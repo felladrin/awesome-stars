@@ -2532,7 +2532,7 @@
 - [excaliburjs/excaliburjs.github.io](https://github.com/excaliburjs/excaliburjs.github.io) - ⚠️ Old Public site for Excalibur.js (Documentation/Showcase/etc) ⚠️Visit main repo https://github.com/excaliburjs/Excalibur/tree/main/site for latest
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
 - [sindresorhus/is-url-superb](https://github.com/sindresorhus/is-url-superb) - Check if a string is a URL
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~400 B) & modern library for keybindings.
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [luizperes/simdjson_nodejs](https://github.com/luizperes/simdjson_nodejs) - Node.js bindings for the simdjson project: "Parsing gigabytes of JSON per second"
