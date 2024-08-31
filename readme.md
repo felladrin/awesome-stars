@@ -1953,6 +1953,7 @@
 
 ## markdown 
 
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -3340,6 +3341,7 @@
 
 ## react 
 
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
