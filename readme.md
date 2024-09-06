@@ -954,6 +954,7 @@
 - [GreatArcStudios/unitypausemenu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking i
 - [tenjou/meta2d](https://github.com/tenjou/meta2d) - Meta2D is open source WebGL 2D game engine for making cross platform games.
 - [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [thaispalmer/thomud](https://github.com/thaispalmer/thomud) - A browser-based MUD game server using NodeJS
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [voithos/swiftcode](https://github.com/voithos/swiftcode) - Multiplayer, interactive, realtime typing speed game
@@ -1675,6 +1676,7 @@
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
+- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [wanadev/PhotonUI](https://github.com/wanadev/PhotonUI) - A javascript framework to create user interfaces
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -2312,6 +2314,7 @@
 
 ## others 
 
+- [stephenscaff/react-stagger-text](https://github.com/stephenscaff/react-stagger-text) - React StaggerText is a TS component for creating staggered text reveals by word or letter, as text enters viewport.
 - [gkaemmer/react-fade-in](https://github.com/gkaemmer/react-fade-in) - Dead-simple component to fade in an element's children.
 - [LostRuins/datasetexplorer](https://github.com/LostRuins/datasetexplorer) - Easily view and modify JSON datasets for large language models
 - [arcee-ai/DistillKit](https://github.com/arcee-ai/DistillKit) - An Open Source Toolkit For LLM Distillation
@@ -2383,6 +2386,7 @@
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [JacobLinCool/huggingface-sync](https://github.com/JacobLinCool/huggingface-sync) - Sync your GitHub repository to Hugging Face Spaces.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [yusufhilmi/client-vector-search](https://github.com/yusufhilmi/client-vector-search) - A client side vector search library that can embed, store, search, and cache vectors. Works on the browser and node. It outperforms OpenAI's text-embedding-ada-002 and is way faster than Pinecone and 
 - [wizzard0/t348-loader](https://github.com/wizzard0/t348-loader) - isomorphic (browser, node) TypeScript / Javascript loader
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
@@ -3071,7 +3075,6 @@
 - [florentpoujol/superpowers-game-ftext-plugin](https://github.com/florentpoujol/superpowers-game-ftext-plugin) - Generic text asset for Superpowers, the extensible HTML5 2D+3D game engine.
 - [florentpoujol/superpowers-game-flang-plugin](https://github.com/florentpoujol/superpowers-game-flang-plugin) - Easy localization for Superpowers, the extensible HTML5 2D+3D game engine.
 - [ata4/disunity](https://github.com/ata4/disunity) - An experimental toolset for Unity asset and asset bundle files.
-- [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - A small clone of 1024 (https://web.archive.org/web/20140328011720/https://play.google.com/store/apps/details?id=com.veewo.a1024)
 - [joewalnes/reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects
 - [rstaib/jquery-steps](https://github.com/rstaib/jquery-steps) - A powerful jQuery wizard plugin that supports accessibility and HTML5.
 - [vrana/JsShrink](https://github.com/vrana/JsShrink) - Remove spaces and comments from JavaScript code (available in PHP and JavaScript)
