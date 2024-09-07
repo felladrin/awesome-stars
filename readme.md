@@ -2314,6 +2314,8 @@
 
 ## others 
 
+- [kevinthedang/discord-ollama](https://github.com/kevinthedang/discord-ollama) - Discord Bot that utilizes Ollama to interact with any Large Language Models to talk with users and allow them to host/create their own models.
+- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [stephenscaff/react-stagger-text](https://github.com/stephenscaff/react-stagger-text) - React StaggerText is a TS component for creating staggered text reveals by word or letter, as text enters viewport.
 - [gkaemmer/react-fade-in](https://github.com/gkaemmer/react-fade-in) - Dead-simple component to fade in an element's children.
 - [LostRuins/datasetexplorer](https://github.com/LostRuins/datasetexplorer) - Easily view and modify JSON datasets for large language models
@@ -2363,7 +2365,7 @@
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [AndrewVeee/nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 - [adamjgrant/Tiny-Predictive-Text](https://github.com/adamjgrant/Tiny-Predictive-Text) - A demonstration of predictive text without an LLM, using permy.link
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa) - Developer APIs to Accelerate LLM Projects
 - [EGjoni/DRUGS](https://github.com/EGjoni/DRUGS) - Stop messing around with finicky sampling parameters and just use DRµGS!
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
@@ -3193,7 +3195,7 @@
 - [esperecyan/url](https://github.com/esperecyan/url) - Makes the algorithms and APIs defined by URL Standard (replaces RFC 3986 and RFC 3987) available on PHP. / URL Standard (RFC 3986、RFC 3987 を置き換える Web 標準仕様) で定義されているアルゴリズム、および API を PHP から利用できるようにします。
 - [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
 - [danielstjules/Stringy](https://github.com/danielstjules/Stringy) - A PHP string manipulation library with multibyte support
-- [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool.
+- [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 - [flightphp/core](https://github.com/flightphp/core) - An extensible micro-framework for PHP
 - [fire015/flintstone](https://github.com/fire015/flintstone) - A key/value database store using flat files for PHP.
