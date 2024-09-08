@@ -2323,7 +2323,7 @@
 - [RichardKelley/hflm](https://github.com/RichardKelley/hflm) - A simple library for working with Hugging Face models.
 - [SingularityMan/vector_companion](https://github.com/SingularityMan/vector_companion) - A local AI companion that uses a collection of free, open source AI models in order to create two virtual companions that will follow your computer journey wherever you go!
 - [l33tkr3w/LlamaCards](https://github.com/l33tkr3w/LlamaCards) - LlamaCards is a web application that provides a dynamic interface for interacting with LLM models in real-time. This app allows users to create and connect cards, each representing different functiona
-- [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use in LLMs
+- [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
