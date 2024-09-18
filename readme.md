@@ -369,7 +369,7 @@
 
 ## backend 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
@@ -599,7 +599,7 @@
 
 ## css 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
@@ -912,7 +912,7 @@
 
 ## framework 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [rovelstars/reejs](https://github.com/rovelstars/reejs) - Make Sites Faster, without the need of building anything!
 - [BackendStack21/restana](https://github.com/BackendStack21/restana) - Restana is a lightweight and fast Node.js framework for building RESTful APIs.
@@ -931,7 +931,7 @@
 
 ## frontend 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
@@ -941,7 +941,7 @@
 
 ## game 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS) - Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [eliasku/13](https://github.com/eliasku/13) - Fast-action P2P multiplayer game 13 (js13k-2022)
@@ -961,7 +961,7 @@
 
 ## game-development 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [rameshvarun/netplayjs](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required. Powered by rollback netcode + WebRTC.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
@@ -988,7 +988,7 @@
 
 ## game-engine 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [moddio/moddio2](https://github.com/moddio/moddio2) - HTML5 multiplayer game engine
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
@@ -1015,7 +1015,7 @@
 
 ## gamedev 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [rameshvarun/netplayjs](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required. Powered by rollback netcode + WebRTC.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [kutuluk/js13k-2d](https://github.com/kutuluk/js13k-2d) - A 2kb webgl 2d sprite renderer, designed for Js13kGames
@@ -1320,7 +1320,7 @@
 
 ## html 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [litecart/litecart](https://github.com/litecart/litecart) - LiteCart is a superfast e-commerce platform. Free for everyone to use. Built with the obsession of lightweight using PHP, jQuery HTML 5 and CSS 3.
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
@@ -1429,7 +1429,7 @@
 
 ## javascript 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
@@ -1816,6 +1816,7 @@
 
 ## llm 
 
+- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.
 - [rooben-me/tone-changer-open](https://github.com/rooben-me/tone-changer-open) - This project is a reverse-engineered version of Figma's tone changer. It uses Groq's Llama-3-8b for high-speed inference and to adjust the tone of input text based on user-selected tones and weights.
@@ -3174,7 +3175,7 @@
 
 ## phaser 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [Wil2129/Battle-arena](https://github.com/Wil2129/Battle-arena) - A battle royale game for the real ones built with Phaser 3 and Colyseus
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
@@ -3354,7 +3355,7 @@
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
 - [marcin-piela/react-fetching-library](https://github.com/marcin-piela/react-fetching-library) - Simple and powerful API client for react  👍 Use hooks or FACCs to fetch data in easy way. No dependencies! Just react under the hood.
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
@@ -3656,7 +3657,7 @@
 
 ## svelte 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
@@ -3761,7 +3762,7 @@
 
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.1KB routing for React and Preact
@@ -3929,7 +3930,6 @@
 
 ## vue 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
@@ -3961,7 +3961,7 @@
 
 ## web 
 
-- [dusk-gg/dusk](https://github.com/dusk-gg/dusk) - Build multiplayer web games played by millions! 👾 You focus on your game, Dusk handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
+- [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [rahuldshetty/llm.js](https://github.com/rahuldshetty/llm.js) - Run Large-Language Models (LLMs) 🚀 directly in your browser!
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
