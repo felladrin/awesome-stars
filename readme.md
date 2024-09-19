@@ -146,6 +146,7 @@
 - [npm](#npm)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
@@ -2305,6 +2306,20 @@
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
+## openai 
+
+- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
+- [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
+- [yusufhilmi/client-vector-search](https://github.com/yusufhilmi/client-vector-search) - A client side vector search library that can embed, store, search, and cache vectors. Works on the browser and node. It outperforms OpenAI's text-embedding-ada-002 and is way faster than Pinecone and 
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
+- [yagil/ChatIDE](https://github.com/yagil/ChatIDE) - AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.
+- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
+
 ## opengl 
 
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -2394,7 +2409,6 @@
 - [JacobLinCool/huggingface-sync](https://github.com/JacobLinCool/huggingface-sync) - Sync your GitHub repository to Hugging Face Spaces.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-- [yusufhilmi/client-vector-search](https://github.com/yusufhilmi/client-vector-search) - A client side vector search library that can embed, store, search, and cache vectors. Works on the browser and node. It outperforms OpenAI's text-embedding-ada-002 and is way faster than Pinecone and 
 - [wizzard0/t348-loader](https://github.com/wizzard0/t348-loader) - isomorphic (browser, node) TypeScript / Javascript loader
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [moikent/starchat-vscode](https://github.com/moikent/starchat-vscode) - 
