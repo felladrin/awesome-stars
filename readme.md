@@ -1601,7 +1601,7 @@
 - [mkloubert/vs-script-commands](https://github.com/mkloubert/vs-script-commands) - Add additional commands that uses (JavaScript) scripts for execution.
 - [xsburg/vscode-javascript-booster](https://github.com/xsburg/vscode-javascript-booster) - Sprinkle extra refactorings, code actions and commands over your JavaScript! 🍩 TypeScript and Flow are first class citizens as well!
 - [t7yang/vscode-hyper-javascript-snippets](https://github.com/t7yang/vscode-hyper-javascript-snippets) - Visual Studio Code snippet extension for JavaScript and TypeScript
-- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-labs/vscode-react-javascript-snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [Matterwiki/Matterwiki](https://github.com/Matterwiki/Matterwiki) - A simple and beautiful wiki for teams
 - [sendgrid/sendgrid-nodejs](https://github.com/sendgrid/sendgrid-nodejs) - The Official Twilio SendGrid Led, Community Driven Node.js API Library
@@ -2408,7 +2408,7 @@
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [JacobLinCool/huggingface-sync](https://github.com/JacobLinCool/huggingface-sync) - Sync your GitHub repository to Hugging Face Spaces.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2.x, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [wizzard0/t348-loader](https://github.com/wizzard0/t348-loader) - isomorphic (browser, node) TypeScript / Javascript loader
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [moikent/starchat-vscode](https://github.com/moikent/starchat-vscode) - 
@@ -3428,7 +3428,7 @@
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [wix-incubator/vscode-glean](https://github.com/wix-incubator/vscode-glean) - The extension provides refactoring tools for your React codebase
-- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-labs/vscode-react-javascript-snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 - [Matterwiki/Matterwiki](https://github.com/Matterwiki/Matterwiki) - A simple and beautiful wiki for teams
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -3476,7 +3476,7 @@
 ## redux 
 
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-labs/vscode-react-javascript-snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 
 ## rest-api 
 
@@ -3875,7 +3875,7 @@
 - [ritwickdey/vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
 - [xsburg/vscode-javascript-booster](https://github.com/xsburg/vscode-javascript-booster) - Sprinkle extra refactorings, code actions and commands over your JavaScript! 🍩 TypeScript and Flow are first class citizens as well!
 - [t7yang/vscode-hyper-javascript-snippets](https://github.com/t7yang/vscode-hyper-javascript-snippets) - Visual Studio Code snippet extension for JavaScript and TypeScript
-- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-labs/vscode-react-javascript-snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 - [formulahendry/vscode-auto-rename-tag](https://github.com/formulahendry/vscode-auto-rename-tag) - Automatically rename paired HTML/XML tag
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
