@@ -1136,6 +1136,7 @@
 ## godot 
 
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
+- [godotjs/javascript](https://github.com/godotjs/javascript) - Javascript binding for godotengine
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## golang 
@@ -1503,6 +1504,7 @@
 - [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+- [godotjs/javascript](https://github.com/godotjs/javascript) - Javascript binding for godotengine
 - [aakashbhadana/The-Wall](https://github.com/aakashbhadana/The-Wall) - The Wall automatically changes desktop wallpaper based on the tags selected by the user
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
 - [ct-js/ct-js](https://github.com/ct-js/ct-js) - Ct.js is a desktop game engine that makes learning programming fun and game development easy by its visual editors and well-documented code library
@@ -2582,7 +2584,6 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [npm/package-json](https://github.com/npm/package-json) - Programmatic API to update package.json
 - [johnfn/ts2gd](https://github.com/johnfn/ts2gd) - 💥 Compile TypeScript to GDScript for Godot
-- [Geequlim/ECMAScript](https://github.com/Geequlim/ECMAScript) - Javascript binding for godotengine
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 - [excaliburjs/excaliburjs.github.io](https://github.com/excaliburjs/excaliburjs.github.io) - ⚠️ Old Public site for Excalibur.js (Documentation/Showcase/etc) ⚠️Visit main repo https://github.com/excaliburjs/Excalibur/tree/main/site for latest
 - [excaliburjs/excalibur-tiled](https://github.com/excaliburjs/excalibur-tiled) - Adds Tiled Map Editor File support to Excalibur
@@ -3828,6 +3829,7 @@
 - [haltcase/trilogy](https://github.com/haltcase/trilogy) - TypeScript SQLite layer with support for both native C++ & pure JavaScript drivers.
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [godotjs/javascript](https://github.com/godotjs/javascript) - Javascript binding for godotengine
 - [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - 🎮 Your friendly TypeScript 2D game engine for the web 🗡️
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
