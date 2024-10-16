@@ -2962,7 +2962,7 @@
 - [urish/angular-moment](https://github.com/urish/angular-moment) - Moment.JS directives for Angular.JS (timeago and more)
 - [hxer/docker-alpine](https://github.com/hxer/docker-alpine) - service base on alpine linux
 - [vinaygopinath/ngMeta](https://github.com/vinaygopinath/ngMeta) - Dynamic meta tags in your AngularJS single page application
-- [JoshuaKGoldberg/package.json-validator](https://github.com/JoshuaKGoldberg/package.json-validator) - Tools to validate package.json files
+- [JoshuaKGoldberg/package-json-validator](https://github.com/JoshuaKGoldberg/package-json-validator) - Tools to validate package.json files
 - [nmaggioni/Kanbanion](https://github.com/nmaggioni/Kanbanion) - A Kanban board. Simple, digital and local.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [appetizermonster/unity-packman](https://github.com/appetizermonster/unity-packman) - A tiny package dependency manager for Unity, powered by Github
