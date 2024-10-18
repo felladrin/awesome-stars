@@ -2353,10 +2353,12 @@
 
 ## others 
 
+- [charlieegan3/serializer](https://github.com/charlieegan3/serializer) - A linearizing social tech news reader
+- [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - HTTP proxy for swapping models with llama.cpp server
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [askorama/chunker](https://github.com/askorama/chunker) - Split large texts into chunks with a maximum number of tokens. Split by fixed size or by sentence.
+- [oramasearch/chunker](https://github.com/oramasearch/chunker) - Split large texts into chunks with a maximum number of tokens. Split by fixed size or by sentence.
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [stephenscaff/react-stagger-text](https://github.com/stephenscaff/react-stagger-text) - React StaggerText is a TS component for creating staggered text reveals by word or letter, as text enters viewport.
 - [gkaemmer/react-fade-in](https://github.com/gkaemmer/react-fade-in) - Dead-simple component to fade in an element's children.
