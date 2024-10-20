@@ -672,6 +672,7 @@
 
 ## database 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [haltcase/trilogy](https://github.com/haltcase/trilogy) - TypeScript SQLite layer with support for both native C++ & pure JavaScript drivers.
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
@@ -1443,6 +1444,7 @@
 
 ## javascript 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -2061,6 +2063,7 @@
 
 ## mysql 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2164,6 +2167,7 @@
 
 ## nodejs 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
@@ -3262,6 +3266,7 @@
 
 ## postgresql 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -3642,6 +3647,7 @@
 
 ## sql 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [haltcase/trilogy](https://github.com/haltcase/trilogy) - TypeScript SQLite layer with support for both native C++ & pure JavaScript drivers.
@@ -3658,6 +3664,7 @@
 
 ## sqlite 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -3803,6 +3810,7 @@
 
 ## typescript 
 
+- [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀
 - [kevinthedang/discord-ollama](https://github.com/kevinthedang/discord-ollama) - Discord Bot that utilizes Ollama to interact with any Large Language Models to talk with users and allow them to host/create their own models.
