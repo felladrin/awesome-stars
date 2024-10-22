@@ -2357,6 +2357,7 @@
 
 ## others 
 
+- [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [charlieegan3/serializer](https://github.com/charlieegan3/serializer) - A linearizing social tech news reader
 - [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - HTTP proxy for swapping models with llama.cpp server
