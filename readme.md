@@ -606,6 +606,7 @@
 
 ## css 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [ibra-kdbra/Paginis](https://github.com/ibra-kdbra/Paginis) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
@@ -614,7 +615,7 @@
 - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [nathancahill/split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
@@ -1275,7 +1276,6 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: "Get to Know Your Visitors Better" - The Essential Web Development Tool for User-Agent Detection
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1344,7 +1344,7 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [grahammccarthy/linkifyjs](https://github.com/grahammccarthy/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
@@ -1445,6 +1445,7 @@
 
 ## javascript 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
 - [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
@@ -1494,7 +1495,7 @@
 - [simplyhexagonal/short-unique-id](https://github.com/simplyhexagonal/short-unique-id) - Short Unique ID (UUID) generation library. Available in NPM.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
-- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [grahammccarthy/linkifyjs](https://github.com/grahammccarthy/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [pemistahl/grex-js](https://github.com/pemistahl/grex-js) - A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases
 - [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - Detect collisions between different shapes such as Points, Lines, Boxes, Polygons (including concave), Ellipses, and Circles. Features include RayCasting and support for offsets, rotation, scaling, bo
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
@@ -1731,6 +1732,7 @@
 
 ## json 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - A python module to repair invalid JSON, commonly used to parse the output of LLMs
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript
@@ -2190,7 +2192,7 @@
 - [BackendStack21/restana](https://github.com/BackendStack21/restana) - Restana is a lightweight and fast Node.js framework for building RESTful APIs.
 - [peers/peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
-- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [grahammccarthy/linkifyjs](https://github.com/grahammccarthy/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
@@ -2357,11 +2359,12 @@
 
 ## others 
 
+- [yannikkellerde/AI-Snip](https://github.com/yannikkellerde/AI-Snip) - Bring clippy back to windows
 - [ExoOnix/OnixIDE](https://github.com/ExoOnix/OnixIDE) - A collaborative online editor.
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [charlieegan3/serializer](https://github.com/charlieegan3/serializer) - A linearizing social tech news reader
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - HTTP proxy for swapping models with llama.cpp server
-- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
+- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [oramasearch/chunker](https://github.com/oramasearch/chunker) - Split large texts into chunks with a maximum number of tokens. Split by fixed size or by sentence.
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
@@ -2842,6 +2845,7 @@
 - [phoboslab/underrun](https://github.com/phoboslab/underrun) - Twin stick shooter game in 13kb of JavaScript/WebGL
 - [evyros/textarea-autogrow](https://github.com/evyros/textarea-autogrow) - A pure Javascript solution for auto-grow / expand a textarea element by its content.
 - [flozz/StackBlur](https://github.com/flozz/StackBlur) - Fast and almost Gaussian blur
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection
 - [Bartozzz/wildcard-named](https://github.com/Bartozzz/wildcard-named) - A small and easy-to-use utility module for matching strings using named and/or unnamed wildcards for JavaScript.
 - [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js and Browser (polyfill)
 - [jquery-archive/PEP](https://github.com/jquery-archive/PEP) - Pointer Events Polyfill: a unified event system for the web platform
@@ -3423,9 +3427,9 @@
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
-- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [grahammccarthy/linkifyjs](https://github.com/grahammccarthy/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [atomicptr/dauntless-builder](https://github.com/atomicptr/dauntless-builder) - Create and share Dauntless builds with your friends!
@@ -3714,7 +3718,7 @@
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [ssleptsov/ninja-keys](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.
 
@@ -3810,6 +3814,7 @@
 
 ## typescript 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
 - [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
@@ -4016,6 +4021,7 @@
 
 ## web 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [rahuldshetty/llm.js](https://github.com/rahuldshetty/llm.js) - Run Large-Language Models (LLMs) 🚀 directly in your browser!
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
