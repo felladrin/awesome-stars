@@ -1132,7 +1132,7 @@
 
 ## go 
 
-- [hearchco/agent](https://github.com/hearchco/agent) - Agent for Hearchco built using Go.
+- [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -1155,7 +1155,7 @@
 
 ## golang 
 
-- [hearchco/agent](https://github.com/hearchco/agent) - Agent for Hearchco built using Go.
+- [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
