@@ -233,6 +233,7 @@
 
 ## ai 
 
+- [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
 - [flatsiedatsie/papeg_ai](https://github.com/flatsiedatsie/papeg_ai) - Code for Papeg.ai
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.
@@ -2362,6 +2363,7 @@
 
 ## others 
 
+- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [devidw/inferit](https://github.com/devidw/inferit) - Visual inference exploration playground
 - [behrouz-rad/AI-PR-Summarizer](https://github.com/behrouz-rad/AI-PR-Summarizer) - AI-powered GitHub Action for summarizing and reviewing pull request changes efficiently.
@@ -3695,6 +3697,7 @@
 
 ## stable-diffusion 
 
+- [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion and Flux in pure C/C++
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
