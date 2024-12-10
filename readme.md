@@ -330,6 +330,7 @@
 
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [trekhleb/homemade-gpt-js](https://github.com/trekhleb/homemade-gpt-js) - A minimal TensorFlow.js re-implementation of Karpathy's minGPT (Generative Pre-trained Transformer). The GPT model itself is &lt;300 lines of code.
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [hellojwilde/energetic-ai](https://github.com/hellojwilde/energetic-ai) - EnergeticAI is TensorFlow.js, optimized for serverless environments, with fast cold-start, small module size, and pre-trained models.
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
@@ -1143,7 +1144,7 @@
 ## go 
 
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -1166,7 +1167,7 @@
 ## golang 
 
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1863,7 +1864,7 @@
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [Praful932/llmsearch](https://github.com/Praful932/llmsearch) - Find better generation parameters for your LLM
 - [zeozeozeo/ellama](https://github.com/zeozeozeo/ellama) - Friendly interface to chat with an Ollama instance.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [arcee-ai/PruneMe](https://github.com/arcee-ai/PruneMe) - Automated Identification of Redundant Layer Blocks for Pruning in Large Language Models
@@ -1934,7 +1935,7 @@
 ## machine-learning 
 
 - [trekhleb/homemade-gpt-js](https://github.com/trekhleb/homemade-gpt-js) - A minimal TensorFlow.js re-implementation of Karpathy's minGPT (Generative Pre-trained Transformer). The GPT model itself is &lt;300 lines of code.
-- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o. Port of OpenAI's tiktoken with additional features.
+- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o / GPT-o1. Port of OpenAI's tiktoken with additional features.
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - A python module to repair invalid JSON, commonly used to parse the output of LLMs
 - [hellojwilde/energetic-ai](https://github.com/hellojwilde/energetic-ai) - EnergeticAI is TensorFlow.js, optimized for serverless environments, with fast cold-start, small module size, and pre-trained models.
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -2353,7 +2354,7 @@
 
 ## openai 
 
-- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o. Port of OpenAI's tiktoken with additional features.
+- [niieani/gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - The fastest JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4 / GPT-4o / GPT-o1. Port of OpenAI's tiktoken with additional features.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -2380,6 +2381,8 @@
 
 ## others 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [garmeeh/local-cors-proxy](https://github.com/garmeeh/local-cors-proxy) - Simple proxy to bypass CORS issues.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - On-demand model switching with llama.cpp (or other OpenAI compatible backends)
 - [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience.
@@ -2885,7 +2888,7 @@
 - [evyros/textarea-autogrow](https://github.com/evyros/textarea-autogrow) - A pure Javascript solution for auto-grow / expand a textarea element by its content.
 - [flozz/StackBlur](https://github.com/flozz/StackBlur) - Fast and almost Gaussian blur
 - [Bartozzz/wildcard-named](https://github.com/Bartozzz/wildcard-named) - A small and easy-to-use utility module for matching strings using named and/or unnamed wildcards for JavaScript.
-- [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js and Browser (polyfill)
+- [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js, browsers and other JavaScript runtimes
 - [jquery-archive/PEP](https://github.com/jquery-archive/PEP) - Pointer Events Polyfill: a unified event system for the web platform
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [stephomi/sculptgl](https://github.com/stephomi/sculptgl) - DEVELOPMENT STOPPED  I'm now working on Nomad Sculpt instead
@@ -3203,7 +3206,7 @@
 - [jeroen/resttesttest](https://github.com/jeroen/resttesttest) - A native in-browser tool for testing REST/CORS services. Builds on jQuery and Bootstrap.
 - [luis-almeida/jPages](https://github.com/luis-almeida/jPages) - Client side pagination with jQuery and CSS3
 - [kriswallsmith/Buzz](https://github.com/kriswallsmith/Buzz) - PHP's lightweight HTTP client
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
+- [php-debugbar/php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [mattg888/GCM-PHP-Server-Push-Message](https://github.com/mattg888/GCM-PHP-Server-Push-Message) - GCM PHP Push Message
 - [flot/flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
