@@ -367,7 +367,7 @@
 
 ## awesome-list 
 
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
@@ -646,7 +646,7 @@
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [anseki/vscode-color](https://github.com/anseki/vscode-color) - Helper with GUI to generate color codes such as CSS color notations.
@@ -826,7 +826,7 @@
 
 ## education 
 
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## electron 
@@ -1096,7 +1096,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [taddison/GitLazy](https://github.com/taddison/GitLazy) - GitLazy VSCode Extension
@@ -1369,7 +1369,7 @@
 - [derhuerst/html-vault](https://github.com/derhuerst/html-vault) - Store a secret securely in a standalone HTML file.
 - [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -1580,7 +1580,7 @@
 - [xpl/panic-overlay](https://github.com/xpl/panic-overlay) - Displays JS errors in browsers. Shows sources. Use with any framework. 💥✨
 - [parallel-js/parallel.js](https://github.com/parallel-js/parallel.js) - Easy multi-core processing utilities for Node.
 - [polygonplanet/chillout](https://github.com/polygonplanet/chillout) - Reduce CPU usage by non-blocking async loop and psychologically speed up in JavaScript
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -1597,7 +1597,7 @@
 - [ybootin/mp3gain.js](https://github.com/ybootin/mp3gain.js) - Analyse and Normalize MP3 file into the browser
 - [devlato/async-wait-until](https://github.com/devlato/async-wait-until) - Waits for an expectation to be truthy. A small library with a convenient API suitable for unit and integration testing
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [acrazing/dpdm](https://github.com/acrazing/dpdm) - Detect circular dependencies in your TypeScript projects.
 - [miguelmota/javascript-idiosyncrasies](https://github.com/miguelmota/javascript-idiosyncrasies) - A bunch of Javascript idiosyncrasies to beginners.
@@ -2260,7 +2260,7 @@
 - [feross/simple-peer](https://github.com/feross/simple-peer) - 📡 Simple WebRTC video, voice, and data channels
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver) - a streaming interface for archive generation
 - [devlato/async-wait-until](https://github.com/devlato/async-wait-until) - Waits for an expectation to be truthy. A small library with a convenient API suitable for unit and integration testing
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [miguelmota/javascript-idiosyncrasies](https://github.com/miguelmota/javascript-idiosyncrasies) - A bunch of Javascript idiosyncrasies to beginners.
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
@@ -2847,7 +2847,7 @@
 - [crossuo/crossuo](https://github.com/crossuo/crossuo) - CrossUO - Open Source Ultima Online Client
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [shama/napa](https://github.com/shama/napa) - :wine_glass: A helper for installing stuff without a package.json with npm.
-- [mjackson/unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
+- [unpkg/unpkg](https://github.com/unpkg/unpkg) - The CDN for everything on npm
 - [onury/tasktimer](https://github.com/onury/tasktimer) - An accurate timer utility for running periodic tasks on the given interval ticks or dates. (Node and Browser)
 - [manrueda/deno-prebuilt](https://github.com/manrueda/deno-prebuilt) - npm package to install deno (https://deno.land) pre-built binary
 - [kof/react-nano-state](https://github.com/kof/react-nano-state) - Fast state that can be shared across components outside of the React tree.
@@ -3364,7 +3364,7 @@
 ## programming 
 
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 
