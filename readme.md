@@ -2393,6 +2393,7 @@
 
 ## others 
 
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking for macOS
 - [nickbaumann98/cline_docs](https://github.com/nickbaumann98/cline_docs) - Documentation and best practices for using Cline
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof
 - [ibm-granite/watsonx-code-assistant-individual](https://github.com/ibm-granite/watsonx-code-assistant-individual) - For individual users, watsonx Code Assistant can access a local IBM Granite model
@@ -2598,7 +2599,7 @@
 - [soixantecircuits/idle-js](https://github.com/soixantecircuits/idle-js) - An UMD lib to know when a page goes idle: hidden, or inactive.
 - [dylantmarsh/monokai-vibrant](https://github.com/dylantmarsh/monokai-vibrant) - A very dark and vibrant Monokai based theme for Visual Studio Code.
 - [vscodethemes/web](https://github.com/vscodethemes/web) - Search and preview themes from the VS Code Marketplace.
-- [bluwy/publint](https://github.com/bluwy/publint) - Lint packaging errors
+- [publint/publint](https://github.com/publint/publint) - Lint packaging errors
 - [pianomister/diffsite](https://github.com/pianomister/diffsite) - Tool to visually compare two versions of a website.
 - [ShawnZhong/vscode-system-task-manager](https://github.com/ShawnZhong/vscode-system-task-manager) - VSCode Extension for Managing Processes and Port Usage
 - [RienNeVaPlus/human-id](https://github.com/RienNeVaPlus/human-id) - 💃🆔 Generates human readable identifier strings by chaning common (short) words of the english language.
@@ -3667,6 +3668,7 @@
 
 ## self-hosted 
 
+- [SomeOddCodeGuy/OfflineWikipediaTextApi](https://github.com/SomeOddCodeGuy/OfflineWikipediaTextApi) - This small API downloads and exposes access to NeuML's txtai-wikipedia and full wikipedia datasets, taking in a query and returning full article text
 - [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-level feature flag platform that you can self-host. Get started - free.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
