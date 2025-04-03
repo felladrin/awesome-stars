@@ -206,6 +206,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [unity](#unity)
@@ -419,7 +420,7 @@
 
 ## bitcoin 
 
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Open source Linux distro optimized for self-hosting
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Open source, Linuc-based server OS optimized for self-hosting
 
 ## bootstrap 
 
@@ -1905,7 +1906,7 @@
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Blazingly fast LLM inference.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling on-browser LLM inference
 - [BatsResearch/bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
 - [SudoACoder/CodeXpert](https://github.com/SudoACoder/CodeXpert) - Code Xpert: A completely free and open-source GitHub Copilot-like Project With VS Code extension.
@@ -2239,7 +2240,6 @@
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
@@ -2426,12 +2426,13 @@
 
 ## others 
 
+- [jukofyork/transplant-vocab](https://github.com/jukofyork/transplant-vocab) - Transplants vocabulary between language models, enabling the creation of draft models for speculative decoding WITHOUT retraining.
+- [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [PrunaAI/pruna](https://github.com/PrunaAI/pruna) - Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead.
-- [TheProxyCompany/proxy-structuring-engine](https://github.com/TheProxyCompany/proxy-structuring-engine) - Dynamically structure language models to produce outputs that adhere to specific requirements without sacrificing their creative capabilities.
+- [TheProxyCompany/proxy-structuring-engine](https://github.com/TheProxyCompany/proxy-structuring-engine) - Guaranteed Structured Output from any Language Model via Hierarchical State Machines
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
-- [tinyllm/tinylm](https://github.com/tinyllm/tinylm) - Browser based ML Inference | OpenAI compliant | Run models like DeepSeek, Llama 3.2, NomicEmbed, KokoroTTS, and more
+- [wizenheimer/tinylm](https://github.com/wizenheimer/tinylm) - Browser based ML Inference | OpenAI compliant | Run models like DeepSeek, Llama 3.2, NomicEmbed, KokoroTTS, and more
 - [cm64-studio/LLMule-desktop-client](https://github.com/cm64-studio/LLMule-desktop-client) - 
-- [richardr1126/OpenReader-WebUI](https://github.com/richardr1126/OpenReader-WebUI) - Web EPUB and PDF text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. Use your own Kokoro TTS API or Open AI API endpoint.
 - [K-Mistele/swarm](https://github.com/K-Mistele/swarm) - Model-agnostic typescript implementation of OpenAI's Swarm framework with the Vercel AI SDK
 - [itsPreto/tangent](https://github.com/itsPreto/tangent) - Excalidraw meets ComfyUI for LLMs
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
@@ -2491,7 +2492,7 @@
 - [l33tkr3w/LlamaCards](https://github.com/l33tkr3w/LlamaCards) - LlamaCards is a web application that provides a dynamic interface for interacting with LLM models in real-time. This app allows users to create and connect cards, each representing different functiona
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
-- [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
+- [microsoft/Samba](https://github.com/microsoft/Samba) - [ICLR 2025] Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
 - [zemlyansky/gpt-tfjs](https://github.com/zemlyansky/gpt-tfjs) - GPT in TensorFlow.js
@@ -2600,7 +2601,7 @@
 - [KennethSundqvist/key-jump-browser-extension](https://github.com/KennethSundqvist/key-jump-browser-extension) - Easier keyboard navigation. No mouse needed to click on links and stuff.
 - [nedbat/dinghy](https://github.com/nedbat/dinghy) - A GitHub activity digest tool
 - [jessetane/queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency
-- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [zanllp/sd-webui-infinite-image-browsing](https://github.com/zanllp/sd-webui-infinite-image-browsing) - A fast and powerful image/video browser for Stable Diffusion webui / ComfyUI / Fooocus / NovelAI / StableSwarmUI, featuring infinite scrolling and advanced search capabilities using image parameters. 
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
@@ -2704,7 +2705,6 @@
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [github/hotkey](https://github.com/github/hotkey) - Trigger an action on an element with a keyboard shortcut.
-- [thaispalmer/talkify-tts-api](https://github.com/thaispalmer/talkify-tts-api) - Library to generate TTS directly from Talkify.net APIs
 - [flyover/box2d.ts](https://github.com/flyover/box2d.ts) - A TypeScript port of Box2D
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
@@ -3086,7 +3086,7 @@
 - [urish/angular-moment](https://github.com/urish/angular-moment) - Moment.JS directives for Angular.JS (timeago and more)
 - [hxer/docker-alpine](https://github.com/hxer/docker-alpine) - service base on alpine linux
 - [vinaygopinath/ngMeta](https://github.com/vinaygopinath/ngMeta) - Dynamic meta tags in your AngularJS single page application
-- [JoshuaKGoldberg/package-json-validator](https://github.com/JoshuaKGoldberg/package-json-validator) - Tools to validate package.json files
+- [JoshuaKGoldberg/package-json-validator](https://github.com/JoshuaKGoldberg/package-json-validator) - Tools to validate package.json files.
 - [nmaggioni/Kanbanion](https://github.com/nmaggioni/Kanbanion) - A Kanban board. Simple, digital and local.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [appetizermonster/unity-packman](https://github.com/appetizermonster/unity-packman) - A tiny package dependency manager for Unity, powered by Github
@@ -3293,7 +3293,7 @@
 
 ## p2p 
 
-- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Open source Linux distro optimized for self-hosting
+- [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - Open source, Linuc-based server OS optimized for self-hosting
 - [rameshvarun/netplayjs](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required. Powered by rollback netcode + WebRTC.
 - [meething/meething](https://github.com/meething/meething) - dWebRTC Video Meetings MESH/SFU hybrid using GunDB, MediaSoup and Beyond!
 - [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
@@ -3521,7 +3521,7 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [laurenashpole/react-inner-image-zoom](https://github.com/laurenashpole/react-inner-image-zoom) - A React component for zooming images.
+- [laurenashpole/react-inner-image-zoom](https://github.com/laurenashpole/react-inner-image-zoom) - [MOVED] This package has moved to laurenashpole/inner-image-zoom
 - [theKashey/react-remove-scroll](https://github.com/theKashey/react-remove-scroll) - Removes and disables 📜in a "React" way
 - [igordanchenko/react-photo-album](https://github.com/igordanchenko/react-photo-album) - Responsive photo gallery component for React
 - [igordanchenko/yet-another-react-lightbox](https://github.com/igordanchenko/yet-another-react-lightbox) - Modern React lightbox component
@@ -3948,6 +3948,12 @@
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
+
+## text-to-speech 
+
+- [richardr1126/OpenReader-WebUI](https://github.com/richardr1126/OpenReader-WebUI) - Web EPUB and PDF text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. Use your own Kokoro TTS API or Open AI API endpoint.
+- [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
+- [thaispalmer/talkify-tts-api](https://github.com/thaispalmer/talkify-tts-api) - Library to generate TTS directly from Talkify.net APIs
 
 ## twitter 
 
