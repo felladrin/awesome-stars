@@ -240,6 +240,7 @@
 
 ## ai 
 
+- [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
@@ -253,6 +254,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.
 - [rooben-me/tone-changer-open](https://github.com/rooben-me/tone-changer-open) - This project is a reverse-engineered version of Figma's tone changer. It uses Groq's Llama-3-8b for high-speed inference and to adjust the tone of input text based on user-selected tones and weights.
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [zeozeozeo/ellama](https://github.com/zeozeozeo/ellama) - Friendly interface to chat with an Ollama instance.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
@@ -313,6 +315,7 @@
 
 ## angular 
 
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -995,6 +998,7 @@
 
 ## frontend 
 
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1499,6 +1503,7 @@
 
 ## javascript 
 
+- [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
 - [orayemre/Notemod](https://github.com/orayemre/Notemod) - Note-Taking App Free & Open Source
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -1557,6 +1562,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [Donitzo/tinysequencer.js](https://github.com/Donitzo/tinysequencer.js) - A small ADSR sequencer based on the Web Audio API.
 - [pemistahl/grex-js](https://github.com/pemistahl/grex-js) - A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases
 - [Prozi/detect-collisions](https://github.com/Prozi/detect-collisions) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
@@ -1838,6 +1844,7 @@
 
 ## laravel 
 
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
@@ -2208,6 +2215,7 @@
 
 ## no-code 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [ctk-hq/ctk](https://github.com/ctk-hq/ctk) - Visual composer for container based workloads
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -2447,6 +2455,8 @@
 
 ## others 
 
+- [mehtabmahir/easy-whisper-ui](https://github.com/mehtabmahir/easy-whisper-ui) - Easy to use interface for the Whisper model optimized for all GPUs!
+- [xenova/model-explorer](https://github.com/xenova/model-explorer) - Browse, search, and visualize ONNX models.
 - [mediar-ai/MacosUseSDK](https://github.com/mediar-ai/MacosUseSDK) - Library to traverse and control MacOS
 - [optuna/optuna-dashboard](https://github.com/optuna/optuna-dashboard) - Real-time Web Dashboard for Optuna.
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Convert Compute And Books Into Instruct-Tuning Datasets! Makes: QA, RP, Classifiers.
@@ -2515,7 +2525,6 @@
 - [SingularityMan/vector_companion](https://github.com/SingularityMan/vector_companion) - A local AI companion that uses a collection of free, open source AI models in order to create two virtual companions that will follow your computer journey wherever you go!
 - [l33tkr3w/LlamaCards](https://github.com/l33tkr3w/LlamaCards) - LlamaCards is a web application that provides a dynamic interface for interacting with LLM models in real-time. This app allows users to create and connect cards, each representing different functiona
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code.
 - [microsoft/Samba](https://github.com/microsoft/Samba) - [ICLR 2025] Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
@@ -2577,7 +2586,7 @@
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [JacobLinCool/huggingface-sync](https://github.com/JacobLinCool/huggingface-sync) - Sync your GitHub repository to Hugging Face Spaces.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [wizzard0/t348-loader](https://github.com/wizzard0/t348-loader) - isomorphic (browser, node) TypeScript / Javascript loader
 - [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 - [moikent/starchat-vscode](https://github.com/moikent/starchat-vscode) - 
@@ -2591,7 +2600,7 @@
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
 - [Iyashinouta/sd-model-downloader](https://github.com/Iyashinouta/sd-model-downloader) - SD Web UI Extension to Download Model from URL
-- [pixijs/layout](https://github.com/pixijs/layout) - Library for arranging/resizing pixiJS rendered elements basing on css like configs
+- [pixijs/layout](https://github.com/pixijs/layout) - A Yoga powered layout library for PixiJS.
 - [nvms/wingman](https://github.com/nvms/wingman) - Your pair programming wingman. Supports OpenAI, Anthropic, or any LLM on your local inference server.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
@@ -2690,7 +2699,6 @@
 - [teambition/jsonrpc-lite](https://github.com/teambition/jsonrpc-lite) - Parse and Serialize JSON-RPC2 messages in node.js, or browser.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
-- [Donitzo/tinysequencer.js](https://github.com/Donitzo/tinysequencer.js) - A small ADSR sequencer based on the Web Audio API.
 - [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
@@ -3376,7 +3384,7 @@
 - [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 - [HvyIndustries/crane](https://github.com/HvyIndustries/crane) - PHP Intellisense/code-completion for VS Code
 - [hjson/hjson-php](https://github.com/hjson/hjson-php) - Hjson for PHP
-- [gumlet/php-image-resize](https://github.com/gumlet/php-image-resize) - PHP library to resize, scale and crop images. Cloud solution available at:
+- [gumlet/php-image-resize](https://github.com/gumlet/php-image-resize) - PHP library to resize, scale and crop images. Cloud solution available at: www.gumlet.com
 - [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php) - 🔤 Free Google Translate API PHP Package. Translates totally free of charge.
 - [tpunt/PHP7-Reference](https://github.com/tpunt/PHP7-Reference) - An overview of the features, changes, and backward compatibility breakages in PHP 7
 - [esperecyan/url](https://github.com/esperecyan/url) - Makes the algorithms and APIs defined by URL Standard (replaces RFC 3986 and RFC 3987) available on PHP. / URL Standard (RFC 3986、RFC 3987 を置き換える Web 標準仕様) で定義されているアルゴリズム、および API を PHP から利用できるようにします。
@@ -3689,7 +3697,7 @@
 ## rust 
 
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
 - [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.
 - [zeozeozeo/ellama](https://github.com/zeozeozeo/ellama) - Friendly interface to chat with an Ollama instance.
@@ -3829,6 +3837,7 @@
 
 ## sqlite 
 
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
