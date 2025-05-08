@@ -2018,6 +2018,7 @@
 
 ## macos 
 
+- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [zenangst/KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy) - :keyboard: The missing keyboard shortcut utility for macOS
@@ -2455,7 +2456,7 @@
 
 ## others 
 
-- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - Image editing is worth a single LoRA! 0.1% training data and 1% training parameters for fantastic image editing! Surpasses GPT-4o in ID persistence! Only 4GB VRAM is enough to run!
+- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - [Official] Image editing is worth a single LoRA! 0.1% training data and 1% training parameters for fantastic image editing! Surpasses GPT-4o in ID persistence! Only 4GB VRAM is enough to run!
 - [mehtabmahir/easy-whisper-ui](https://github.com/mehtabmahir/easy-whisper-ui) - Easy to use interface for the Whisper model optimized for all GPUs!
 - [xenova/model-explorer](https://github.com/xenova/model-explorer) - Browse, search, and visualize ONNX models.
 - [mediar-ai/MacosUseSDK](https://github.com/mediar-ai/MacosUseSDK) - Library to traverse and control MacOS
@@ -3899,6 +3900,7 @@
 
 ## swift 
 
+- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
