@@ -242,6 +242,7 @@
 
 ## ai 
 
+- [ronantakizawa/sleeptimecompute](https://github.com/ronantakizawa/sleeptimecompute) - A Demo of Running Sleep-time Compute to Reduce LLM Latency
 - [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -823,7 +824,7 @@
 - [imjacobclark/cors-container](https://github.com/imjacobclark/cors-container) - A CORS proxy in a container (Docker) for when you need to `Access-Control-Allow-Origin: *`!
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
-- [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker Extension for Visual Studio Code
+- [microsoft/vscode-docker](https://github.com/microsoft/vscode-docker) - Docker Extension Pack for Visual Studio Code
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -1447,6 +1448,7 @@
 
 ## http 
 
+- [jshttp/content-disposition](https://github.com/jshttp/content-disposition) - Create and parse HTTP Content-Disposition header
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [BackendStack21/fast-gateway](https://github.com/BackendStack21/fast-gateway) - Fast-gateway is an easy to use Node.js API gateway framework built to handle large scale API traffic with great performance and scalability. Written with JavaScript, it is a framework for the masses!
@@ -1508,6 +1510,7 @@
 
 ## javascript 
 
+- [jshttp/content-disposition](https://github.com/jshttp/content-disposition) - Create and parse HTTP Content-Disposition header
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
 - [orayemre/Notemod](https://github.com/orayemre/Notemod) - Note-Taking App Free & Open Source
@@ -1911,6 +1914,7 @@
 
 ## llm 
 
+- [ronantakizawa/sleeptimecompute](https://github.com/ronantakizawa/sleeptimecompute) - A Demo of Running Sleep-time Compute to Reduce LLM Latency
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
@@ -2272,6 +2276,7 @@
 
 ## nodejs 
 
+- [jshttp/content-disposition](https://github.com/jshttp/content-disposition) - Create and parse HTTP Content-Disposition header
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
@@ -2465,7 +2470,7 @@
 
 ## others 
 
-- [macos-first/nintendifier](https://github.com/macos-first/nintendifier) - Turn anything into a Mario level with a selection on macOS
+- [astracompiler/cli](https://github.com/astracompiler/cli) - 🚀 Fast, reliable and easy-to-use js-to-exe compiler.
 - [Gen-Verse/MMaDA](https://github.com/Gen-Verse/MMaDA) - MMaDA - Open-Sourced Multimodal Large Diffusion Language Models
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - 
 - [HKUNLP/Dream](https://github.com/HKUNLP/Dream) - Dream 7B, a large diffusion language model
