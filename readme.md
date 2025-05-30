@@ -2471,6 +2471,7 @@
 
 ## others 
 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [astracompiler/cli](https://github.com/astracompiler/cli) - 🚀 Fast, reliable and easy-to-use js-to-exe compiler.
 - [Gen-Verse/MMaDA](https://github.com/Gen-Verse/MMaDA) - MMaDA - Open-Sourced Multimodal Large Diffusion Language Models
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
