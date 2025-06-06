@@ -689,6 +689,7 @@
 
 ## data 
 
+- [modelscope/data-juicer](https://github.com/modelscope/data-juicer) - Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
 - [Indie-Platforms/scrapecomfort](https://github.com/Indie-Platforms/scrapecomfort) - Desktop AI Data Scraper
 - [postlight/account](https://github.com/postlight/account) - 📚️ ➕ 🔢  Tell little stories with numbers
 - [hatnote/listen-to-wikipedia](https://github.com/hatnote/listen-to-wikipedia) - Live, generative music from Wikipedia edits
@@ -1510,7 +1511,6 @@
 
 ## javascript 
 
-- [benhowell/react-grid-gallery](https://github.com/benhowell/react-grid-gallery) - Justified image gallery component for React
 - [jshttp/content-disposition](https://github.com/jshttp/content-disposition) - Create and parse HTTP Content-Disposition header
 - [hyparam/hyparquet](https://github.com/hyparam/hyparquet) - parquet file parser for javascript
 - [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
@@ -2224,7 +2224,6 @@
 - [Praful932/llmsearch](https://github.com/Praful932/llmsearch) - Find better generation parameters for your LLM
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
-- [modelscope/data-juicer](https://github.com/modelscope/data-juicer) - Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
 - [princeton-nlp/LLM-Shearing](https://github.com/princeton-nlp/LLM-Shearing) - [ICLR 2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -3539,7 +3538,6 @@
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
-- [modelscope/data-juicer](https://github.com/modelscope/data-juicer) - Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP
 - [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art.
@@ -3577,7 +3575,6 @@
 
 ## react 
 
-- [benhowell/react-grid-gallery](https://github.com/benhowell/react-grid-gallery) - Justified image gallery component for React
 - [dijith-481/Markweavia](https://github.com/dijith-481/Markweavia) - A no-nonsense tool that transforms your Markdown into elegant, professional, platform-independent HTML presentations, all  with familiar Vim motions.
 - [robinroy03/videoeditor](https://github.com/robinroy03/videoeditor) - Video Editor Application using React, Remotion & TypeScript.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
