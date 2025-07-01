@@ -360,6 +360,7 @@
 
 ## artificial-intelligence 
 
+- [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is a platform for enabling workflow automation using AI assistants.
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
@@ -375,6 +376,7 @@
 
 ## automation 
 
+- [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is a platform for enabling workflow automation using AI assistants.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [MichaelCurrin/auto-commit-msg](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes
@@ -882,7 +884,7 @@
 ## electron 
 
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -1212,6 +1214,7 @@
 
 ## go 
 
+- [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is a platform for enabling workflow automation using AI assistants.
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
@@ -1933,6 +1936,7 @@
 
 ## llm 
 
+- [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is a platform for enabling workflow automation using AI assistants.
 - [hekmon/comfyui-openai-api](https://github.com/hekmon/comfyui-openai-api) - Call LLM and VLM in a simple way using the OpenAI API standard from ComfyUI
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -2505,6 +2509,7 @@
 
 ## others 
 
+- [anthropics/dxt](https://github.com/anthropics/dxt) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [astracompiler/cli](https://github.com/astracompiler/cli) - 🚀 Fast, reliable and easy-to-use js-to-exe compiler.
 - [Gen-Verse/MMaDA](https://github.com/Gen-Verse/MMaDA) - MMaDA - Open-Sourced Multimodal Large Diffusion Language Models
@@ -3622,7 +3627,7 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [mrktsm/codecafe](https://github.com/mrktsm/codecafe) - Real-time collaborative code editor built for the web
 - [dijith-481/Markweavia](https://github.com/dijith-481/Markweavia) - A no-nonsense tool that transforms your Markdown into elegant, professional, platform-independent HTML presentations, all  with familiar Vim motions.
-- [robinroy03/videoeditor](https://github.com/robinroy03/videoeditor) - The open-source alternative to Capcut, Canva, and RVE. Built using React, Remotion & TypeScript.
+- [robinroy03/videoeditor](https://github.com/robinroy03/videoeditor) - Cursor for Video Editing
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -4086,7 +4091,7 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [robinroy03/videoeditor](https://github.com/robinroy03/videoeditor) - The open-source alternative to Capcut, Canva, and RVE. Built using React, Remotion & TypeScript.
+- [robinroy03/videoeditor](https://github.com/robinroy03/videoeditor) - Cursor for Video Editing
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-grade feature flag platform that you can self-host. Get started - free.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -4309,6 +4314,7 @@
 
 ## vuejs 
 
+- [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is a platform for enabling workflow automation using AI assistants.
 - [kriasoft/universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
