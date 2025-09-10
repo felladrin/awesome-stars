@@ -184,6 +184,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [redux](#redux)
+- [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [robotics](#robotics)
 - [ruby](#ruby)
@@ -495,7 +496,6 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [drbh/gmessage](https://github.com/drbh/gmessage) - 💬 modular open source LLM server, web and desktop app
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -1319,6 +1319,7 @@
 
 ## hacktoberfest 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
@@ -1950,6 +1951,7 @@
 
 ## linux 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [Moosems/PyInstallerBuild](https://github.com/Moosems/PyInstallerBuild) - Automatic Pyinstaller Application builds for Linux, Windows, and Mac OSX
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
@@ -2042,7 +2044,7 @@
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [princeton-nlp/LLM-Shearing](https://github.com/princeton-nlp/LLM-Shearing) - [ICLR 2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
 - [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [AutoLLM/AutoAgents](https://github.com/AutoLLM/AutoAgents) - Complex question answering in LLMs with enhanced reasoning and information-seeking capabilities.
 - [drbh/gmessage](https://github.com/drbh/gmessage) - 💬 modular open source LLM server, web and desktop app
@@ -2116,6 +2118,8 @@
 
 ## macos 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [rlxone/MultiSoundChanger](https://github.com/rlxone/MultiSoundChanger) - 🎧 🔈 A small tool for changing sound volume even for aggregate devices cause native sound volume controller can't change volume of aggregate devices
 - [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
@@ -2593,7 +2597,7 @@
 - [mjmirza/Download-VSIX-From-Visual-Studio-Market-Place](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) - This script allows you to download VS Code extensions as VSIX files directly from the Visual Studio Marketplace.
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
@@ -3478,7 +3482,7 @@
 - [Start9Labs/start-os](https://github.com/Start9Labs/start-os) - A graphical server OS optimized for self-hosting
 - [rameshvarun/netplayjs](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required. Powered by rollback netcode + WebRTC.
 - [meething/meething](https://github.com/meething/meething) - dWebRTC Video Meetings MESH/SFU hybrid using GunDB, MediaSoup and Beyond!
-- [subins2000/p2pt](https://github.com/subins2000/p2pt) - Simple WebRTC Peer 2 Peer connections using WebTorrent trackers as the signalling server. Use WebTorrent trackers for any kind of WebRTC app ! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
+- [subins2000/p2pt](https://github.com/subins2000/p2pt) - Use free public WebTorrent trackers as signalling servers for WebRTC apps! 🔥 Make WebRTC apps fast & easy ! 🚀⭐
 - [feross/p2p-graph](https://github.com/feross/p2p-graph) - Real-time P2P network visualization with D3
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
@@ -3851,6 +3855,10 @@
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [r5n-labs/vscode-react-javascript-snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 
+## reinforcement-learning 
+
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
+
 ## rest-api 
 
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -3878,6 +3886,7 @@
 
 ## rust 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [StractOrg/stract](https://github.com/StractOrg/stract) - web search done right
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
@@ -3923,6 +3932,7 @@
 
 ## security 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
 - [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
@@ -4091,6 +4101,7 @@
 
 ## swift 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rlxone/MultiSoundChanger](https://github.com/rlxone/MultiSoundChanger) - 🎧 🔈 A small tool for changing sound volume even for aggregate devices cause native sound volume controller can't change volume of aggregate devices
 - [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -4498,6 +4509,7 @@
 
 ## windows 
 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
