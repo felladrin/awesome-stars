@@ -1019,7 +1019,7 @@
 ## express 
 
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 
@@ -1299,7 +1299,7 @@
 
 ## golang 
 
-- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAI API compatible server)
+- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
@@ -1920,7 +1920,7 @@
 
 ## koa 
 
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [CouchBuddy/couch-buddy](https://github.com/CouchBuddy/couch-buddy) - A Media Center with Cast support that belongs to this millennium
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
@@ -2316,7 +2316,7 @@
 
 ## nestjs 
 
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 
 ## neural-network 
 
@@ -2591,7 +2591,7 @@
 
 ## openai 
 
-- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAI API compatible server)
+- [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -2624,6 +2624,7 @@
 
 ## others 
 
+- [blueman82/ai-counsel](https://github.com/blueman82/ai-counsel) - True deliberative consensus MCP server where AI models debate and refine positions across multiple rounds
 - [Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches](https://github.com/Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches) - Efforts toward giving Qwen 3 Coder 30B A3B proper agentic tool calling capabilities at or near 100% reliability.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [cubist38/mlx-openai-server](https://github.com/cubist38/mlx-openai-server) - A high-performance API server that provides OpenAI-compatible endpoints for MLX models. Developed using Python and powered by the FastAPI framework, it provides an efficient, scalable, and user-friend
@@ -3610,7 +3611,7 @@
 
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -3974,7 +3975,7 @@
 
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [sandworm-hq/sandworm-audit](https://github.com/sandworm-hq/sandworm-audit) - Security & License Compliance For Your App's Dependencies 🪱
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -4078,7 +4079,7 @@
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [tilyupo/qustar](https://github.com/tilyupo/qustar) - Query SQL database through an array-like API
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
-- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.
 - [k1LoW/tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool to document a database, written in Go.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
