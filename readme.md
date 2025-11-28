@@ -6,10 +6,12 @@
 ## Contents
 
 - [3d](#3d)
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -39,6 +41,7 @@
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -171,6 +174,7 @@
 - [php](#php)
 - [physics](#physics)
 - [pixel-art](#pixel-art)
+- [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -257,6 +261,20 @@
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 
+## agent 
+
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+- [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
+- [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
+- [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a simple general-purpose AI agent based on the OpenAI API.
+
 ## ai 
 
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
@@ -334,6 +352,11 @@
 
 ## algorithm 
 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
+
+## algorithms 
+
+- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
 ## analytics 
@@ -646,6 +669,31 @@
 ## code-review 
 
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
+
+## command-line 
+
+- [Elius94/console-gui-tools](https://github.com/Elius94/console-gui-tools) - A simple library to draw option menu or other popup inputs and layout on Node.js console.
+- [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
+- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+- [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+- [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
+- [acrazing/dpdm](https://github.com/acrazing/dpdm) - Detect circular dependencies in your TypeScript projects.
+- [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
+- [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 
 ## compiler 
 
@@ -1150,7 +1198,7 @@
 - [ct-js/ct-js-old](https://github.com/ct-js/ct-js-old) - ⚠️ Old repository of ct.js app. New repository here: https://github.com/ct-js/ct-js
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [oguzeroglu/ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - A 3D engine for the Web
@@ -1547,7 +1595,7 @@
 
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [udevbe/tinyh264](https://github.com/udevbe/tinyh264) - A tiny WASM h.264 decoder, for node and browser
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
@@ -1728,7 +1776,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [BrasilAPI/cep-promise](https://github.com/BrasilAPI/cep-promise) - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
 - [lastmjs/zwitterion](https://github.com/lastmjs/zwitterion) - A web dev server that lets you import anything*
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [nicolas-van/sonant-x](https://github.com/nicolas-van/sonant-x) - Small JavaScript synthesizer library
 - [lifthrasiir/roadroller](https://github.com/lifthrasiir/roadroller) - Roadroller: Flattens Your JavaScript Demo
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -2047,7 +2095,7 @@
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is a platform for enabling workflow automation using AI assistants.
-- [hekmon/comfyui-openai-api](https://github.com/hekmon/comfyui-openai-api) - Call LLM and VLM in a simple way using the OpenAI API standard from ComfyUI
+- [hekmon/comfyui-openai-api](https://github.com/hekmon/comfyui-openai-api) - Call LLM and VLM in a simple way using the OpenAI API standard within ComfyUI
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
@@ -2653,6 +2701,7 @@
 
 ## others 
 
+- [kyuz0/amd-strix-halo-toolboxes](https://github.com/kyuz0/amd-strix-halo-toolboxes) - 
 - [pwilkin/mcp-searxng-public](https://github.com/pwilkin/mcp-searxng-public) - An MCP server that queries public SearXNG instances, parsing HTML contents into a JSON result
 - [intel/auto-round](https://github.com/intel/auto-round) - Advanced quantization toolkit for LLMs and VLMs. Native support for WOQ, MXFP4, NVFP4, GGUF, Adaptive Bits and seamless integration with Transformers, vLLM, SGLang, and TorchAO
 - [eduagarcia/lm-evaluation-harness-pt](https://github.com/eduagarcia/lm-evaluation-harness-pt) - The evalution suite for the 🚀 Open Portuguese LLM Leaderboard
@@ -3299,7 +3348,6 @@
 - [bharadwaj-raju/qOverview](https://github.com/bharadwaj-raju/qOverview) - MOVED: https://gitlab.com/bharadwaj-raju/QOverview
 - [valor-software/ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload
 - [xriley/Developer-Theme](https://github.com/xriley/Developer-Theme) - FREE Bootstrap 5 Portfolio Theme for Developers -
-- [techfolios/template-old](https://github.com/techfolios/template-old) - Technical Portfolio
 - [Innqube/ngx-iq-datepicker](https://github.com/Innqube/ngx-iq-datepicker) - Angular datepicker with bootstrap integration
 - [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
 - [yahoo/blink-diff](https://github.com/yahoo/blink-diff) - A lightweight image comparison tool.
@@ -3632,6 +3680,11 @@
 - [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
 - [lunapaint/vscode-luna-paint](https://github.com/lunapaint/vscode-luna-paint) - A raster image editor extension for VS Code
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+
+## portfolio-website 
+
+- [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
+- [techfolios/template-old](https://github.com/techfolios/template-old) - Technical Portfolio
 
 ## postgresql 
 
