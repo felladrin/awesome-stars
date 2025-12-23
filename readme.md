@@ -2763,7 +2763,7 @@
 - [mjmirza/Download-VSIX-From-Visual-Studio-Market-Place](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) - This script allows you to download VS Code extensions as VSIX files directly from the Visual Studio Marketplace.
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
