@@ -2742,6 +2742,7 @@
 
 ## others 
 
+- [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 - [lhl/strix-halo-testing](https://github.com/lhl/strix-halo-testing) - 
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
 - [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) - Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
