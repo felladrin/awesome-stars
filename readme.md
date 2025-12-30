@@ -3004,7 +3004,7 @@
 - [ShawnZhong/vscode-system-task-manager](https://github.com/ShawnZhong/vscode-system-task-manager) - VSCode Extension for Managing Processes and Port Usage
 - [RienNeVaPlus/human-id](https://github.com/RienNeVaPlus/human-id) - 💃🆔 Generates human readable identifier strings by chaning common (short) words of the english language.
 - [Adelost/mnemonic-id](https://github.com/Adelost/mnemonic-id) - Library to generate easy to remember, and sometimes entertaining, human readable ids.
-- [vinhvn/randimals](https://github.com/vinhvn/randimals) - Generate adorable and unique animal IDs for your projects
+- [vincendiary/randimals](https://github.com/vincendiary/randimals) - Generate adorable and unique animal IDs for your projects
 - [lukeed/watchlist](https://github.com/lukeed/watchlist) - Recursively watch a list of directories & run a command on any file system changes
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [oculus42/short-uuid](https://github.com/oculus42/short-uuid) - Translate standard UUIDs into shorter formats and back.
