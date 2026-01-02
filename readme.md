@@ -275,7 +275,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
@@ -300,7 +300,7 @@
 - [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [e-p-armstrong/augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [SomeOddCodeGuy/WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI) - WilmerAI is one of the oldest LLM semantic routers. It uses multi-layer prompt routing and complex workflows to allow you to not only create practical chatbots, but to extend any kind of application t
@@ -2140,7 +2140,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [cpldcpu/MisguidedAttention](https://github.com/cpldcpu/MisguidedAttention) - A collection of prompts to challenge the reasoning abilities of large language models in presence of misguiding information
 - [lechmazur/generalization](https://github.com/lechmazur/generalization) - Thematic Generalization Benchmark: measures how effectively various LLMs can infer a narrow or specific "theme" (category/rule) from a small set of examples and anti-examples, then detect which item t
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
@@ -2457,7 +2457,7 @@
 
 ## nlp 
 
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [Praful932/llmsearch](https://github.com/Praful932/llmsearch) - Find better generation parameters for your LLM
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
@@ -2742,13 +2742,14 @@
 
 ## others 
 
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。
 - [lhl/strix-halo-testing](https://github.com/lhl/strix-halo-testing) - 
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
 - [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) - Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
 - [kyuz0/amd-strix-halo-toolboxes](https://github.com/kyuz0/amd-strix-halo-toolboxes) - 
 - [pwilkin/mcp-searxng-public](https://github.com/pwilkin/mcp-searxng-public) - An MCP server that queries public SearXNG instances, parsing HTML contents into a JSON result
-- [intel/auto-round](https://github.com/intel/auto-round) - Advanced quantization toolkit for LLMs and VLMs.  Support for WOQ, MXFP4, NVFP4, GGUF, Adaptive Schemes and seamless integration with Transformers, vLLM, SGLang, and llm-compressor
+- [intel/auto-round](https://github.com/intel/auto-round) - 🎯Accuracy-first quantization toolkit for LLMs, focusing on minimizing quality degradation across Weight Only Quantization, MXFP4, NVFP4, GGUF, and adaptive schemes, with seamless integration into Tran
 - [eduagarcia/lm-evaluation-harness-pt](https://github.com/eduagarcia/lm-evaluation-harness-pt) - The evalution suite for the 🚀 Open Portuguese LLM Leaderboard
 - [CerebrasResearch/reap](https://github.com/CerebrasResearch/reap) - REAP: Router-weighted Expert Activation Pruning for SMoE compression
 - [Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches](https://github.com/Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches) - Efforts toward giving Qwen 3 Coder 30B A3B proper agentic tool calling capabilities at or near 100% reliability.
