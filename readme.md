@@ -562,7 +562,7 @@
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Local inspector for ChatGPT apps & MCP servers
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Local inspector for ChatGPT apps & MCP apps (ext-apps)
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -620,6 +620,7 @@
 
 ## cli 
 
+- [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
@@ -1366,6 +1367,7 @@
 
 ## go 
 
+- [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants.
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
@@ -1390,6 +1392,7 @@
 
 ## golang 
 
+- [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
@@ -2371,7 +2374,7 @@
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Local inspector for ChatGPT apps & MCP servers
+- [MCPJam/inspector](https://github.com/MCPJam/inspector) - Local inspector for ChatGPT apps & MCP apps (ext-apps)
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [ColeMurray/moondream-mcp](https://github.com/ColeMurray/moondream-mcp) - Moondream MCP Server in Python
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -4361,6 +4364,7 @@
 
 ## terminal 
 
+- [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [Elius94/console-gui-tools](https://github.com/Elius94/console-gui-tools) - A simple library to draw option menu or other popup inputs and layout on Node.js console.
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
@@ -4412,12 +4416,13 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [edwko/OuteTTS](https://github.com/edwko/OuteTTS) - Interface for OuteTTS models.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [richardr1126/OpenReader-WebUI](https://github.com/richardr1126/OpenReader-WebUI) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. Use your own Kokoro-FastAPI, Deepinfa API, or Open AI API end
+- [richardr1126/OpenReader-WebUI](https://github.com/richardr1126/OpenReader-WebUI) - EPUB, PDF, DOCX, TXT, and MD file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. Use your own Kokoro-FastAPI, Deepinfa API, or Open AI API end
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [thaispalmer/talkify-tts-api](https://github.com/thaispalmer/talkify-tts-api) - Library to generate TTS directly from Talkify.net APIs
 
 ## tui 
 
+- [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
