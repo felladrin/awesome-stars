@@ -3375,7 +3375,7 @@
 - [jjuback/gc-excelviewer](https://github.com/jjuback/gc-excelviewer) - Visual Studio Code extension for viewing Excel spreadsheets and CSV files.
 - [cfjedimaster/htmlescape-vscode](https://github.com/cfjedimaster/htmlescape-vscode) - HTML Escape extension for Visual Studio Code
 - [wmaurer/vscode-change-case](https://github.com/wmaurer/vscode-change-case) - Change Case Extension for Visual Studio Code
-- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - ayu theme for vscode
+- [ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu) - 🎨🖌 Modern, bright color theme for VS Code
 - [NuclleaR/vscode-extension-auto-import](https://github.com/NuclleaR/vscode-extension-auto-import) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with JavaScript and TypeScript.
 - [streetsidesoftware/vscode-cspell-dict-extensions](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions) - VS Code Spelling Dictionary Extensions
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
