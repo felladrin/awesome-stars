@@ -3479,7 +3479,7 @@
 - [eott/tajs](https://github.com/eott/tajs) - [Done] JS-based text adventure game framework
 - [benbuck/rbtray](https://github.com/benbuck/rbtray) - A fork of RBTray from http://sourceforge.net/p/rbtray/code/.
 - [UnityEQ/UnityEQWebGL](https://github.com/UnityEQ/UnityEQWebGL) - WebGLClient: Unity3d & EQEMU
-- [colyseus/colyseus.js](https://github.com/colyseus/colyseus.js) - ⚔ Colyseus Multiplayer SDK for JavaScript/TypeScript
+- [colyseus/colyseus.js](https://github.com/colyseus/colyseus.js) - MOVED TO MONOREPO: https://github.com/colyseus/colyseus/tree/master/packages/sdk
 - [JetBrains/Unity3dRider](https://github.com/JetBrains/Unity3dRider) - Unity JetBrains Rider integration
 - [sqreen/CTOSecurityChecklist](https://github.com/sqreen/CTOSecurityChecklist) - The SaaS CTO Security Checklist
 - [diogorighi/hackaton-course-builder](https://github.com/diogorighi/hackaton-course-builder) - VanHackaton Challenge: Thinkific Course Builder
