@@ -2731,7 +2731,7 @@
 ## others 
 
 - [alamenai/terrae](https://github.com/alamenai/terrae) - Beautiful map components built with React, TypeScript, Tailwind CSS, and Mapbox GL JS. Perfect companion for shadcn/ui.
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [cnicolov/opencode-plugin-simple-memory](https://github.com/cnicolov/opencode-plugin-simple-memory) - A persistent memory plugin for OpenCode that enables the AI assistant to remember context across sessions
 - [eugr/llama-benchy](https://github.com/eugr/llama-benchy) - llama-benchy - llama-bench style benchmarking tool for all backends
