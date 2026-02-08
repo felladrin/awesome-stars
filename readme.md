@@ -272,6 +272,7 @@
 
 ## agent 
 
+- [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can’t --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot and even Vim in tmux-ba
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
@@ -285,6 +286,7 @@
 
 ## ai 
 
+- [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can’t --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot and even Vim in tmux-ba
 - [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
 - [amd/gaia](https://github.com/amd/gaia) - Build AI agents for your PC
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
@@ -2091,6 +2093,8 @@
 
 ## llm 
 
+- [arminpasalic/vectoria](https://github.com/arminpasalic/vectoria) - Browser-first text exploration, clustering, and semantic search.
+- [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can’t --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot and even Vim in tmux-ba
 - [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) - Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
 - [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
@@ -2730,7 +2734,8 @@
 
 ## others 
 
-- [alamenai/terrae](https://github.com/alamenai/terrae) - Beautiful map components built with React, TypeScript, Tailwind CSS, and Mapbox GL JS. Perfect companion for shadcn/ui.
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [alamenai/terrae](https://github.com/alamenai/terrae) - Declarative, composable map components that replace imperative layers with simple props. The perfect companion for React.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [cnicolov/opencode-plugin-simple-memory](https://github.com/cnicolov/opencode-plugin-simple-memory) - A persistent memory plugin for OpenCode that enables the AI assistant to remember context across sessions
@@ -2993,7 +2998,7 @@
 - [pianomister/diffsite](https://github.com/pianomister/diffsite) - Tool to visually compare two versions of a website.
 - [ShawnZhong/vscode-system-task-manager](https://github.com/ShawnZhong/vscode-system-task-manager) - VSCode Extension for Managing Processes and Port Usage
 - [RienNeVaPlus/human-id](https://github.com/RienNeVaPlus/human-id) - 💃🆔 Generates human readable identifier strings by chaning common (short) words of the english language.
-- [Adelost/mnemonic-id](https://github.com/Adelost/mnemonic-id) - Library to generate easy to remember, and sometimes entertaining, human readable ids.
+- [adelost/mnemonic-id](https://github.com/adelost/mnemonic-id) - Library to generate easy to remember, and sometimes entertaining, human readable ids.
 - [vincendiary/randimals](https://github.com/vincendiary/randimals) - Generate adorable and unique animal IDs for your projects
 - [lukeed/watchlist](https://github.com/lukeed/watchlist) - Recursively watch a list of directories & run a command on any file system changes
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
@@ -3873,6 +3878,7 @@
 
 ## rag 
 
+- [arminpasalic/vectoria](https://github.com/arminpasalic/vectoria) - Browser-first text exploration, clustering, and semantic search.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
