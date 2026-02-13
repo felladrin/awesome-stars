@@ -1346,7 +1346,7 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants.
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -1371,7 +1371,7 @@
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -2131,7 +2131,7 @@
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [Praful932/llmsearch](https://github.com/Praful932/llmsearch) - Find better generation parameters for your LLM
 - [zeozeozeo/ellama](https://github.com/zeozeozeo/ellama) - Friendly interface to chat with an Ollama instance.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [arcee-ai/PruneMe](https://github.com/arcee-ai/PruneMe) - Automated Identification of Redundant Layer Blocks for Pruning in Large Language Models
@@ -2779,7 +2779,7 @@
 - [DreamLM/Dream](https://github.com/DreamLM/Dream) - Dream 7B, a large diffusion language model
 - [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) - Official PyTorch implementation for "Large Language Diffusion Models"
 - [HKUNLP/DiffuLLaMA](https://github.com/HKUNLP/DiffuLLaMA) - [ICLR2025] DiffuGPT and DiffuLLaMA: Scaling Diffusion Language Models via Adaptation from Autoregressive Models
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [tanhakabir/rest-book](https://github.com/tanhakabir/rest-book) - REST Book is a Visual Studio Code extension that allows you to perform REST calls in a Notebook interface.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - [NeurIPS 2025] Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Surpasses GPT-4o in ID persistence~ MoE ckpt released! Only 4GB VRAM is enough to run!
