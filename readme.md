@@ -2735,7 +2735,7 @@
 ## others 
 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [alamenai/terrae](https://github.com/alamenai/terrae) - Declarative, composable map components that replace imperative layers with simple props. The perfect companion for React.
+- [alamenai/terrae](https://github.com/alamenai/terrae) - Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [cnicolov/opencode-plugin-simple-memory](https://github.com/cnicolov/opencode-plugin-simple-memory) - A persistent memory plugin for OpenCode that enables the AI assistant to remember context across sessions
