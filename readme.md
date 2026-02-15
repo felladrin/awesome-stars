@@ -2774,7 +2774,7 @@
 - [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [astracompiler/cli](https://github.com/astracompiler/cli) - 🚀 Fast, reliable and easy-to-use js-to-exe compiler.
-- [Gen-Verse/MMaDA](https://github.com/Gen-Verse/MMaDA) - MMaDA - Open-Sourced Multimodal Large Diffusion Language Models
+- [Gen-Verse/MMaDA](https://github.com/Gen-Verse/MMaDA) - MMaDA - Open-Sourced Multimodal Large Diffusion Language Models (dLLMs with mixed-CoT and unified GRPO)
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [DreamLM/Dream](https://github.com/DreamLM/Dream) - Dream 7B, a large diffusion language model
 - [ML-GSAI/LLaDA](https://github.com/ML-GSAI/LLaDA) - Official PyTorch implementation for "Large Language Diffusion Models"
