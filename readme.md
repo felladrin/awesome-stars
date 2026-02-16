@@ -286,6 +286,7 @@
 
 ## ai 
 
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - A multi-voice AI audiobook generator built on Qwen3-TTS — annotate scripts with an LLM, assign unique voices to each character, per-line style instructions for delivery, clone voices from reference au
 - [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot and even Vim in tmux-ba
 - [btriapitsyn/openchamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
 - [amd/gaia](https://github.com/amd/gaia) - Build AI agents for your PC
@@ -3814,6 +3815,7 @@
 
 ## python 
 
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - A multi-voice AI audiobook generator built on Qwen3-TTS — annotate scripts with an LLM, assign unique voices to each character, per-line style instructions for delivery, clone voices from reference au
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [omarkamali/picomon](https://github.com/omarkamali/picomon) - Beautiful TUI dashboard for monitoring GPUs (AMD, NVIDIA, Apple Silicon)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -4374,6 +4376,7 @@
 
 ## text-to-speech 
 
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - A multi-voice AI audiobook generator built on Qwen3-TTS — annotate scripts with an LLM, assign unique voices to each character, per-line style instructions for delivery, clone voices from reference au
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [edwko/OuteTTS](https://github.com/edwko/OuteTTS) - Interface for OuteTTS models.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
