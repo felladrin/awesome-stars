@@ -419,6 +419,7 @@
 - [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## archlinux 
 
@@ -1140,6 +1141,7 @@
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## game 
 
@@ -1995,6 +1997,7 @@
 - [jeremyfa/yaml.js](https://github.com/jeremyfa/yaml.js) - Standalone JavaScript YAML 1.2 Parser & Encoder. Works under node.js and all major browsers. Also brings command line YAML/JSON conversion tools.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 ## koa 
 
@@ -2735,6 +2738,7 @@
 
 ## others 
 
+- [aminueza/azure-devops-templates](https://github.com/aminueza/azure-devops-templates) - Reusable pipeline templates for Terraform infrastructure, Docker builds, security scanning, and application deployments.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [alamenai/terrae](https://github.com/alamenai/terrae) - Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
@@ -3499,7 +3503,6 @@
 - [mindmup/legacy-mindmup](https://github.com/mindmup/legacy-mindmup) - Legacy MindMup (v1) code
 - [robcupisz/LightShafts](https://github.com/robcupisz/LightShafts) - A light shafts (volumetric shadows) effect for Unity.
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [duiker101/Hacker-Typer](https://github.com/duiker101/Hacker-Typer) - Hacker Typer is a fun joke for every person who wants to look like a cool hacker!
 - [loryjs/lory](https://github.com/loryjs/lory) - ☀ Touch enabled minimalistic slider written in vanilla JavaScript.
