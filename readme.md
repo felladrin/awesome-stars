@@ -2233,6 +2233,7 @@
 
 ## macos 
 
+- [Bbalduzz/nib](https://github.com/Bbalduzz/nib) - build macOS status bar apps in Python.
 - [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS & macOS
 - [Q1CHENL/mem-pressure](https://github.com/Q1CHENL/mem-pressure) - Show memory pressure in menu bar on macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -3818,6 +3819,7 @@
 
 ## python 
 
+- [Bbalduzz/nib](https://github.com/Bbalduzz/nib) - build macOS status bar apps in Python.
 - [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - A multi-voice AI audiobook generator built on Qwen3-TTS — annotate scripts with an LLM, assign unique voices to each character, per-line style instructions for delivery, clone voices from reference au
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [omarkamali/picomon](https://github.com/omarkamali/picomon) - Beautiful TUI dashboard for monitoring GPUs (AMD, NVIDIA, Apple Silicon)
@@ -4383,7 +4385,7 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [edwko/OuteTTS](https://github.com/edwko/OuteTTS) - Interface for OuteTTS models.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [richardr1126/openreader](https://github.com/richardr1126/openreader) - EPUB, PDF, DOCX, TXT, and MD file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. Use your own Kokoro-FastAPI, Deepinfa API, or Open AI API end
+- [richardr1126/openreader](https://github.com/richardr1126/openreader) - A self-hosted, open-source read-along document reader with high-quality TTS, synchronized highlighting, and audiobook export for EPUB, PDF, DOCX, TXT, and MD.
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [thaispalmer/talkify-tts-api](https://github.com/thaispalmer/talkify-tts-api) - Library to generate TTS directly from Talkify.net APIs
 
