@@ -1758,7 +1758,7 @@
 - [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [Donitzo/tinysequencer.js](https://github.com/Donitzo/tinysequencer.js) - A small ADSR sequencer based on the Web Audio API.
 - [pemistahl/grex-js](https://github.com/pemistahl/grex-js) - A JavaScript / WebAssembly library for generating regular expressions from user-provided test cases
-- [nenjack/check2d](https://github.com/nenjack/check2d) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
+- [jacek-goblin/check2d](https://github.com/jacek-goblin/check2d) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 - [IceCreamYou/MainLoop.js](https://github.com/IceCreamYou/MainLoop.js) - Provides a well-constructed main loop useful for JavaScript games and other animated or time-dependent applications.
@@ -2056,7 +2056,7 @@
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-- [nenjack/check2d](https://github.com/nenjack/check2d) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
+- [jacek-goblin/check2d](https://github.com/jacek-goblin/check2d) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
@@ -2972,7 +2972,7 @@
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [tiaanduplessis/kill-port](https://github.com/tiaanduplessis/kill-port) - ❌ Kill the process running on given port
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
@@ -4457,7 +4457,7 @@
 - [peers/peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
 - [albert-gonzalez/easytimer.js](https://github.com/albert-gonzalez/easytimer.js) - Easy to use Timer/Stopwatch/Countdown library compatible with AMD, ES6 and Typescript
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.
-- [nenjack/check2d](https://github.com/nenjack/check2d) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
+- [jacek-goblin/check2d](https://github.com/jacek-goblin/check2d) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [atomicptr/dauntless-builder-legacy](https://github.com/atomicptr/dauntless-builder-legacy) - Create and share Dauntless builds with your friends!
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
