@@ -81,6 +81,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -1088,6 +1089,11 @@
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [kni-labs/rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons
 - [aluxian/Messenger-for-Desktop](https://github.com/aluxian/Messenger-for-Desktop) - This is not an official Facebook product, and is not affiliated with, or sponsored or endorsed by, Facebook.
+
+## fastapi 
+
+- [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - A multi-voice AI audiobook generator built on Qwen3-TTS — annotate scripts with an LLM, assign unique voices to each character, per-line style instructions for delivery, clone voices from reference au
+- [cubist38/mlx-openai-server](https://github.com/cubist38/mlx-openai-server) - A high-performance API server that provides OpenAI-compatible endpoints for MLX models. Developed using Python and powered by the FastAPI framework, it provides an efficient, scalable, and user-friend
 
 ## finance 
 
@@ -2757,7 +2763,6 @@
 - [eduagarcia/lm-evaluation-harness-pt](https://github.com/eduagarcia/lm-evaluation-harness-pt) - The evalution suite for the 🚀 Open Portuguese LLM Leaderboard
 - [CerebrasResearch/reap](https://github.com/CerebrasResearch/reap) - REAP: Router-weighted Expert Activation Pruning for SMoE compression
 - [Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches](https://github.com/Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches) - Efforts toward giving Qwen 3 Coder 30B A3B proper agentic tool calling capabilities at or near 100% reliability.
-- [cubist38/mlx-openai-server](https://github.com/cubist38/mlx-openai-server) - A high-performance API server that provides OpenAI-compatible endpoints for MLX models. Developed using Python and powered by the FastAPI framework, it provides an efficient, scalable, and user-friend
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [appditto/natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) - Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter.
 - [stephenlacy/mathom](https://github.com/stephenlacy/mathom) - Run and monitor MCP servers locally
