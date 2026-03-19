@@ -1442,7 +1442,6 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
-- [PrunaAI/pruna](https://github.com/PrunaAI/pruna) - Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead.
 - [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses) - A global repository of open address, building, and parcel data.
@@ -2804,6 +2803,7 @@
 - [optuna/optuna-dashboard](https://github.com/optuna/optuna-dashboard) - Real-time Web Dashboard for Optuna.
 - [cjpais/LocalScore](https://github.com/cjpais/LocalScore) - LocalScore is an open benchmark which helps you understand how well your computer can handle local AI tasks.
 - [jukofyork/transplant-vocab](https://github.com/jukofyork/transplant-vocab) - Transplants vocabulary between language models, enabling the creation of draft models for speculative decoding WITHOUT retraining.
+- [PrunaAI/pruna](https://github.com/PrunaAI/pruna) - Pruna is a model optimization framework built for developers, enabling you to deliver faster, more efficient models with minimal overhead.
 - [wizenheimer/tinylm](https://github.com/wizenheimer/tinylm) - Browser based ML Inference | OpenAI compliant | Run models like DeepSeek, Llama 3.2, NomicEmbed, KokoroTTS, and more
 - [cm64-studio/LLMule-desktop-client](https://github.com/cm64-studio/LLMule-desktop-client) - 
 - [K-Mistele/swarm](https://github.com/K-Mistele/swarm) - Model-agnostic typescript implementation of OpenAI's Swarm framework with the Vercel AI SDK
