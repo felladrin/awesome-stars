@@ -358,6 +358,7 @@
 ## ai-agents 
 
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
+- [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants.
 - [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [Azzedde/brainstormers](https://github.com/Azzedde/brainstormers) - This repository hosts a suite of specialized agents designed to power your brainstorming sessions. Each agent brings a unique perspective and tailored approach to generate creative, targeted solutions
@@ -445,7 +446,6 @@
 
 ## automation 
 
-- [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer. Take screenshots, generate PDFs, extract text and HTML with a production-ready API.
