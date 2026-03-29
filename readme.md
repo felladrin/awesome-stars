@@ -950,7 +950,6 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 - [kevinthedang/discord-ollama](https://github.com/kevinthedang/discord-ollama) - Discord Bot that utilizes Ollama to interact with any Large Language Models to talk with users and allow them to host/create their own models.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
@@ -2859,6 +2858,7 @@
 - [ExoOnix/OnixIDE](https://github.com/ExoOnix/OnixIDE) - A collaborative online editor.
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [serializer-io/serializer](https://github.com/serializer-io/serializer) - A linearizing social tech news reader
+- [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - 
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [oramasearch/chunker](https://github.com/oramasearch/chunker) - Split large texts into chunks with a maximum number of tokens. Split by fixed size or by sentence.
