@@ -277,7 +277,7 @@
 - [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot and even Vim in tmux-ba
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -301,7 +301,7 @@
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [ronantakizawa/sleeptimecompute](https://github.com/ronantakizawa/sleeptimecompute) - A Demo of Running Sleep-time Compute to Reduce LLM Latency
@@ -773,7 +773,7 @@
 ## css 
 
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [ibra-kdbra/Paginis](https://github.com/ibra-kdbra/Paginis) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
+- [ibra-kdbra/Zaya](https://github.com/ibra-kdbra/Zaya) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
@@ -1941,7 +1941,6 @@
 - [parloti/PongGame](https://github.com/parloti/PongGame) - A pong game for browser with HTML5 and AngularJS
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -1978,7 +1977,7 @@
 
 ## jquery 
 
-- [ibra-kdbra/Paginis](https://github.com/ibra-kdbra/Paginis) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
+- [ibra-kdbra/Zaya](https://github.com/ibra-kdbra/Zaya) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
 - [litecart/litecart](https://github.com/litecart/litecart) - LiteCart is a superfast e-commerce platform. Free for everyone to use. Built with the obsession of lightweight using PHP, jQuery, HTML 5, and CSS 3.
 - [fancyapps/fancybox](https://github.com/fancyapps/fancybox) - jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.
 
@@ -3507,6 +3506,7 @@
 - [dkandalov/friday-mario](https://github.com/dkandalov/friday-mario) - IntelliJ plugin to have fun 🎮🔊
 - [vektah/CodeGlance](https://github.com/vektah/CodeGlance) - Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime
 - [karma-runner/karma-jasmine](https://github.com/karma-runner/karma-jasmine) - A Karma plugin - adapter for Jasmine testing framework.
+- [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [dotBunny/VSCode](https://github.com/dotBunny/VSCode) - Unity Visual Studio Code Integration
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [Studio3T/robomongo](https://github.com/Studio3T/robomongo) - Native cross-platform MongoDB management tool
@@ -3799,7 +3799,7 @@
 
 ## programming 
 
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
