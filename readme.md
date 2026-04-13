@@ -1045,7 +1045,7 @@
 
 ## embedded 
 
-- [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
+- [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A Tiny Webassembly Runtime Written in Rust
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
 ## ember 
@@ -4101,7 +4101,7 @@
 - [zeozeozeo/ellama](https://github.com/zeozeozeo/ellama) - Friendly interface to chat with an Ollama instance.
 - [tantaraio/voy](https://github.com/tantaraio/voy) - 🕸️🦀 A WASM vector similarity search written in Rust
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
-- [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A tiny, interpreted WebAssembly Runtime written in Rust
+- [explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm) - A Tiny Webassembly Runtime Written in Rust
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [greatest-ape/aquatic](https://github.com/greatest-ape/aquatic) - High-performance open BitTorrent tracker (UDP, HTTP, WebTorrent)
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
