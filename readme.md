@@ -2778,7 +2778,7 @@
 - [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) - Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
 - [kyuz0/amd-strix-halo-toolboxes](https://github.com/kyuz0/amd-strix-halo-toolboxes) - 
 - [pwilkin/mcp-searxng-public](https://github.com/pwilkin/mcp-searxng-public) - An MCP server that queries public SearXNG instances, parsing HTML contents into a JSON result
-- [intel/auto-round](https://github.com/intel/auto-round) - (one of )The SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Trans
+- [intel/auto-round](https://github.com/intel/auto-round) - A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.
 - [eduagarcia/lm-evaluation-harness-pt](https://github.com/eduagarcia/lm-evaluation-harness-pt) - The evalution suite for the 🚀 Open Portuguese LLM Leaderboard
 - [CerebrasResearch/reap](https://github.com/CerebrasResearch/reap) - REAP: Router-weighted Expert Activation Pruning for SMoE compression
 - [Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches](https://github.com/Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches) - Efforts toward giving Qwen 3 Coder 30B A3B proper agentic tool calling capabilities at or near 100% reliability.
