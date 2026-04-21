@@ -2907,7 +2907,7 @@
 - [michaeldelorenzo/keyword-extractor](https://github.com/michaeldelorenzo/keyword-extractor) - NPM package for creating a keyword array from a string and excluding stop words.
 - [chaosprint/vite-plugin-cross-origin-isolation](https://github.com/chaosprint/vite-plugin-cross-origin-isolation) - A vite plugin for enabling cross-origin-isolation for dev server.
 - [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
-- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+- [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for Extrem
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
