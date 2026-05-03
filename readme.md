@@ -2965,7 +2965,7 @@
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [fudan-zvg/Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).
 - [pharmapsychotic/clip-interrogator-ext](https://github.com/pharmapsychotic/clip-interrogator-ext) - Stable Diffusion WebUI extension for CLIP Interrogator
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
