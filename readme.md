@@ -1695,7 +1695,7 @@
 ## ios 
 
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-- [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS & macOS
+- [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS, iPadOS & macOS
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -2274,7 +2274,7 @@
 ## macos 
 
 - [Bbalduzz/nib](https://github.com/Bbalduzz/nib) - build macOS status bar apps in Python.
-- [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS & macOS
+- [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS, iPadOS & macOS
 - [Q1CHENL/mem-pressure](https://github.com/Q1CHENL/mem-pressure) - Show memory pressure in menu bar on macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -2767,7 +2767,6 @@
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [yagil/ChatIDE](https://github.com/yagil/ChatIDE) - AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.
 - [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## opengl 
 
@@ -4332,7 +4331,7 @@
 ## swift 
 
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-- [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS & macOS
+- [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS, iPadOS & macOS
 - [Q1CHENL/mem-pressure](https://github.com/Q1CHENL/mem-pressure) - Show memory pressure in menu bar on macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [rlxone/MultiSoundChanger](https://github.com/rlxone/MultiSoundChanger) - 🎧 🔈 A small tool for changing sound volume even for aggregate devices cause native sound volume controller can't change volume of aggregate devices
