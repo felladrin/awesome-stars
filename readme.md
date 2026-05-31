@@ -671,6 +671,7 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
@@ -1739,6 +1740,7 @@
 - [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch) - Your users download a 4GB AI model, the connection drops at 3.8GB, verifyfetch resumes from 3.8GB and verifies every byte. Drop-in integrity verification for Transformers.js, WebLLM, and any large fil
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [mjmirza/Download-VSIX-From-Visual-Studio-Market-Place](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) - Download any VS Code extension as a VSIX from the Visual Studio Marketplace. Any version, any OS specific build, search by name. Zero dependencies, no tracking, runs in your browser.
 - [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
@@ -2808,7 +2810,6 @@
 - [appditto/natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) - Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter.
 - [stephenlacy/mathom](https://github.com/stephenlacy/mathom) - Run and monitor MCP servers locally
 - [mjbvz/vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview
-- [mjmirza/Download-VSIX-From-Visual-Studio-Market-Place](https://github.com/mjmirza/Download-VSIX-From-Visual-Studio-Market-Place) - This script allows you to download VS Code extensions as VSIX files directly from the Visual Studio Marketplace.
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
