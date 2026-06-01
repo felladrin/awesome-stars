@@ -3063,7 +3063,6 @@
 - [teambition/jsonrpc-lite](https://github.com/teambition/jsonrpc-lite) - Parse and Serialize JSON-RPC2 messages in node.js, or browser.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
 - [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
-- [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [fominvic81/Quark2d](https://github.com/fominvic81/Quark2d) - 2d javascript physics engine
