@@ -359,6 +359,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Atome-FE/llama-node](https://github.com/Atome-FE/llama-node) - Believe in AI democratization. llama for nodejs backed by llama-rs, llama.cpp and rwkv.cpp, work locally on your laptop CPU. support llama/alpaca/gpt4all/vicuna/rwkv model.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
@@ -1397,7 +1398,7 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants.
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -1422,7 +1423,7 @@
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
 - [hearchco/agent](https://github.com/hearchco/agent) - Hearchco agent used to gather info from a variety of sources.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [thatisuday/commando](https://github.com/thatisuday/commando) - An easy-to-use command-line application builder.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -2182,7 +2183,7 @@
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
 - [Praful932/llmsearch](https://github.com/Praful932/llmsearch) - Find better generation parameters for your LLM
 - [zeozeozeo/ellama](https://github.com/zeozeozeo/ellama) - Friendly interface to chat with an Ollama instance.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [arcee-ai/PruneMe](https://github.com/arcee-ai/PruneMe) - Automated Identification of Redundant Layer Blocks for Pruning in Large Language Models
@@ -2895,7 +2896,6 @@
 - [LostRuins/datasetexplorer](https://github.com/LostRuins/datasetexplorer) - Easily view and modify JSON datasets for large language models
 - [arcee-ai/DistillKit](https://github.com/arcee-ai/DistillKit) - An Open Source Toolkit For LLM Distillation
 - [RichardKelley/hflm](https://github.com/RichardKelley/hflm) - A simple library for working with Hugging Face models.
-- [SingularityMan/vector_companion](https://github.com/SingularityMan/vector_companion) - A local AI companion that uses a collection of free, open source AI models in order to create two virtual companions that will follow your computer journey wherever you go!
 - [l33tkr3w/LlamaCards](https://github.com/l33tkr3w/LlamaCards) - LlamaCards is a web application that provides a dynamic interface for interacting with LLM models in real-time. This app allows users to create and connect cards, each representing different functiona
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [microsoft/Samba](https://github.com/microsoft/Samba) - [ICLR 2025] Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
@@ -3000,7 +3000,6 @@
 - [KennethSundqvist/key-jump-browser-extension](https://github.com/KennethSundqvist/key-jump-browser-extension) - Easier keyboard navigation. No mouse needed to click on links and stuff.
 - [nedbat/dinghy](https://github.com/nedbat/dinghy) - A GitHub activity digest tool
 - [jessetane/queue](https://github.com/jessetane/queue) - Asynchronous function queue with adjustable concurrency
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [ryu1kn/vscode-partial-diff](https://github.com/ryu1kn/vscode-partial-diff) - Visual Studio Code Extension. Take a diff of 2 parts of text(s)
 - [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
