@@ -3309,7 +3309,7 @@
 - [sindresorhus/auto-bind](https://github.com/sindresorhus/auto-bind) - Automatically bind methods to their class instance
 - [aminueza/terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A simple cron-like job scheduler for Node.js
+- [node-cron/node-cron](https://github.com/node-cron/node-cron) - A tiny, zero-dependency cron task scheduler for Node.js, written in TypeScript.
 - [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
 - [nithinpeter/vscode-git-remote](https://github.com/nithinpeter/vscode-git-remote) - 
 - [leftstick/vscode-git-tags](https://github.com/leftstick/vscode-git-tags) - quick manage tags for a git repo
