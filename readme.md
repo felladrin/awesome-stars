@@ -2793,7 +2793,6 @@
 
 ## others 
 
-- [Epsilondelta-ai/pi-web](https://github.com/Epsilondelta-ai/pi-web) - A web UI for viewing and controlling the local pi coding agent in your browser.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [alamenai/terrae](https://github.com/alamenai/terrae) - Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui.
