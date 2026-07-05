@@ -2816,6 +2816,7 @@
 
 ## others 
 
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [fewtarius/CachyLLama](https://github.com/fewtarius/CachyLLama) - LLM inference in C/C++
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
