@@ -264,6 +264,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -2824,6 +2825,7 @@
 
 ## others 
 
+- [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom) - 
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [fewtarius/CachyLLama](https://github.com/fewtarius/CachyLLama) - LLM inference in C/C++
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
@@ -2879,7 +2881,7 @@
 - [optuna/optuna-dashboard](https://github.com/optuna/optuna-dashboard) - Real-time Web Dashboard for Optuna.
 - [cjpais/LocalScore](https://github.com/cjpais/LocalScore) - LocalScore is an open benchmark which helps you understand how well your computer can handle local AI tasks.
 - [jukofyork/transplant-vocab](https://github.com/jukofyork/transplant-vocab) - Transplants vocabulary between language models, enabling the creation of draft models for speculative decoding WITHOUT retraining.
-- [wizenheimer/tinylm](https://github.com/wizenheimer/tinylm) - Browser based ML Inference | OpenAI compliant | Run models like DeepSeek, Llama 3.2, NomicEmbed, KokoroTTS, and more
+- [0xnyn/tinylm](https://github.com/0xnyn/tinylm) - Browser based ML Inference | OpenAI compliant | Run models like DeepSeek, Llama 3.2, NomicEmbed, KokoroTTS, and more
 - [cm64-studio/LLMule-desktop-client](https://github.com/cm64-studio/LLMule-desktop-client) - 
 - [K-Mistele/swarm](https://github.com/K-Mistele/swarm) - Model-agnostic typescript implementation of OpenAI's Swarm framework with the Vercel AI SDK
 - [itsPreto/tangent](https://github.com/itsPreto/tangent) - Excalidraw meets ComfyUI for LLMs
@@ -4877,6 +4879,15 @@
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [stevenbenner/steves-encode64-utility](https://github.com/stevenbenner/steves-encode64-utility) - :package: My encode64 tool for creating data URIs.
+
+## workflow 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows t
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
+- [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
 
 ## xml 
 
