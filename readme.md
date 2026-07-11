@@ -643,6 +643,7 @@
 
 ## chrome-extension 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [chinchang/loremizer](https://github.com/chinchang/loremizer) - lorem ipsum-izes any web page
@@ -1385,6 +1386,7 @@
 
 ## github 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
 - [sheeehy/GeoGit](https://github.com/sheeehy/GeoGit) - 
 - [pajecawav/ghloc-web](https://github.com/pajecawav/ghloc-web) - Count lines of code in a GitHub repository
