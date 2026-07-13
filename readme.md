@@ -2827,6 +2827,7 @@
 
 ## others 
 
+- [igorbarshteyn/jlens-gguf](https://github.com/igorbarshteyn/jlens-gguf) - Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp
 - [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom) - 
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 - [fewtarius/CachyLLama](https://github.com/fewtarius/CachyLLama) - LLM inference in C/C++
