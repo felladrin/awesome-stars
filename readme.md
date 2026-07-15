@@ -2124,7 +2124,7 @@
 - [tighten/gistlog](https://github.com/tighten/gistlog) - GistLog - simple, easy blogging based on GitHub gists
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js) - 💎  Convenient and dependency free wrapper for working with arrays and objects
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 
 ## latex 
@@ -2861,7 +2861,7 @@
 - [openai/harmony](https://github.com/openai/harmony) - Renderer for the harmony response format to be used with gpt-oss
 - [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [google/dawn](https://github.com/google/dawn) - Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
@@ -3771,7 +3771,7 @@
 - [felixfbecker/php-language-server](https://github.com/felixfbecker/php-language-server) - PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [froxlor/froxlor](https://github.com/froxlor/froxlor) - The server administration software for your needs - The official Froxlor development Git repository
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 - [HvyIndustries/crane](https://github.com/HvyIndustries/crane) - PHP Intellisense/code-completion for VS Code
 - [hjson/hjson-php](https://github.com/hjson/hjson-php) - Hjson for PHP
@@ -4242,7 +4242,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 
