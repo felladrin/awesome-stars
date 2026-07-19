@@ -1888,7 +1888,7 @@
 - [developit/snarkdown](https://github.com/developit/snarkdown) - :smirk_cat: A snarky 1kb Markdown parser written in JavaScript
 - [AFASSoftware/maquette](https://github.com/AFASSoftware/maquette) - Pure and simple virtual DOM library
 - [radzionc/breakout-game](https://github.com/radzionc/breakout-game) - Breakout Game with React and SVG
-- [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) - 🚧  Get and set dot-notated properties within an object.
+- [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) - Get and set dot-notated properties within an object.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
