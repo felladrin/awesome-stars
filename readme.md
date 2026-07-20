@@ -318,6 +318,7 @@
 
 ## ai 
 
+- [04mg/caw](https://github.com/04mg/caw) - Web terminal multiplexer for AI agents.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
 - [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
@@ -2832,6 +2833,7 @@
 
 ## others 
 
+- [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [ZimengXiong/Modelr](https://github.com/ZimengXiong/Modelr) - Image to 3D on your Mac
 - [igorbarshteyn/jlens-gguf](https://github.com/igorbarshteyn/jlens-gguf) - Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp
 - [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom) - 
@@ -4434,6 +4436,7 @@
 
 ## terminal 
 
+- [04mg/caw](https://github.com/04mg/caw) - Web terminal multiplexer for AI agents.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
