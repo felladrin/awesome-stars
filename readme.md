@@ -682,6 +682,7 @@
 
 ## cli 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -990,6 +991,7 @@
 
 ## devops 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -1430,6 +1432,7 @@
 
 ## go 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [intelligencedev/manifold](https://github.com/intelligencedev/manifold) - Manifold is an experimental platform for enabling long horizon workflow automation using teams of AI assistants.
@@ -1455,6 +1458,7 @@
 
 ## golang 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [step-security/secure-repo](https://github.com/step-security/secure-repo) - Orchestrate GitHub Actions Security
@@ -2154,6 +2158,7 @@
 
 ## linux 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
@@ -2324,6 +2329,7 @@
 
 ## macos 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [Bbalduzz/nib](https://github.com/Bbalduzz/nib) - build macOS status bar apps in Python.
 - [kiwix/kiwix-apple](https://github.com/kiwix/kiwix-apple) - Kiwix for iOS, iPadOS & macOS
@@ -4437,6 +4443,7 @@
 
 ## terminal 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [04mg/caw](https://github.com/04mg/caw) - Web terminal multiplexer for AI agents.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
@@ -4499,6 +4506,7 @@
 
 ## tui 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
@@ -4856,6 +4864,7 @@
 
 ## windows 
 
+- [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
