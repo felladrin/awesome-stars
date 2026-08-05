@@ -682,6 +682,7 @@
 
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands and secret file access before they execute. Supports Claude Code, Codex, Gemini CLI, Copilot CLI, An
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
@@ -970,6 +971,7 @@
 ## developer-tools 
 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -4471,6 +4473,7 @@
 - [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [04mg/caw](https://github.com/04mg/caw) - Web interface for AI agents.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -4535,6 +4538,7 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [programmersd21/flow](https://github.com/programmersd21/flow) - 🌊 see your network breathe
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
