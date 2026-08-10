@@ -283,6 +283,7 @@
 
 ## agent 
 
+- [orchetron/secondwind](https://github.com/orchetron/secondwind) - Losslessly compress the tool output your AI agent sends the model, prove every value survived, and report the exact tokens removed. Run it as a proxy, a library, or middleware.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
@@ -346,7 +347,7 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [SomeOddCodeGuy/WilmerAI](https://github.com/SomeOddCodeGuy/WilmerAI) - WilmerAI is one of the oldest LLM semantic routers. It uses multi-layer prompt routing and complex workflows to allow you to not only create practical chatbots, but to extend any kind of application t
-- [filipstrand/mflux](https://github.com/filipstrand/mflux) - MLX native implementations of state-of-the-art generative image models
+- [mflux-community/mflux](https://github.com/mflux-community/mflux) - MLX native implementations of state-of-the-art generative image models
 - [lee88688/aider-composer](https://github.com/lee88688/aider-composer) - Aider's VSCode extension, seamlessly integrated into VSCode
 - [trekhleb/homemade-gpt-js](https://github.com/trekhleb/homemade-gpt-js) - A minimal TensorFlow.js re-implementation of Karpathy's minGPT (Generative Pre-trained Transformer). The GPT model itself is &lt;300 lines of code.
 - [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
@@ -3948,6 +3949,7 @@
 
 ## python 
 
+- [orchetron/secondwind](https://github.com/orchetron/secondwind) - Losslessly compress the tool output your AI agent sends the model, prove every value survived, and report the exact tokens removed. Run it as a proxy, a library, or middleware.
 - [Bbalduzz/nib](https://github.com/Bbalduzz/nib) - build macOS status bar apps in Python.
 - [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -4198,6 +4200,7 @@
 
 ## rust 
 
+- [orchetron/secondwind](https://github.com/orchetron/secondwind) - Losslessly compress the tool output your AI agent sends the model, prove every value survived, and report the exact tokens removed. Run it as a proxy, a library, or middleware.
 - [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -4562,6 +4565,7 @@
 
 ## typescript 
 
+- [orchetron/secondwind](https://github.com/orchetron/secondwind) - Losslessly compress the tool output your AI agent sends the model, prove every value survived, and report the exact tokens removed. Run it as a proxy, a library, or middleware.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript
 - [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch) - Your users download a 4GB AI model, the connection drops at 3.8GB, verifyfetch resumes from 3.8GB and verifies every byte. Drop-in integrity verification for Transformers.js, WebLLM, and any large fil
