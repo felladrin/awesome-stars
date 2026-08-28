@@ -310,7 +310,7 @@
 
 ## agents 
 
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [amd/gaia](https://github.com/amd/gaia) - Build AI agents for your PC
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
@@ -328,7 +328,7 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [Finrandojin/alexandria-audiobook](https://github.com/Finrandojin/alexandria-audiobook) - AI-powered multi-voice audiobook generator — LLM script annotation, voice cloning, voice design, LoRA training, per-line style control, and export to MP3, chaptered M4B, or Audacity multi-track. Built
 - [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [amd/gaia](https://github.com/amd/gaia) - Build AI agents for your PC
 - [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) - AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
@@ -576,7 +576,7 @@
 
 ## c-plus-plus 
 
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [eminfedar/widgetci](https://github.com/eminfedar/widgetci) - a Cross-Platform Widget Management App. (Win/Linux/Mac)
@@ -698,7 +698,6 @@
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
-- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
@@ -744,7 +743,7 @@
 
 ## clojure 
 
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 
 ## cloud 
 
@@ -1277,7 +1276,7 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [oguzeroglu/ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - A 3D engine for the Web
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [KilledByAPixel/ZzFX](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound FX System
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [GreatArcStudios/unitypausemenu](https://github.com/GreatArcStudios/unitypausemenu) - This is an open source Unity pause menu created for the game New Horizons, and it's completely free because of how a pause menu is a core component of a game, while the unity asset store was lacking i
@@ -1306,7 +1305,7 @@
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [oguzeroglu/ROYGBIV](https://github.com/oguzeroglu/ROYGBIV) - A 3D engine for the Web
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [lance-gg/spaaace](https://github.com/lance-gg/spaaace) - An online HTML5 multiplayer space shooter built with Lance
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [SiliconStudio/xenko](https://github.com/SiliconStudio/xenko) - Old repo for Xenko Game Engine. Please use https://github.com/xenko3d/xenko instead.
@@ -1334,7 +1333,7 @@
 - [schteppe/p2.js](https://github.com/schteppe/p2.js) - JavaScript 2D physics library
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [lance-gg/spaaace](https://github.com/lance-gg/spaaace) - An online HTML5 multiplayer space shooter built with Lance
 - [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
@@ -1381,7 +1380,6 @@
 
 ## git 
 
-- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [alexiszamanidis/vscode-git-worktrees](https://github.com/alexiszamanidis/vscode-git-worktrees) - A VS Code extension that wraps git worktree operations for simplicity and productivity
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 - [orayemre/Notemod](https://github.com/orayemre/Notemod) - Note-Taking App Free & Open Source
@@ -1622,7 +1620,7 @@
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
@@ -2321,7 +2319,7 @@
 
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
+- [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [pkulchenko/ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio) - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Wind
 
 ## mac 
@@ -2884,7 +2882,6 @@
 - [igorbarshteyn/jlens-gguf](https://github.com/igorbarshteyn/jlens-gguf) - Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp
 - [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom) - 
 - [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-- [fewtarius/CachyLLama](https://github.com/fewtarius/CachyLLama) - LLM inference in C/C++
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [alamenai/terrae](https://github.com/alamenai/terrae) - Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui.
@@ -4500,7 +4497,6 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
-- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [Elius94/console-gui-tools](https://github.com/Elius94/console-gui-tools) - A simple library to draw option menu or other popup inputs and layout on Node.js console.
 - [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
@@ -4566,7 +4562,6 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [EliasOenal/term-cli](https://github.com/EliasOenal/term-cli) - Interactive terminals for AI agents, built for what you can't --yes away. SSH+MFA, GRUB/U-Boot, debconf installers, SOL/serial consoles, fsck, cryptsetup, pdb/gdb, apt, certbot, pwsh and even Vim in t
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
-- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 
