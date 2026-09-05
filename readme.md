@@ -1267,6 +1267,7 @@
 
 ## game-development 
 
+- [feliperyba/sector-chaos](https://github.com/feliperyba/sector-chaos) - Sector Chaos is a real-time, 64-player battle royale for the web — Bomberman's destructible grid arenas meets skill-based melee combat.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [rameshvarun/netplayjs](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required. Powered by rollback netcode + WebRTC.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
@@ -1319,6 +1320,7 @@
 
 ## gamedev 
 
+- [feliperyba/sector-chaos](https://github.com/feliperyba/sector-chaos) - Sector Chaos is a real-time, 64-player battle royale for the web — Bomberman's destructible grid arenas meets skill-based melee combat.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [rameshvarun/netplayjs](https://github.com/rameshvarun/netplayjs) - Make P2P multiplayer browser games, no server hosting or synchronization code required. Powered by rollback netcode + WebRTC.
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
@@ -1916,7 +1918,7 @@
 - [radzionc/breakout-game](https://github.com/radzionc/breakout-game) - Breakout Game with React and SVG
 - [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) - Get and set dot-notated properties within an object.
 - [rikschennink/fitty](https://github.com/rikschennink/fitty) - ✨ Makes text fit perfectly
-- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+- [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -3801,6 +3803,7 @@
 
 ## phaser 
 
+- [feliperyba/sector-chaos](https://github.com/feliperyba/sector-chaos) - Sector Chaos is a real-time, 64-player battle royale for the web — Bomberman's destructible grid arenas meets skill-based melee combat.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [Wil2129/Battle-arena](https://github.com/Wil2129/Battle-arena) - A battle royale game for the real ones built with Phaser 3 and Colyseus
 - [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
