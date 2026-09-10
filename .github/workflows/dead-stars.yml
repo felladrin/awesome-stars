@@ -1,0 +1,52 @@
+name: Report Dead Stars
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 3 * * 1
+jobs:
+  dead-stars:
+    name: Report Dead Stars
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.14"
+      - name: Classify starred repositories
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/dead_stars.py readme.md --max-rows=150 > dead.txt 2> report.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dead-stars
+          path: |
+            dead.txt
+            report.txt
+            report.md
+            dead_stars.json
+      - name: Update the tracking issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TITLE: Dead stars
+        run: |
+          {
+            tail -1 report.txt
+            echo
+            echo "Click a repository to unstar it by hand, or unstar every dead one at once:"
+            echo
+            echo '```sh'
+            echo 'gh run download -n dead-stars -D . && xargs -n1 -I{} gh api -X DELETE /user/starred/{} < dead.txt'
+            echo '```'
+            echo
+            cat report.md
+          } > body.md
+          number=$(gh issue list --state open --search "$TITLE in:title" --json number,title \
+            --jq "map(select(.title == \"$TITLE\")) | first | .number")
+          if [ -n "$number" ] && [ "$number" != "null" ]; then
+            gh issue edit "$number" --body-file body.md
+          else
+            gh issue create --title "$TITLE" --body-file body.md
+          fi
