@@ -1934,6 +1934,7 @@
 
 ## llm 
 
+- [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) - The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
 - [aminueza/Keyfence](https://github.com/aminueza/Keyfence) - Local proxy that keeps your API keys and secrets out of LLM requests. Works with Claude Code, Cursor, Codex and any tool.
 - [mudler/vllm.cpp](https://github.com/mudler/vllm.cpp) - a community oriented 1:1, vLLM-alike (Continuous batching, paged KV) engine in C++ with additional features (GGUF, RadixAttention, Cache-aware scheduling, ...)
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
@@ -2720,7 +2721,7 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+- [apple-aiml-research/ml-stable-diffusion](https://github.com/apple-aiml-research/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
