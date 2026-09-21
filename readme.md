@@ -2367,7 +2367,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [alamenai/terrae](https://github.com/alamenai/terrae) - Composable and animated components that replace imperative layers with simple props. The perfect companion for shadcn/ui.
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
-- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
+- [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [ApplauseLab/opencode-plugin-simple-memory](https://github.com/ApplauseLab/opencode-plugin-simple-memory) - A persistent memory plugin for OpenCode that enables the AI assistant to remember context across sessions
 - [eugr/llama-benchy](https://github.com/eugr/llama-benchy) - llama-benchy - llama-bench style benchmarking tool for all backends
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
