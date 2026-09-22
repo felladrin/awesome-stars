@@ -30,7 +30,6 @@
 - [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
-- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
@@ -241,7 +240,6 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
-- [web-assembly](#web-assembly)
 - [web-components](#web-components)
 - [web-development](#web-development)
 - [web3](#web3)
@@ -257,7 +255,6 @@
 
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [tentone/nunuStudio](https://github.com/tentone/nunuStudio) - Web powered cross-platform 3D, WebXR game engine.
-- [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -324,7 +321,6 @@
 - [flatsiedatsie/papeg_ai](https://github.com/flatsiedatsie/papeg_ai) - Code for Papeg.ai
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.
-- [rooben-me/tone-changer-open](https://github.com/rooben-me/tone-changer-open) - This project is a reverse-engineered version of Figma's tone changer. It uses Groq's Llama-3-8b for high-speed inference and to adjust the tone of input text based on user-selected tones and weights.
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -335,11 +331,9 @@
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
-- [rahuldshetty/llm.js](https://github.com/rahuldshetty/llm.js) - Run Large-Language Models (LLMs) 🚀 directly in your browser!
 - [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [thekevinscott/UpscalerJS](https://github.com/thekevinscott/UpscalerJS) - Enhance Images with Javascript and AI. Increase resolution, retouch, denoise, and more. Open Source, Browser & Node Compatible, MIT License.
@@ -441,14 +435,13 @@
 ## backend 
 
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 
 ## bash 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
@@ -458,7 +451,6 @@
 
 ## bootstrap 
 
-- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 
 ## c 
@@ -493,10 +485,7 @@
 
 - [h2oai/h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://docs.h2o.ai/h2o-llmstudio/
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
-- [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 
 ## chatgpt 
 
@@ -510,18 +499,10 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [opening-up-chatgpt/opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Tracking instruction-tuned LLM openness. Paper: Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-T
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
-- [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
-- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-- [ai-genie/chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
-
-## chatgpt-api 
-
-- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 
 ## chrome 
 
@@ -535,7 +516,6 @@
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
@@ -554,7 +534,6 @@
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
-- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 
 ## claude-code 
 
@@ -579,7 +558,6 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - Repair malformed JSON from LLMs, APIs, logs, and user input in Python.
-- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [rupeshs/fastsdcpu](https://github.com/rupeshs/fastsdcpu) - Fast stable diffusion on CPU and AI PC
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -635,13 +613,10 @@
 ## command-line 
 
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [Elius94/console-gui-tools](https://github.com/Elius94/console-gui-tools) - A simple library to draw option menu or other popup inputs and layout on Node.js console.
 - [GrinZero/dpdm-fast](https://github.com/GrinZero/dpdm-fast) - Detect circular dependencies in your TypeScript projects with `Rust`.
-- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
-- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -704,27 +679,21 @@
 - [ibra-kdbra/Zaya](https://github.com/ibra-kdbra/Zaya) - A PDF flipbook that can be useful for viewing a PDF file as a book with a realistic experience.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data
-- [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
-- [couds/react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
-- [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [jsxstyle/jsxstyle](https://github.com/jsxstyle/jsxstyle) - Inline style system for JSX
-- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -770,14 +739,11 @@
 
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
-- [thunlp/UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [apache/tvm](https://github.com/apache/tvm) - Open Machine Learning Compiler Framework
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -840,7 +806,6 @@
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [aminueza/terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for MinIO and S3-compatible storage (R2, B2, Hetzner, Spaces) — buckets, IAM, replication, lifecycle, encryption & more.
@@ -867,7 +832,7 @@
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [kevinthedang/discord-ollama](https://github.com/kevinthedang/discord-ollama) - Discord Bot that utilizes Ollama to interact with any Large Language Models to talk with users and allow them to host/create their own models.
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
@@ -956,7 +921,6 @@
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
 - [ServUO/ServUO](https://github.com/ServUO/ServUO) - An Ultima Online server emulator written in C# .NET
 - [modernuo/ModernUO](https://github.com/modernuo/ModernUO) - Highly Performant & Scalable Ultima Online Server Emulator
-- [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 
 ## es6 
 
@@ -1005,7 +969,6 @@
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 - [itgalaxy/webfont](https://github.com/itgalaxy/webfont) - Awesome generator of webfont
@@ -1032,7 +995,6 @@
 
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
-- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
@@ -1045,11 +1007,9 @@
 - [RSamaium/RPG-JS](https://github.com/RSamaium/RPG-JS) - Framework to create an RPG or MMORPG (with the same code) in the browser with Typescript
 - [zsombro/youngblood](https://github.com/zsombro/youngblood) - A simple game development framework for web browsers.
 - [atomicptr/dauntless-builder-reforged](https://github.com/atomicptr/dauntless-builder-reforged) - [Reforged Version] Create and share Dauntless builds with your friends!
-- [jackrugile/radius-raid-js13k](https://github.com/jackrugile/radius-raid-js13k) - Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effect
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 - [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) - The source code for 2048
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 
@@ -1069,9 +1029,7 @@
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [KilledByAPixel/ZzFX](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound FX System
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
-- [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
-- [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 - [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1110,7 +1068,6 @@
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
 - [defold/defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, console, mobile and web games.
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
-- [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
@@ -1139,7 +1096,6 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [neph1/LlamaTale](https://github.com/neph1/LlamaTale) - Giving the power of LLM's to a MUD lib.
-- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 
 ## gis 
 
@@ -1267,7 +1223,6 @@
 ## gui 
 
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
-- [Elius94/console-gui-tools](https://github.com/Elius94/console-gui-tools) - A simple library to draw option menu or other popup inputs and layout on Node.js console.
 - [georgealways/lil-gui](https://github.com/georgealways/lil-gui) - Makes a floating panel for controllers on the web. Works as a drop-in replacement for dat.gui in most projects.
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -1333,11 +1288,9 @@
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [BrasilAPI/cep-promise](https://github.com/BrasilAPI/cep-promise) - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-- [premieroctet/openchakra](https://github.com/premieroctet/openchakra) - ⚡️ Full-featured visual editor and code generator for React using Chakra UI
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [liady/webpack-node-externals](https://github.com/liady/webpack-node-externals) - Easily exclude node modules in Webpack
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
@@ -1423,10 +1376,8 @@
 - [derhuerst/html-vault](https://github.com/derhuerst/html-vault) - Store a secret securely in a standalone HTML file.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
-- [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [leemunroe/responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
@@ -1437,7 +1388,6 @@
 - [MassiveHeights/Black](https://github.com/MassiveHeights/Black) - World's fastest HTML5 2D game engine   🛸
 - [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
-- [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
 - [KilledByAPixel/ZzFX](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound FX System
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
@@ -1471,7 +1421,6 @@
 - [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art.
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 
 ## ios 
 
@@ -1526,7 +1475,6 @@
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.
 - [rhashimoto/wa-sqlite](https://github.com/rhashimoto/wa-sqlite) - WebAssembly SQLite with support for browser storage extensions
-- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
@@ -1536,7 +1484,6 @@
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
-- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [joshmarinacci/node-pureimage](https://github.com/joshmarinacci/node-pureimage) - Pure JS implementation of the HTML Canvas 2D drawing API
 - [rovelstars/reejs](https://github.com/rovelstars/reejs) - Make Sites Faster, without the need of building anything!
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
@@ -1581,11 +1528,9 @@
 - [godotjs/javascript](https://github.com/godotjs/javascript) - Javascript binding for godotengine
 - [electron/fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [BrasilAPI/cep-promise](https://github.com/BrasilAPI/cep-promise) - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [nicolas-van/sonant-x](https://github.com/nicolas-van/sonant-x) - Small JavaScript synthesizer library
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [jackrugile/radius-raid-js13k](https://github.com/jackrugile/radius-raid-js13k) - Radius Raid is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effect
 - [AFASSoftware/maquette](https://github.com/AFASSoftware/maquette) - Pure and simple virtual DOM library
 - [robinvdvleuten/shvl](https://github.com/robinvdvleuten/shvl) - Get and set dot-notated properties within an object.
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.
@@ -1601,7 +1546,6 @@
 - [mesqueeb/is-what](https://github.com/mesqueeb/is-what) - JS type check (TypeScript supported) functions like `isPlainObject() isArray()` etc. A simple & small integration.
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
-- [jsfehler/phaser-ui-tools](https://github.com/jsfehler/phaser-ui-tools) - UI Kit for the Phaser game engine. Rows, columns, viewports, scrollbars, stuff like that.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [jeeanribeiro/simple-remote-pair](https://github.com/jeeanribeiro/simple-remote-pair) - Simple multiplayer remote pairing web app
 - [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
@@ -1620,16 +1564,13 @@
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
-- [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [straker/kontra](https://github.com/straker/kontra) - A lightweight JavaScript gaming micro-library, optimized for js13kGames.
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 - [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [design-first/system-designer](https://github.com/design-first/system-designer) - A low-code development platform for creating systems 🇺🇦#standwithUkraine
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
-- [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ Classic, reliable, trusted test framework for Node.js and the browser
@@ -1663,7 +1604,6 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
-- [willbamford/tinycrop](https://github.com/willbamford/tinycrop) - Pure JavaScript image crop library
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -1677,7 +1617,6 @@
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [tweenjs/tween.js](https://github.com/tweenjs/tween.js) - JavaScript/TypeScript animation engine
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1712,7 +1651,6 @@
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight JavaScript data grid component for creating interactive data grids with advanced spreadsheet controls.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [jonrandy/metho](https://github.com/jonrandy/metho) - A new method for methods
-- [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
@@ -1746,7 +1684,6 @@
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [ctk-hq/ctk](https://github.com/ctk-hq/ctk) - Visual composer for container based workloads
 - [SocketCluster/socketcluster](https://github.com/SocketCluster/socketcluster) - Highly scalable realtime pub/sub and RPC framework
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -1760,7 +1697,6 @@
 
 ## languages 
 
-- [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 
 ## laravel 
@@ -1781,7 +1717,6 @@
 ## library 
 
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [nenjack/check2d](https://github.com/nenjack/check2d) - Points, Lines, Boxes, Polygons (also hollow), Ellipses, Circles. RayCasting, offsets, rotation, scaling, bounding box padding, flags for static and ghost/trigger bodies
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
@@ -1795,7 +1730,6 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
@@ -1847,19 +1781,15 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [dezoito/ollama-grid-search](https://github.com/dezoito/ollama-grid-search) - A multi-platform desktop application to evaluate and compare LLM models, written in Rust and React.
-- [rooben-me/tone-changer-open](https://github.com/rooben-me/tone-changer-open) - This project is a reverse-engineered version of Figma's tone changer. It uses Groq's Llama-3-8b for high-speed inference and to adjust the tone of input text based on user-selected tones and weights.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) - High-speed Large Language Model Serving for Local Deployment
 - [opening-up-chatgpt/opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Tracking instruction-tuned LLM openness. Paper: Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-T
 - [ridgerchu/matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - Implementation for MatMul-free LM.
-- [Praful932/llmsearch](https://github.com/Praful932/llmsearch) - Find better generation parameters for your LLM
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-- [arcee-ai/PruneMe](https://github.com/arcee-ai/PruneMe) - Automated Identification of Redundant Layer Blocks for Pruning in Large Language Models
 - [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) - Fast, flexible LLM inference
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [thunlp/InfLLM](https://github.com/thunlp/InfLLM) - The code of our paper "InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory"
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [ngxson/wllama](https://github.com/ngxson/wllama) - WebAssembly binding for llama.cpp - Enabling on-browser LLM inference
 - [BatsResearch/bonito](https://github.com/BatsResearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
@@ -1868,22 +1798,17 @@
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line 
-- [efeslab/fiddler](https://github.com/efeslab/fiddler) - [ICLR'25] Fast Inference of MoE Models with CPU-GPU Orchestration
-- [Contextualist/lone-arena](https://github.com/Contextualist/lone-arena) - Self-hosted LLM chatbot arena, with yourself as the only judge
 - [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) - Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
 - [lmg-anon/mikupad](https://github.com/lmg-anon/mikupad) - LLM Frontend in a single html file
 - [neph1/LlamaTale](https://github.com/neph1/LlamaTale) - Giving the power of LLM's to a MUD lib.
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
-- [princeton-nlp/LLM-Shearing](https://github.com/princeton-nlp/LLM-Shearing) - [ICLR 2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
 - [uukuguy/speechless](https://github.com/uukuguy/speechless) - LLM based agents with proactive interactions, long-term memory, external tool integration, and local deployment capabilities.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
-- [rahuldshetty/llm.js](https://github.com/rahuldshetty/llm.js) - Run Large-Language Models (LLMs) 🚀 directly in your browser!
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
-- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -1950,7 +1875,6 @@
 - [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) - llama and other  large language models on iOS and MacOS offline using GGML library.
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
 - [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -2083,14 +2007,12 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 
 ## natural-language-processing 
 
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
-- [eduardoleao052/Transformer-from-scratch](https://github.com/eduardoleao052/Transformer-from-scratch) - Educational Transformer from scratch (no autograd), with forward and backprop.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 ## nestjs 
@@ -2109,7 +2031,6 @@
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [Azzedde/brainstormers](https://github.com/Azzedde/brainstormers) - This repository hosts a suite of specialized agents designed to power your brainstorming sessions. Each agent brings a unique perspective and tailored approach to generate creative, targeted solutions
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
-- [rooben-me/tone-changer-open](https://github.com/rooben-me/tone-changer-open) - This project is a reverse-engineered version of Figma's tone changer. It uses Groq's Llama-3-8b for high-speed inference and to adjust the tone of input text based on user-selected tones and weights.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
@@ -2120,10 +2041,8 @@
 
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-- [Praful932/llmsearch](https://github.com/Praful932/llmsearch) - Find better generation parameters for your LLM
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-- [princeton-nlp/LLM-Shearing](https://github.com/princeton-nlp/LLM-Shearing) - [ICLR 2024] Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 
 ## no-code 
@@ -2137,7 +2056,6 @@
 
 ## node 
 
-- [Elius94/console-gui-tools](https://github.com/Elius94/console-gui-tools) - A simple library to draw option menu or other popup inputs and layout on Node.js console.
 - [omnidan/node-emoji](https://github.com/omnidan/node-emoji) - 💖 simple emoji support for node.js projects
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text) - Advanced html to text converter
 - [tamino-martinius/node-ts-dedent](https://github.com/tamino-martinius/node-ts-dedent) - TypeScript package which smartly trims and strips indentation from multi-line strings
@@ -2203,7 +2121,6 @@
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-- [BrasilAPI/cep-promise](https://github.com/BrasilAPI/cep-promise) - Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -2243,7 +2160,6 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [lance-gg/lance](https://github.com/lance-gg/lance) - Multiplayer game server based on Node.JS
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -2258,7 +2174,6 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
-- [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
@@ -2332,9 +2247,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [argilla-io/distilabel](https://github.com/argilla-io/distilabel) - Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
-- [yusufhilmi/client-vector-search](https://github.com/yusufhilmi/client-vector-search) - A client side vector search library that can embed, store, search, and cache vectors. Works on the browser and node. It outperforms OpenAI's text-embedding-ada-002 and is way faster than Pinecone and 
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
-- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 
 ## opengl 
 
@@ -2344,12 +2257,11 @@
 ## operating-system 
 
 - [ehmicky/nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions
-- [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 
 ## others 
 
-- [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - Your AI is trapped in apps. We set it free.
+- [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - Your AI is trapped in apps. We set it free — Self-hostable AI stack for multi-user, multi-agent workflows on Matrix.
 - [lemonade-sdk/thenoise](https://github.com/lemonade-sdk/thenoise) - A fast diffusion model engine for image generation and editing.
 - [LucaBTE/NETracer](https://github.com/LucaBTE/NETracer) - Network diagnostics from the terminal. Developed with Rust + Ratatui
 - [matthart1983/diskwatch](https://github.com/matthart1983/diskwatch) - Single-host, read-only disk diagnostics TUI. Sibling to netwatch and syswatch.
@@ -2377,7 +2289,7 @@
 - [lemonade-sdk/llamacpp-rocm](https://github.com/lemonade-sdk/llamacpp-rocm) - Fresh builds of llama.cpp with AMD ROCm™ 7 acceleration
 - [kyuz0/amd-strix-halo-toolboxes](https://github.com/kyuz0/amd-strix-halo-toolboxes) - 
 - [pwilkin/mcp-searxng-public](https://github.com/pwilkin/mcp-searxng-public) - An MCP server that queries public SearXNG instances, parsing HTML contents into a JSON result
-- [intel/auto-round](https://github.com/intel/auto-round) - A SOTA quantization toolkit for high-accuracy low-bit LLM inference|简洁且高效的量化工具包
+- [intel/auto-round](https://github.com/intel/auto-round) - A simple and effective quantization toolkit for high-accuracy low-bit LLM inference|简洁且高效的量化工具包
 - [eduagarcia/lm-evaluation-harness-pt](https://github.com/eduagarcia/lm-evaluation-harness-pt) - The evalution suite for the 🚀 Open Portuguese LLM Leaderboard
 - [CerebrasResearch/reap](https://github.com/CerebrasResearch/reap) - REAP: Router-weighted Expert Activation Pruning for SMoE compression
 - [Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches](https://github.com/Deveraux-Parker/Qwen3-Coder-30B-A3B-Monkey-Wrenches) - Efforts toward giving Qwen 3 Coder 30B A3B proper agentic tool calling capabilities at or near 100% reliability.
@@ -2392,7 +2304,6 @@
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [google/dawn](https://github.com/google/dawn) - Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
-- [EQ-bench/EQ-Bench](https://github.com/EQ-bench/EQ-Bench) - A benchmark for emotional intelligence in large language models
 - [sohzm/systemAudioDump](https://github.com/sohzm/systemAudioDump) - macos cli that captures system audio and stdout's it as raw pcm
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy.
@@ -2435,7 +2346,6 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
-- [matt-c1/llama-3-quant-comparison](https://github.com/matt-c1/llama-3-quant-comparison) - Comparison of the output quality of quantization methods, using Llama 3, transformers, GGUF, EXL2.
 - [maryasov/ollama-models-instruct-for-cline](https://github.com/maryasov/ollama-models-instruct-for-cline) - 
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [mat-1/metasearch2](https://github.com/mat-1/metasearch2) - a cute metasearch engine
@@ -2453,27 +2363,20 @@
 - [serializer-io/serializer](https://github.com/serializer-io/serializer) - A linearizing social tech news reader
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code designer
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [oramasearch/chunker](https://github.com/oramasearch/chunker) - Split large texts into chunks with a maximum number of tokens. Split by fixed size or by sentence.
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [stephenscaff/react-stagger-text](https://github.com/stephenscaff/react-stagger-text) - React StaggerText is a TS component for creating staggered text reveals by word or letter, as text enters viewport.
 - [LostRuins/datasetexplorer](https://github.com/LostRuins/datasetexplorer) - Easily view and modify JSON datasets for large language models
 - [arcee-ai/DistillKit](https://github.com/arcee-ai/DistillKit) - An Open Source Toolkit For LLM Distillation
 - [RichardKelley/hflm](https://github.com/RichardKelley/hflm) - A simple library for working with Hugging Face models.
-- [l33tkr3w/LlamaCards](https://github.com/l33tkr3w/LlamaCards) - LlamaCards is a web application that provides a dynamic interface for interacting with LLM models in real-time. This app allows users to create and connect cards, each representing different functiona
 - [romansky/dom-to-semantic-markdown](https://github.com/romansky/dom-to-semantic-markdown) - DOM to Semantic-Markdown for use with LLMs
 - [microsoft/Samba](https://github.com/microsoft/Samba) - [ICLR 2025] Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) - Pretrained models for TensorFlow.js
-- [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [Azure-Samples/ai-rag-chat-evaluator](https://github.com/Azure-Samples/ai-rag-chat-evaluator) - Tools for evaluation of RAG Chat Apps using Azure AI Evaluate SDK and OpenAI
-- [pinokiocomputer/llamanet](https://github.com/pinokiocomputer/llamanet) - Replace OpenAI with Llama.cpp Automagically.
-- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [cryscan/web-rwkv-realweb](https://github.com/cryscan/web-rwkv-realweb) - 
 - [sindresorhus/yocto-queue](https://github.com/sindresorhus/yocto-queue) - Tiny queue data structure
 - [sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache
-- [andrico1234/the-dilemmas-youll-face](https://github.com/andrico1234/the-dilemmas-youll-face) - The Dilemmas You'll Face When Creating Your First Component Library
 - [MassimilianoPasquini97/raycast_ollama](https://github.com/MassimilianoPasquini97/raycast_ollama) - Raycast extention for Ollama
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
-- [1602/json-viewer](https://github.com/1602/json-viewer) - 
 - [ipv6rslimited/cloudseeder](https://github.com/ipv6rslimited/cloudseeder) - One-click install internet appliances that operate on your terms. Transform your home computer into a sovereign and secure cloud.
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB
 - [curvedinf/dir-assistant](https://github.com/curvedinf/dir-assistant) - Chat with your current directory's files using a local or API LLM.
@@ -2485,16 +2388,12 @@
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [michaeldelorenzo/keyword-extractor](https://github.com/michaeldelorenzo/keyword-extractor) - NPM package for creating a keyword array from a string and excluding stop words.
-- [xfactlab/orpo](https://github.com/xfactlab/orpo) - Official repository for ORPO
 - [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) - 
 - [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf and PV-Tuning: Beyond Straight-Through Estimation for Extrem
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-- [AndrewVeee/nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 - [adamjgrant/Tiny-Predictive-Text](https://github.com/adamjgrant/Tiny-Predictive-Text) - A demonstration of predictive text without an LLM, using permy.link
 - [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa) - Developer APIs to Accelerate LLM Projects
-- [EGjoni/DRUGS](https://github.com/EGjoni/DRUGS) - Stop messing around with finicky sampling parameters and just use DRµGS!
-- [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
 - [valine/NeuralFlow](https://github.com/valine/NeuralFlow) - Visualize the intermediate output of Mistral 7B
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
@@ -2508,14 +2407,9 @@
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
 - [wizzard0/t348-loader](https://github.com/wizzard0/t348-loader) - isomorphic (browser, node) TypeScript / Javascript loader
 - [webui-dev/deno-webui](https://github.com/webui-dev/deno-webui) - Use any web browser as GUI, with Deno in the backend and HTML5 in the frontend.
-- [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
-- [OpenBMB/VisCPM](https://github.com/OpenBMB/VisCPM) - [ICLR'24 spotlight] Chinese and English Multimodal Large Model Series (Chat and Paint) | 基于CPM基础模型的中英双语多模态大模型系列
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.
-- [Iyashinouta/sd-model-downloader](https://github.com/Iyashinouta/sd-model-downloader) - SD Web UI Extension to Download Model from URL
-- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-- [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
@@ -2524,17 +2418,12 @@
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [zksecurity/wasmati](https://github.com/zksecurity/wasmati) - Write low-level WebAssembly, from JavaScript
-- [Coyote-A/ultimate-upscale-for-automatic1111](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111) - 
-- [arenasys/stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit) - A Multipurpose toolkit for managing, editing and creating models.
-- [AvetisDN/tokyo-dark-theme](https://github.com/AvetisDN/tokyo-dark-theme) - 
 - [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr) - Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
 - [Phu1237/vscode-vs-browser](https://github.com/Phu1237/vscode-vs-browser) - Built-in browser for Visual Studio Code
 - [gregsdennis/dependencies-action](https://github.com/gregsdennis/dependencies-action) - A GitHub Action that enforces PR dependencies
 - [nedbat/dinghy](https://github.com/nedbat/dinghy) - A GitHub activity digest tool
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [ryu1kn/vscode-partial-diff](https://github.com/ryu1kn/vscode-partial-diff) - Visual Studio Code Extension. Take a diff of 2 parts of text(s)
 - [liuliu/swift-diffusion](https://github.com/liuliu/swift-diffusion) - 
-- [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Swift app demonstrating Core ML Stable Diffusion
 - [tam315/react-compare-image](https://github.com/tam315/react-compare-image) - React component to compare two images with a slider
 - [kylewetton/image-compare-viewer](https://github.com/kylewetton/image-compare-viewer) - Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies.
 - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
@@ -2546,15 +2435,9 @@
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
 - [unjs/jiti](https://github.com/unjs/jiti) - Runtime TypeScript and ESM support for Node.js
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - [Service is DOWN now] A badge generator service to count visitors of your markdown file.
 - [apple-aiml-research/ml-stable-diffusion](https://github.com/apple-aiml-research/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
-- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-- [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
-- [futurGH/ts-to-jsdoc](https://github.com/futurGH/ts-to-jsdoc) - Transpile TypeScript code to fully compatible JavaScript + JSDoc comments.
 - [replicate/scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
 - [wanasit/chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - [sveltejs/devalue](https://github.com/sveltejs/devalue) - Gets the job done when JSON.stringify can't
@@ -2566,15 +2449,10 @@
 - [adelost/mnemonic-id](https://github.com/adelost/mnemonic-id) - Library to generate easy to remember, and sometimes entertaining, human readable ids.
 - [oculus42/short-uuid](https://github.com/oculus42/short-uuid) - Translate standard UUIDs into shorter formats and back.
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript
-- [vjeux/mp4-h264-re-encode](https://github.com/vjeux/mp4-h264-re-encode) - Pure re-encoding of an mp4-h264 video file with the web APIs as well as in-depth description of how it works.
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
 - [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
-- [pmndrs/p2-es](https://github.com/pmndrs/p2-es) - JavaScript 2D physics library
-- [dgraham/Ka-Block](https://github.com/dgraham/Ka-Block) - A Safari extension that blocks an artisanal selection of advertising domains.
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
-- [mattreid1/baojs](https://github.com/mattreid1/baojs) - ⚡️ A fast, minimalist web framework for the Bun JavaScript runtime
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -2595,7 +2473,6 @@
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
-- [polyfillpolyfill/polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 - [evgeniy-polyakov/pixi-inspector](https://github.com/evgeniy-polyakov/pixi-inspector) - Browsing PixiJS display tree in the context menu and refer objects in the debugger.
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue) - JavaScript library that translates Cron expressions into human readable descriptions
 - [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img) - 
@@ -2619,9 +2496,7 @@
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [johnnesky/beepbox](https://github.com/johnnesky/beepbox) - An online tool for sketching and sharing instrumental melodies.
 - [google/draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
-- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [richardtallent/vite-plugin-singlefile](https://github.com/richardtallent/vite-plugin-singlefile) - Vite plugin for inlining JavaScript and CSS resources
-- [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
 - [edbentley/replay](https://github.com/edbentley/replay) - A cross-platform JS game engine inspired by React
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 - [kevglass/gute](https://github.com/kevglass/gute) - 
@@ -2651,10 +2526,7 @@
 - [sindresorhus/p-debounce](https://github.com/sindresorhus/p-debounce) - Debounce promise-returning & async functions
 - [sindresorhus/p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
 - [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
-- [mafintosh/npm-auto](https://github.com/mafintosh/npm-auto) - Auto installs npm dependencies from the script you want to run and runs the script
-- [mafintosh/fast-fifo](https://github.com/mafintosh/fast-fifo) - A fast fifo implementation similar to the one powering nextTick in Node.js core
 - [mafintosh/pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes
-- [mafintosh/duplexify](https://github.com/mafintosh/duplexify) - Turn a writable and readable stream into a streams2 duplex stream with support for async initialization and streams1/streams2 input
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 - [muffinista/detect-fullscreen](https://github.com/muffinista/detect-fullscreen) - A node module to detect if the local computer has a fullscreen window open
 - [vinsonchuong/make-cert](https://github.com/vinsonchuong/make-cert) - Quickly generate a self-signed cert to start an HTTPS server
@@ -2666,7 +2538,6 @@
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [vimtor/action-zip](https://github.com/vimtor/action-zip) - 🗄️ Action for zipping files easily
 - [pazams/go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) - A comparison between Go and Javascript
-- [klesun/ts-browser](https://github.com/klesun/ts-browser) - Run typescript files with imports on the fly. Like ts-node, but for browser
 - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js
 - [openhoangnc/taskbar-stats](https://github.com/openhoangnc/taskbar-stats) - Display live system stats on Windows's taskbar
 - [fhanau/Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) - Fast and effective C++ file optimizer
@@ -2674,7 +2545,6 @@
 - [VoxelBoy/MobileUO](https://github.com/VoxelBoy/MobileUO) - MobileUO - the first mobile client for Ultima Online!
 - [kripken/ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 - [webextensions/console-panel](https://github.com/webextensions/console-panel) - A console panel within webpage to help in the following use-cases: Get notification on console messages ; Console logging on mobile and tablet devices ; Console logging on Microsoft Edge / Internet Ex
-- [DevL0rd/SkyNX](https://github.com/DevL0rd/SkyNX) - Stream your PC games to your Nintendo Switch without Android!
 - [sindresorhus/random-int](https://github.com/sindresorhus/random-int) - Generate a random integer
 - [sindresorhus/pupa](https://github.com/sindresorhus/pupa) - Simple micro templating
 - [crossuo/crossuo](https://github.com/crossuo/crossuo) - CrossUO - Open Source Ultima Online Client
@@ -2699,16 +2569,11 @@
 - [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 - [ndp/git-cheatsheet](https://github.com/ndp/git-cheatsheet) - Interactive cheatsheet, visualization of git.
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
-- [mridgers/clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe
-- [HaxeFoundation/npm-haxe](https://github.com/HaxeFoundation/npm-haxe) - Install Haxe using Node Package Manager aka npm
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
 - [fdorg/flashdevelop](https://github.com/fdorg/flashdevelop) - FlashDevelop is a free and open source code editor.
-- [jrebocho/vscode-random](https://github.com/jrebocho/vscode-random) - VSCode Random Extension Repository
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
-- [wayou/vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
 - [SchoofsKelvin/vscode-sshfs](https://github.com/SchoofsKelvin/vscode-sshfs) - Extension for Visual Studio Code: File system provider using SSH
-- [qjebbs/vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
 - [ChristianKohler/PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames
 - [artrz/vsx-gitstash](https://github.com/artrz/vsx-gitstash) - Integrate stashes management into your editor. Browse entries, review and extract changes, and more.
 - [mkxml/vscode-filesize](https://github.com/mkxml/vscode-filesize) - filesize package for Visual Studio Code
@@ -2717,7 +2582,6 @@
 - [streetsidesoftware/vscode-cspell-dict-extensions](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions) - VS Code Spelling Dictionary Extensions
 - [streetsidesoftware/vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) - A simple source code spell checker for code
 - [simonlast/node-persist](https://github.com/simonlast/node-persist) - Super-easy persistent data structures in Node.js
-- [ffbinaries/ffbinaries-node](https://github.com/ffbinaries/ffbinaries-node) - Download binaries for ffmpeg, ffprobe, ffserver and ffplay (cross-platform)
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [npm/ini](https://github.com/npm/ini) - An ini parser/serializer in JavaScript
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
@@ -2729,7 +2593,6 @@
 - [playgameservices/play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity) - Google Play Games plugin for Unity
 - [Unity-Technologies/AssetBundles-Browser](https://github.com/Unity-Technologies/AssetBundles-Browser) - Editor tool for viewing and debugging asset bundle contents before and after builds
 - [valor-software/ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload
-- [xriley/Developer-Theme](https://github.com/xriley/Developer-Theme) - FREE Bootstrap 5 Portfolio Theme for Developers -
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
@@ -2744,7 +2607,6 @@
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [louischatriot/nedb](https://github.com/louischatriot/nedb) - The JavaScript Database, for Node.js, nw.js, electron and the browser
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
-- [rse/es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [michaelfaith/package-json-validator](https://github.com/michaelfaith/package-json-validator) - Tools to validate package.json files.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
@@ -2763,8 +2625,6 @@
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [vitalets/x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
-- [karma-runner/karma-jasmine](https://github.com/karma-runner/karma-jasmine) - A Karma plugin - adapter for Jasmine testing framework.
-- [karma-runner/karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [git-up/GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived.
@@ -2772,15 +2632,12 @@
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [guillaumechereau/goxel](https://github.com/guillaumechereau/goxel) - Goxel: Free and Open Source 3D Voxel Editor
-- [ndee85/coa_tools](https://github.com/ndee85/coa_tools) - COA Tools is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.
 - [tiffz/startup](https://github.com/tiffz/startup) - A random startup website generator.
 - [outroll/vesta](https://github.com/outroll/vesta) - VESTA Control Panel
-- [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 - [RaspberryPiFoundation/blockly](https://github.com/RaspberryPiFoundation/blockly) - The web-based visual programming editor.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [json-api/json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- [jackrugile/placeholdem](https://github.com/jackrugile/placeholdem) - Placeholder Caret Animation
 - [remy/mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 - [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - Simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
@@ -2837,8 +2694,6 @@
 
 - [feliperyba/sector-chaos](https://github.com/feliperyba/sector-chaos) - Sector Chaos is a real-time, 64-player battle royale for the web — Bomberman's destructible grid arenas meets skill-based melee combat.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
-- [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
-- [jsfehler/phaser-ui-tools](https://github.com/jsfehler/phaser-ui-tools) - UI Kit for the Phaser game engine. Rows, columns, viewports, scrollbars, stuff like that.
 
 ## php 
 
@@ -2850,7 +2705,6 @@
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [froxlor/froxlor](https://github.com/froxlor/froxlor) - The server administration software for your needs - The official Froxlor development Git repository
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
-- [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 - [hjson/hjson-php](https://github.com/hjson/hjson-php) - Hjson for PHP
 - [gumlet/php-image-resize](https://github.com/gumlet/php-image-resize) - PHP library to resize, scale and crop images. Cloud solution available at: www.gumlet.com
 - [Stichoza/google-translate-php](https://github.com/Stichoza/google-translate-php) - 🔤 Free Google Translate API PHP Package. Translates totally free of charge.
@@ -2867,7 +2721,6 @@
 ## physics 
 
 - [IceCreamYou/MainLoop.js](https://github.com/IceCreamYou/MainLoop.js) - Provides a well-constructed main loop useful for JavaScript games and other animated or time-dependent applications.
-- [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 
 ## pixel-art 
 
@@ -2875,7 +2728,6 @@
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [giventofly/pixelit](https://github.com/giventofly/pixelit) - Create pixel art from an image
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
-- [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
 - [lunapaint/vscode-luna-paint](https://github.com/lunapaint/vscode-luna-paint) - A raster image editor extension for VS Code
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 
@@ -2907,7 +2759,6 @@
 
 ## powershell 
 
-- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 
@@ -3004,7 +2855,6 @@
 - [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration.
 - [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs
 - [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art.
-- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -3086,13 +2936,11 @@
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
-- [couds/react-bulma-components](https://github.com/couds/react-bulma-components) - React components for Bulma framework
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
-- [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [ctk-hq/ctk](https://github.com/ctk-hq/ctk) - Visual composer for container based workloads
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -3107,7 +2955,6 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-- [willbamford/tinycrop](https://github.com/willbamford/tinycrop) - Pure JavaScript image crop library
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 
@@ -3136,7 +2983,6 @@
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [caplin/FlexLayout](https://github.com/caplin/FlexLayout) - Docking Layout Manager for React
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
-- [creativetimofficial/light-bootstrap-dashboard-react](https://github.com/creativetimofficial/light-bootstrap-dashboard-react) - React version of Light Bootstrap Dashboard
 
 ## redux 
 
@@ -3240,10 +3086,9 @@
 - [SomeOddCodeGuy/OfflineWikipediaTextApi](https://github.com/SomeOddCodeGuy/OfflineWikipediaTextApi) - This small API downloads and exposes access to NeuML's txtai-wikipedia and full wikipedia datasets, taking in a query and returning full article text
 - [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-grade feature flag platform that you can self-host. Get started - free.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) - Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -3255,7 +3100,6 @@
 ## server 
 
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Add gzip, deflate, and Brotli compression middleware to Node.js HTTP servers.
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [peers/peerjs-server](https://github.com/peers/peerjs-server) - Server for PeerJS
@@ -3271,15 +3115,12 @@
 
 - [jeremyckahn/chitchatter](https://github.com/jeremyckahn/chitchatter) - Secure peer-to-peer chat that is serverless, decentralized, and ephemeral
 - [elpheria/rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets for Node.js and JavaScript/TypeScript
-- [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## shell 
 
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [essserrr/crt-terminal](https://github.com/essserrr/crt-terminal) - Retro styled terminal shell
-- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
@@ -3336,17 +3177,12 @@
 - [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde) - A crowdsourced distributed cluster for AI art and text generation
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
-- [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
-- [hollobit/GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 
 ## statistics 
 
 - [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats) - ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 
 ## storybook 
@@ -3365,7 +3201,7 @@
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -3400,7 +3236,6 @@
 ## tailwindcss 
 
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front-end GUI for interacting with the AI Horde / Stable Diffusion distributed cluster
-- [rooben-me/tone-changer-open](https://github.com/rooben-me/tone-changer-open) - This project is a reverse-engineered version of Figma's tone changer. It uses Groq's Llama-3-8b for high-speed inference and to adjust the tone of input text based on user-selected tones and weights.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
@@ -3422,11 +3257,8 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-- [Elius94/console-gui-tools](https://github.com/Elius94/console-gui-tools) - A simple library to draw option menu or other popup inputs and layout on Node.js console.
-- [MarketingPipeline/Termino.js](https://github.com/MarketingPipeline/Termino.js) - Create a web based terminal on any website - great for games, animations and real world apps!
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [essserrr/crt-terminal](https://github.com/essserrr/crt-terminal) - Retro styled terminal shell
-- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
@@ -3517,7 +3349,6 @@
 - [rsuite/rsuite](https://github.com/rsuite/rsuite) - 🧱 A suite of React components .
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
-- [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects.
@@ -3527,7 +3358,7 @@
 - [feliperyba/cocoscraft](https://github.com/feliperyba/cocoscraft) - Simple Voxel world engine and Minecraft-like playability made with Cocos Creator v3.8.8 and TypeScript
 - [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
-- [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
+- [undb-io/undb](https://github.com/undb-io/undb) - Archived. Moved to Teable.
 - [MichaelCurrin/auto-commit-msg](https://github.com/MichaelCurrin/auto-commit-msg) - A VS Code extension to generate a smart commit message based on file changes
 - [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
@@ -3563,13 +3394,11 @@
 - [frenic/csstype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [jnsmalm/pixi3d](https://github.com/jnsmalm/pixi3d) - The 3D renderer for PixiJS. Seamless integration with 2D applications.
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies.
 - [sindresorhus/is](https://github.com/sindresorhus/is) - Type check values
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
-- [PhaserEditor2D/PhaserEditor2D-v3](https://github.com/PhaserEditor2D/PhaserEditor2D-v3) - A web-based IDE for HTML5 game development. Powered by Phaser.
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 - [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
@@ -3629,7 +3458,6 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
-- [jsfehler/phaser-ui-tools](https://github.com/jsfehler/phaser-ui-tools) - UI Kit for the Phaser game engine. Rows, columns, viewports, scrollbars, stuff like that.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [wanadev/PhotonUI](https://github.com/wanadev/PhotonUI) - A javascript framework to create user interfaces
@@ -3670,9 +3498,7 @@
 ## visual-studio-code 
 
 - [skfrost19/Docx-Viewer](https://github.com/skfrost19/Docx-Viewer) - VSCode extension to view docx / ODT files within the editor.
-- [axelrindle/vscode-webp](https://github.com/axelrindle/vscode-webp) - VSCode Extension for converting images into the WebP format.
 - [vscode-shellcheck/vscode-shellcheck](https://github.com/vscode-shellcheck/vscode-shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
-- [PROxZIMA/sweet-dracula](https://github.com/PROxZIMA/sweet-dracula) - Sweet Dracula — A beautiful, darker - Dracula fork.
 - [Sertion/vscode-gitblame](https://github.com/Sertion/vscode-gitblame) - Visual Studio Code Extension - See Git Blame info in status bar or in-line.
 - [microsoft/vscode-remote-release](https://github.com/microsoft/vscode-remote-release) - Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
@@ -3680,7 +3506,6 @@
 - [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
-- [microsoft/live-share](https://github.com/microsoft/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## visualization 
@@ -3730,20 +3555,14 @@
 
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [rune/rune](https://github.com/rune/rune) - Build multiplayer web games played by millions! 👾 You focus on your game, Rune handles everything else, incl. backend and networking 🚀 Make your game using JavaScript / TypeScript and any frontend web
-- [rahuldshetty/llm.js](https://github.com/rahuldshetty/llm.js) - Run Large-Language Models (LLMs) 🚀 directly in your browser!
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [cloudcmd/gritty](https://github.com/cloudcmd/gritty) - web terminal emulator
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [chinchang/web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend code editor
 - [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
-- [liabru/matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-
-## web-assembly 
-
-- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 
 ## web-components 
 
@@ -3761,9 +3580,7 @@
 ## webapp 
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [atomicptr/dauntless-builder-reforged](https://github.com/atomicptr/dauntless-builder-reforged) - [Reforged Version] Create and share Dauntless builds with your friends!
-- [lospec/pixel-editor](https://github.com/lospec/pixel-editor) - An online canvas based Pixel Art creation tool for Lospec.com
 - [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github) - Tool for visualizing GitHub profiles
 
 ## webpack 
@@ -3778,7 +3595,6 @@
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [gautamkrishnar/nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.   Previously hosted at nothingprivate.ml
-- [OneHourGameJam/OneHourGameJam](https://github.com/OneHourGameJam/OneHourGameJam) - One Hour Game Jam website
 
 ## windows 
 
@@ -3790,7 +3606,6 @@
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [westy92/html-pdf-chrome](https://github.com/westy92/html-pdf-chrome) - HTML to PDF or image (jpeg, png, webp) converter via Chrome/Chromium
-- [painebenjamin/app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is an open-source web app for making studio-grade images and video using generative AI.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -3803,7 +3618,6 @@
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
 - [vhanla/winxcorners](https://github.com/vhanla/winxcorners) - Hot corners for Windows 10 & 11
-- [1j01/98](https://github.com/1j01/98) - 💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [bencevans/screenshot-desktop](https://github.com/bencevans/screenshot-desktop) - 💻 Capture a screenshot of your local machine
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -3826,7 +3640,6 @@
 
 ## zsh 
 
-- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
