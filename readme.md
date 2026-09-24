@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -341,6 +342,12 @@
 - [kucherenko/jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## ai-agent 
+
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 
 ## ai-agents 
 
@@ -2260,6 +2267,7 @@
 
 ## others 
 
+- [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
 - [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
 - [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - Your AI is trapped in apps. We set it free — Self-hostable AI stack for multi-user, multi-agent workflows on Matrix.
 - [lemonade-sdk/thenoise](https://github.com/lemonade-sdk/thenoise) - A fast diffusion model engine for image generation and editing.
