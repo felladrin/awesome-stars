@@ -293,6 +293,7 @@
 
 ## ai 
 
+- [FuJacob/cotabby](https://github.com/FuJacob/cotabby) - Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependenc
@@ -1760,7 +1761,7 @@
 ## llm 
 
 - [Yamz-Labs/kyojin](https://github.com/Yamz-Labs/kyojin) - Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.
-- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,628.52pp, 59.41tg single user, 157.22 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
+- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,639.03pp, 60.36tg single user, 157.22 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
 - [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform
 - [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) - The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
@@ -1868,6 +1869,7 @@
 
 ## macos 
 
+- [FuJacob/cotabby](https://github.com/FuJacob/cotabby) - Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [NeelM0906/Mference](https://github.com/NeelM0906/Mference) - Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s decode with 2.20× faster long-prompt prefill on a 24 GB M5; Gemma 4 26B in ~2 GB, DeepSeek-V4-Flash 284B, Inkling-Small 2
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -2787,6 +2789,7 @@
 
 ## productivity 
 
+- [FuJacob/cotabby](https://github.com/FuJacob/cotabby) - Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
