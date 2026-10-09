@@ -1733,6 +1733,7 @@
 
 ## linux 
 
+- [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -1761,7 +1762,7 @@
 ## llm 
 
 - [Yamz-Labs/kyojin](https://github.com/Yamz-Labs/kyojin) - Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.
-- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,644.68pp, 59.02tg single user, 157.22 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
+- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,700.52pp, 60.39tg single user, 162.98 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
 - [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform
 - [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) - The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
@@ -1872,6 +1873,7 @@
 - [FuJacob/cotabby](https://github.com/FuJacob/cotabby) - Cotabby is local AI autocomplete for your entire Mac. Open source. On device. Everywhere you type.
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [NeelM0906/Mference](https://github.com/NeelM0906/Mference) - Swift + Metal MoE inference for Apple Silicon: Qwen 3.6 35B at 23.5–29.3 tok/s decode with 2.20× faster long-prompt prefill on a 24 GB M5; Gemma 4 26B in ~2 GB, DeepSeek-V4-Flash 284B, Inkling-Small 2
+- [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
@@ -3606,6 +3608,7 @@
 
 ## windows 
 
+- [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager with rich previews, inline images, bulk actions, and trash support
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
