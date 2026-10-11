@@ -1113,6 +1113,7 @@
 
 ## gis 
 
+- [earthwalker17/map-of-middle-earth](https://github.com/earthwalker17/map-of-middle-earth) - A cinematic floating miniature diorama of Middle-earth rendered with three.js WebGPU + TSL: terrain from community GIS data, atmosphere, vegetation, effects and 24 landmarks, captured deterministicall
 - [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap) - Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
 
 ## git 
@@ -1760,7 +1761,7 @@
 ## llm 
 
 - [Yamz-Labs/kyojin](https://github.com/Yamz-Labs/kyojin) - Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.
-- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,700.52pp, 60.39tg single user, 162.98 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
+- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,702.93pp, 65.25tg single user, 184.74 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
 - [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform
 - [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) - The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
@@ -3336,6 +3337,7 @@
 
 ## typescript 
 
+- [earthwalker17/map-of-middle-earth](https://github.com/earthwalker17/map-of-middle-earth) - A cinematic floating miniature diorama of Middle-earth rendered with three.js WebGPU + TSL: terrain from community GIS data, atmosphere, vegetation, effects and 24 landmarks, captured deterministicall
 - [aminueza/azure-devops-extension-mock](https://github.com/aminueza/azure-devops-extension-mock) - Jest mock for the Azure DevOps Extension SDK & REST API, test extensions without a live org.
 - [orchetron/secondwind](https://github.com/orchetron/secondwind) - Losslessly compress the tool output your AI agent sends the model, prove every value survived, and report the exact tokens removed. Run it as a proxy, a library, or middleware.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
