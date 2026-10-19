@@ -558,7 +558,6 @@
 - [trasta298/keifu](https://github.com/trasta298/keifu) - Git genealogy, untangled. A TUI for navigating commit graphs with color and clarity.
 - [elio-fm/elio](https://github.com/elio-fm/elio) - Snappy, batteries-included terminal file manager.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity 
 - [programmersd21/flow](https://github.com/programmersd21/flow) - see ur network breathe
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [rshelekhov/lazymake](https://github.com/rshelekhov/lazymake) - Modern TUI for Makefiles with interactive target selection, dependency    visualization, and command safety analysis
@@ -1755,7 +1754,7 @@
 ## llm 
 
 - [Yamz-Labs/kyojin](https://github.com/Yamz-Labs/kyojin) - Kyojin: the Yamz inference engine for AMD Strix Halo (ROCm, gfx1151), built on ExLlamaV3. Runs 300B-class MoE models on one 128 GB mini PC.
-- [gufo-org/gufo](https://github.com/gufo-org/gufo) - The Open Source Strix Halo AI engine. Qwen 3.8  Flash Next Q4_K_XL: 1787.54 pp, 73.17 tg single user, 194.37 tok/s 8 users; Qwen 3.8 27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
+- [gufo-org/gufo](https://github.com/gufo-org/gufo) - The Open Source Strix Halo AI engine. Qwen 3.8  Flash Next Q4_K_XL: 1,801.01 pp, 73.17 tg single user, 194.37 tok/s 8 users; Qwen 3.8 27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
 - [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform
 - [peonist-ai/halogen-flash-server](https://github.com/peonist-ai/halogen-flash-server) - The fastest way to run Qwen3.8-Flash-Next on Strix Halo (gfx1151)
