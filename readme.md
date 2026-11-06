@@ -1774,7 +1774,7 @@
 
 ## llm 
 
-- [Yamz-Labs/kyojin](https://github.com/Yamz-Labs/kyojin) - Kyojin: open-source engine that runs the largest open models on one mini PC or one graphics card, about 2× faster than llama.cpp. AMD (ROCm) and NVIDIA (CUDA), built on ExLlamaV3.
+- [Yamz-Labs/kyojin](https://github.com/Yamz-Labs/kyojin) - Kyojin: open-source engine that runs 100 GB-class open models (GLM-5.3, Qwen3.8, DeepSeek V4.1) on one desktop machine. AMD Strix Halo, NVIDIA RTX and Apple Mac. OpenAI API, built on ExLlamaV3.
 - [gufo-org/gufo](https://github.com/gufo-org/gufo) - The Open Source Strix Halo AI engine. Qwen 3.8  Flash Next Q4_K_XL: 1,801.01 pp, 73.17 tg single user, 194.37 tok/s 8 users; Qwen 3.8 27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
 - [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom) - AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.
 - [Prism-Shadow/penguin-harness](https://github.com/Prism-Shadow/penguin-harness) - 🐧 Unified and Stable RSI Platform
