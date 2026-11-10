@@ -2299,6 +2299,7 @@
 
 ## others 
 
+- [phoboslab/pl_synth](https://github.com/phoboslab/pl_synth) - A synthesizer and tracker software for native C/C++ and JS
 - [niker/pi-voluntary-compaction](https://github.com/niker/pi-voluntary-compaction) - Voluntary agent-driven context compaction suite for Pi harness.
 - [True2456/qwen-ane](https://github.com/True2456/qwen-ane) - Run Qwen3.8-Flash-Next and Qwen3.8-27B on Apple Silicon Neural Engine
 - [QwenLM/Qwen-Live-Harness](https://github.com/QwenLM/Qwen-Live-Harness) - An open-source agent harness powered by the Qwen Omni Realtime API—see, hear, and act, with built-in memory.
@@ -2589,7 +2590,6 @@
 - [emreyolcu/discrete-scroll](https://github.com/emreyolcu/discrete-scroll) - Fix for macOS's unnecessary scroll wheel acceleration
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
-- [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) - GitHub star ranking for users, organizations and repositories
 - [xem/MiniSoundEditor](https://github.com/xem/MiniSoundEditor) - 
 - [flozz/StackBlur](https://github.com/flozz/StackBlur) - Fast and almost Gaussian blur
 - [EventSource/eventsource](https://github.com/EventSource/eventsource) - EventSource client for Node.js, browsers and other JavaScript runtimes
