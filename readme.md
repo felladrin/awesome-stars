@@ -1450,6 +1450,7 @@
 - [Jzou44/photo2pixel](https://github.com/Jzou44/photo2pixel) - Algorithm used in photo2pixel.co to convert photo to pixel style(8-bit) art.
 - [imagescript/ImageScript](https://github.com/imagescript/ImageScript) - Pure TypeScript image processing that runs everywhere
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 
 ## ios 
 
@@ -1633,6 +1634,7 @@
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
@@ -2204,6 +2206,7 @@
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [greenheartgames/greenworks](https://github.com/greenheartgames/greenworks) - a node.js plugin to integrate nw.js/electron games with steamworks
@@ -2622,7 +2625,6 @@
 - [Unity-Technologies/AssetBundles-Browser](https://github.com/Unity-Technologies/AssetBundles-Browser) - Editor tool for viewing and debugging asset bundle contents before and after builds
 - [valor-software/ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [paradoxxxzero/gnome-shell-system-monitor-applet](https://github.com/paradoxxxzero/gnome-shell-system-monitor-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [numixproject/numix-icon-theme](https://github.com/numixproject/numix-icon-theme) - Official base icon theme from the Numix project.
 - [KDE/plasma-desktop](https://github.com/KDE/plasma-desktop) - Plasma for the Desktop
@@ -3481,6 +3483,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio.
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
